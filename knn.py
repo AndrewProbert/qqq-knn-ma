@@ -2,13 +2,19 @@ import yfinance as yf
 import numpy as np
 import matplotlib.pyplot as plt
 import mplfinance as mpf
-import pandas as pd
 
-
-def fetch_price_data(symbol, start_date, end_date, timeframe):
-    # Fetch historical price data from Yahoo Finance with the specified timeframe
-    df = yf.download(symbol, start=start_date, end=end_date, interval=timeframe)
+def fetch_price_data(symbol, start_date, end_date, interval):
+    # Fetch historical price data from Yahoo Finance with the specified interval
+    df = yf.download(symbol, start=start_date, end=end_date, interval=interval)
     return df['Adj Close'].values
+
+
+"""
+def fetch_5_minute_data(symbol, start_date, end_date):
+    # Fetch historical 5-minute price data from Yahoo Finance
+    df = yf.download(symbol, start=start_date, end=end_date, interval='5m')
+    return df['Adj Close'].values
+    """
 
 def calculate_knn_ma(price_values, ma_len):
     knn_ma = [np.mean(price_values[i-ma_len:i]) for i in range(ma_len, len(price_values))]
@@ -22,7 +28,10 @@ def calculate_ema(price_values, ema_len):
     for i in range(ema_len, len(price_values)):
         ema[i] = (price_values[i] - ema[i-1]) * multiplier + ema[i-1]
 
+    
+
     return ema
+
 
 def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothing_period=50):
     def mean_of_k_closest(value, target, num_closest):
@@ -56,8 +65,6 @@ def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothi
             return 0  # Return 0 for neutral if there aren't enough elements
         
         for j in range(1, min(10, len(knn_ma))):
-            if j > nearest_index:
-                continue  # Skip if j is greater than nearest_index
             distance = np.sqrt((knn_ma[j] - price) ** 2)
             if distance < min_distance:
                 min_distance = distance
@@ -72,31 +79,32 @@ def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothi
         
         return 1 if pos_count > neg_count else -1
 
-    knn_predictions = [knn_prediction(price_values[i], knn_ma, knn_smoothed)  # Removed indexing
+    knn_predictions = [knn_prediction(price_values[i], knn_ma[i - smoothing_period:i], knn_smoothed[i - smoothing_period:i])
                        for i in range(smoothing_period, len(price_values))]
 
     return knn_predictions
 
+
+
+
+
+
+
+
 # Example usage:
 symbol = 'QQQ'  # Replace with the stock symbol you want to fetch data for
 start_date = '2023-08-01'  # Replace with your desired start date
-end_date = '2023-09-16'  # Replace with your desired end date
+end_date = '2023-09-09'  # Replace with your desired end date
 
-# Select the desired timeframe (1m, 5m, 15m, 30m, 45m, 1h, 2h, 4h, 1d)
-timeframe = '15m'  # Replace with the desired timeframe
+# Specify the chart interval (1m, 5m, 15m, 30m, 1h, 2h, 4h, 1d)
+chart_interval = '30m'  # Change this to the desired interval
 
-# Fetch candlestick data
-candle_data = fetch_price_data(symbol, start_date, end_date, timeframe)
+# Fetch price data with the specified interval
+price_data = fetch_price_data(symbol, start_date, end_date, chart_interval)
 
-# Adjust the parameters as needed
+# Calculate KNN moving average with a specified MA length
 ma_len = 5
-num_closest_values = 3
-smoothing_period = 50
-
-# Use the 'Adj Close' column as a Pandas Series
-price_data = candle_data['Adj Close']
-
-predictions = calculate_knn_prediction(price_data, ma_len, num_closest_values, smoothing_period)
+knn_ma = calculate_knn_ma(price_data, ma_len)
 
 # Calculate 5-period Exponential Moving Average (EMA)
 ema_len = 5
@@ -108,21 +116,17 @@ time = np.arange(len(price_data))
 # Find the index where EMA first becomes non-zero
 ema_start_index = np.argmax(ema != 0)
 
-# Convert candle_data to DataFrame for mplfinance
-candle_data_df = pd.DataFrame({'Date': candle_data.index,
-                               'Open': candle_data['Open'],
-                               'High': candle_data['High'],
-                               'Low': candle_data['Low'],
-                               'Close': candle_data['Adj Close'],
-                               'Volume': candle_data['Volume']})
-
-# Plot the candlestick chart, KNN MA, and EMA
-fig, axes = mpf.plot(candle_data_df, type='candle', style='charles', returnfig=True)
-# Align KNN MA with candle data
-knn_ma_aligned = [np.nan] * len(price_data) + knn_ma
-axes[0].plot(time, knn_ma_aligned, label=f'KNN MA ({ma_len}-Period)', color='orange')
+# Plot the chart, KNN MA, and EMA on the same graph
+plt.figure(figsize=(12, 6))
+plt.plot(time, price_data, label=f'{chart_interval} Chart', color='blue')
+plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange')
 if ema_start_index > 0:
-    axes[0].plot(time[ema_start_index:], ema[ema_start_index:], label=f'5-Period EMA', color='green')
-axes[0].set_title(f'{symbol} Candlestick Chart with KNN MA and 5-Period EMA')
-axes[0].legend()
+    plt.plot(time[ema_start_index:], ema[ema_start_index:], label=f'5-Period EMA', color='green')
+plt.xlabel('Time')
+plt.ylabel('Price')
+plt.title(f'{symbol} {chart_interval} Chart with KNN MA and 5-Period EMA')
+plt.legend()
+plt.grid(True)
 plt.show()
+
+
