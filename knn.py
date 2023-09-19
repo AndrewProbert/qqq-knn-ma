@@ -107,26 +107,33 @@ ma_len = 5
 knn_ma = calculate_knn_ma(price_data, ma_len)
 
 # Calculate 5-period Exponential Moving Average (EMA)
-ema_len = 5
-ema = calculate_ema(price_data, ema_len)
+ema_len_5 = 5
+ema_5 = calculate_ema(price_data, ema_len_5)
+
+# Calculate 9-day Exponential Moving Average (EMA)
+ema_len_9 = 9
+ema_9 = calculate_ema(price_data, ema_len_9)
 
 # Create a time array for x-axis
 time = np.arange(len(price_data))
 
 # Find the index where EMA first becomes non-zero
-ema_start_index = np.argmax(ema != 0)
+ema_start_index_5 = np.argmax(ema_5 != 0)
+ema_start_index_9 = np.argmax(ema_9 != 0)
 
-# Plot the chart, KNN MA, and EMA on the same graph
+# Plot the chart, KNN MA, 5-day EMA, and 9-day EMA on the same graph
 plt.figure(figsize=(12, 6))
 plt.plot(time, price_data, label=f'{chart_interval} Chart', color='blue')
 plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange')
-if ema_start_index > 0:
-    plt.plot(time[ema_start_index:], ema[ema_start_index:], label=f'5-Period EMA', color='green')
+if ema_start_index_5 > 0:
+    plt.plot(time[ema_start_index_5:], ema_5[ema_start_index_5:], label=f'5-Day EMA', color='green')
+if ema_start_index_9 > 0:
+    plt.plot(time[ema_start_index_9:], ema_9[ema_start_index_9:], label=f'9-Day EMA', color='purple')
 plt.xlabel('Time')
 plt.ylabel('Price')
-plt.title(f'{symbol} {chart_interval} Chart with KNN MA and 5-Period EMA')
+plt.title(f'{symbol} {chart_interval} Chart with KNN MA and EMA')
 plt.legend()
 plt.grid(True)
 plt.show()
 
-
+#Instead of just using a ema as a stop loss we should use the rate of the how the slope value is decreasing in volatility.
