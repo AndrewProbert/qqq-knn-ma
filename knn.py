@@ -2,6 +2,8 @@ import yfinance as yf
 import numpy as np
 import matplotlib.pyplot as plt
 import mplfinance as mpf
+from datetime import date, timedelta, datetime
+
 
 def fetch_price_data(symbol, start_date, end_date, interval):
     # Fetch historical price data from Yahoo Finance with the specified interval
@@ -9,12 +11,9 @@ def fetch_price_data(symbol, start_date, end_date, interval):
     return df['Adj Close'].values
 
 
-"""
-def fetch_5_minute_data(symbol, start_date, end_date):
-    # Fetch historical 5-minute price data from Yahoo Finance
-    df = yf.download(symbol, start=start_date, end=end_date, interval='5m')
-    return df['Adj Close'].values
-    """
+
+
+
 
 def calculate_knn_ma(price_values, ma_len):
     knn_ma = [np.mean(price_values[i-ma_len:i]) for i in range(ma_len, len(price_values))]
@@ -31,6 +30,8 @@ def calculate_ema(price_values, ema_len):
     
 
     return ema
+
+
 
 
 def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothing_period=50):
@@ -93,11 +94,31 @@ def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothi
 
 # Example usage:
 symbol = 'QQQ'  # Replace with the stock symbol you want to fetch data for
-start_date = '2023-08-01'  # Replace with your desired start date
-end_date = '2023-09-09'  # Replace with your desired end date
 
-# Specify the chart interval (1m, 5m, 15m, 30m, 1h, 2h, 4h, 1d)
-chart_interval = '30m'  # Change this to the desired interval
+# Get the current date
+current_date = date.today()
+
+# Specify the chart interval (1m, 2m, 5m, 15m, 30m, 1h, 1d)
+chart_interval = '1m'  # Change this to the desired interval
+
+if chart_interval == '1m':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=7)
+    end_date = current_date
+elif chart_interval == '2m' or chart_interval == '5m' or chart_interval == '15m' or chart_interval == '30m':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=60)
+    end_date = current_date
+elif chart_interval == '1h':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=730)
+    end_date = current_date
+else:
+    print('Invalid chart interval entered. Defaulting to 1 day.')
+    chart_interval = '1d'
+    # Include the current day's data
+    start_date = current_date - timedelta(days=5000)
+    end_date = current_date
 
 # Fetch price data with the specified interval
 price_data = fetch_price_data(symbol, start_date, end_date, chart_interval)
@@ -127,8 +148,8 @@ plt.plot(time, price_data, label=f'{chart_interval} Chart', color='blue')
 plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange')
 if ema_start_index_5 > 0:
     plt.plot(time[ema_start_index_5:], ema_5[ema_start_index_5:], label=f'5-Day EMA', color='green')
-if ema_start_index_9 > 0:
-    plt.plot(time[ema_start_index_9:], ema_9[ema_start_index_9:], label=f'9-Day EMA', color='purple')
+#if ema_start_index_9 > 0:
+#    plt.plot(time[ema_start_index_9:], ema_9[ema_start_index_9:], label=f'9-Day EMA', color='purple')
 plt.xlabel('Time')
 plt.ylabel('Price')
 plt.title(f'{symbol} {chart_interval} Chart with KNN MA and EMA')
