@@ -3,7 +3,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 import mplfinance as mpf
 from datetime import date, timedelta, datetime
-
+import pandas_datareader as web
+import yfinance as yf
+import pandas_datareader as pdr
+import requests
+import json
+from bs4 import BeautifulSoup
+import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+import subprocess
 
 def fetch_price_data(symbol, start_date, end_date, interval):
     # Fetch historical price data from Yahoo Finance with the specified interval
@@ -12,7 +22,18 @@ def fetch_price_data(symbol, start_date, end_date, interval):
 
 
 
+php_output = subprocess.check_output(["php", "subscript.php"], universal_newlines=True)
 
+
+# Process the PHP output or do any other necessary operations
+# For example, you can extract a value from the PHP output
+value_from_php = (php_output.strip())
+
+
+# Use the value or perform further actions
+print("\n")
+print("Value from PHP:", value_from_php)
+print("\n")
 
 
 def calculate_knn_ma(price_values, ma_len):
@@ -99,7 +120,7 @@ symbol = 'QQQ'  # Replace with the stock symbol you want to fetch data for
 current_date = date.today()
 
 # Specify the chart interval (1m, 2m, 5m, 15m, 30m, 1h, 1d)
-chart_interval = '1m'  # Change this to the desired interval
+chart_interval = '15m'  # Change this to the desired interval
 
 if chart_interval == '1m':
     # Include the current day's data
@@ -107,7 +128,7 @@ if chart_interval == '1m':
     end_date = current_date
 elif chart_interval == '2m' or chart_interval == '5m' or chart_interval == '15m' or chart_interval == '30m':
     # Include the current day's data
-    start_date = current_date - timedelta(days=60)
+    start_date = current_date - timedelta(days=55)
     end_date = current_date
 elif chart_interval == '1h':
     # Include the current day's data
