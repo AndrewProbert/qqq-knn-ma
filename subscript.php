@@ -9,7 +9,7 @@ $symbol ='QQQ';
 
 function getYahooFinanceCloseData() {
     // Specify the URL of the Yahoo Finance API
-    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/qqq?interval=5m&range=60d';
+    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/qqq?interval=1m&range=5d';
 
     // Fetch the JSON data from the URL
     $jsonData = file_get_contents($url);
@@ -38,7 +38,7 @@ $closeData = getYahooFinanceCloseData();
 
 if ($closeData !== false) {
     foreach ($closeData as $closePrice) {
-        echo "Close Price: $closePrice" . PHP_EOL;
+        echo $closePrice . PHP_EOL;
     }
 } else {
     echo "Failed to retrieve data from Yahoo Finance API." . PHP_EOL;
@@ -53,9 +53,9 @@ $stock_data = getYahooFinanceCloseData();
 
 // Print the data and capture the output
 ob_start();
-print_r($stock_data);
+//print_r($stock_data);
 $output = ob_get_clean();
-
+//echo $output;
 // Write the output to the file
 file_put_contents("stock_data.txt", $output);
 

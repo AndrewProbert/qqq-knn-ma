@@ -1,10 +1,24 @@
+import yfinance as yf
 import numpy as np
 import matplotlib.pyplot as plt
+import mplfinance as mpf
+from datetime import date, timedelta, datetime
+import pandas_datareader as web
+import yfinance as yf
+import pandas_datareader as pdr
+import requests
+import json
+from bs4 import BeautifulSoup
+import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 import time
 import subprocess
-import re
-import pandas as pd
-import numpy as np
+
+def fetch_price_data(symbol, start_date, end_date, interval):
+    # Fetch historical price data from Yahoo Finance with the specified interval
+    df = yf.download(symbol, start=start_date, end=end_date, interval=interval)
+    return df['Adj Close'].values
 
 
 
@@ -16,25 +30,10 @@ php_output = subprocess.check_output(["php", "subscript.php"], universal_newline
 value_from_php = (php_output.strip())
 
 
-# Use regular expressions to find lines containing numeric values
-numeric_lines = re.findall(r'\d+\.\d+', php_output)
-
-# Join the numeric lines into a single string
-filtered_string = '\n'.join(numeric_lines)
-
-# Print the filtered string
-print(filtered_string)
-
-
-# Split the filtered string into lines and convert them to floats
-numeric_data = [float(line.strip()) for line in filtered_string.split('\n')]
-
-# Create a DataFrame similar to the one returned by yf.download
-df = pd.DataFrame({'Adj Close': numeric_data})
-
-# Simulate the fetch_price_data function by returning the 'Adj Close' values as a NumPy array
-price_data = df['Adj Close'].values
-
+# Use the value or perform further actions
+print("\n")
+print("Value from PHP:", value_from_php)
+print("\n")
 
 
 def calculate_knn_ma(price_values, ma_len):
@@ -110,6 +109,41 @@ def calculate_knn_prediction(price_values, ma_len, num_closest_values=3, smoothi
 
 
 
+
+
+
+
+# Example usage:
+symbol = 'QQQ'  # Replace with the stock symbol you want to fetch data for
+
+# Get the current date
+current_date = date.today()
+
+# Specify the chart interval (1m, 2m, 5m, 15m, 30m, 1h, 1d)
+chart_interval = '15m'  # Change this to the desired interval
+
+if chart_interval == '1m':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=7)
+    end_date = current_date
+elif chart_interval == '2m' or chart_interval == '5m' or chart_interval == '15m' or chart_interval == '30m':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=55)
+    end_date = current_date
+elif chart_interval == '1h':
+    # Include the current day's data
+    start_date = current_date - timedelta(days=730)
+    end_date = current_date
+else:
+    print('Invalid chart interval entered. Defaulting to 1 day.')
+    chart_interval = '1d'
+    # Include the current day's data
+    start_date = current_date - timedelta(days=5000)
+    end_date = current_date
+
+# Fetch price data with the specified interval
+price_data = fetch_price_data(symbol, start_date, end_date, chart_interval)
+
 # Calculate KNN moving average with a specified MA length
 ma_len = 5
 knn_ma = calculate_knn_ma(price_data, ma_len)
@@ -128,10 +162,10 @@ time = np.arange(len(price_data))
 # Find the index where EMA first becomes non-zero
 ema_start_index_5 = np.argmax(ema_5 != 0)
 ema_start_index_9 = np.argmax(ema_9 != 0)
-'''
+
 # Plot the chart, KNN MA, 5-day EMA, and 9-day EMA on the same graph
 plt.figure(figsize=(12, 6))
-plt.plot(time, price_data, label=f' Chart', color='blue')
+plt.plot(time, price_data, label=f'{chart_interval} Chart', color='blue')
 plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange')
 if ema_start_index_5 > 0:
     plt.plot(time[ema_start_index_5:], ema_5[ema_start_index_5:], label=f'5-Day EMA', color='green')
@@ -139,31 +173,7 @@ if ema_start_index_5 > 0:
 #    plt.plot(time[ema_start_index_9:], ema_9[ema_start_index_9:], label=f'9-Day EMA', color='purple')
 plt.xlabel('Time')
 plt.ylabel('Price')
-plt.title(f'{"QQQ"} {""} Chart with KNN MA and EMA')
-plt.legend()
-plt.grid(True)
-plt.show()
-'''
-
-# Plot the chart, KNN MA, 5-day EMA, and 9-day EMA on the same graph
-plt.figure(figsize=(12, 6))
-plt.plot(time, price_data, label=f' Chart', color='blue')
-plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange')
-if ema_start_index_5 > 0:
-    plt.plot(time[ema_start_index_5:], ema_5[ema_start_index_5:], label=f'5-Day EMA', color='green')
-
-# Adding red vertical lines at all data entry points
-for entry_point in range(len(time)):
-    plt.axvline(x=entry_point, color='red', linestyle='--', alpha=0.5)
-
-# Adding black lines where 5-day EMA crosses over the KNN MA
-crossovers = [i for i in range(ema_start_index_5, len(time)) if (ema_5[i] > knn_ma[i - ma_len]) and (ema_5[i - 1] <= knn_ma[i - ma_len - 1])]
-for crossover in crossovers:
-    plt.axvline(x=crossover, color='black', linestyle='-', alpha=0.7)
-
-plt.xlabel('Time')
-plt.ylabel('Price')
-plt.title(f'{"QQQ"} {""} Chart with KNN MA and EMA')
+plt.title(f'{symbol} {chart_interval} Chart with KNN MA and EMA')
 plt.legend()
 plt.grid(True)
 plt.show()
