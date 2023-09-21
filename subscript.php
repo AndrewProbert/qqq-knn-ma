@@ -9,7 +9,7 @@ $symbol ='QQQ';
 
 function getYahooFinanceCloseData() {
     // Specify the URL of the Yahoo Finance API
-    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/qqq?interval=1m&range=5d';
+    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/qqq?interval=5m&range=60d';
 
     // Fetch the JSON data from the URL
     $jsonData = file_get_contents($url);

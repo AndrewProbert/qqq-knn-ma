@@ -5,7 +5,7 @@ import subprocess
 import re
 import pandas as pd
 import numpy as np
-
+import csv
 
 
 php_output = subprocess.check_output(["php", "subscript.php"], universal_newlines=True)
@@ -23,7 +23,7 @@ numeric_lines = re.findall(r'\d+\.\d+', php_output)
 filtered_string = '\n'.join(numeric_lines)
 
 # Print the filtered string
-print(filtered_string)
+#print(filtered_string)
 
 
 # Split the filtered string into lines and convert them to floats
@@ -145,6 +145,38 @@ plt.grid(True)
 plt.show()
 '''
 
+import csv
+
+# Create a list to store the data along with highlighting information
+highlighted_data = []
+
+for i in range(len(time)):
+    time_point = time[i]
+    price_point = price_data[i]
+    ema_point = ema_5[i] if i >= ema_start_index_5 else None
+    knn_ma_point = knn_ma[i - ma_len] if i >= ma_len else None
+
+    if ema_point is not None and knn_ma_point is not None:
+        if ema_point > knn_ma_point:
+            highlighted_data.append([time_point, price_point, ema_point, knn_ma_point, 'Green'])
+        else:
+            highlighted_data.append([time_point, price_point, ema_point, knn_ma_point, 'Red'])
+    else:
+        highlighted_data.append([time_point, price_point, ema_point, knn_ma_point, ''])
+
+# Define the CSV file name
+csv_file_name = 'output_data.csv'
+
+# Write the data to the CSV file
+with open(csv_file_name, mode='w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Time', 'Price', '5-Day EMA', 'KNN MA', 'Highlight'])
+    writer.writerows(highlighted_data)
+
+print(f'Data saved to {csv_file_name}')
+
+
+
 # Plot the chart, KNN MA, 5-day EMA, and 9-day EMA on the same graph
 plt.figure(figsize=(12, 6))
 plt.plot(time, price_data, label=f' Chart', color='blue')
@@ -152,14 +184,17 @@ plt.plot(time[ma_len:], knn_ma, label=f'KNN MA ({ma_len}-Period)', color='orange
 if ema_start_index_5 > 0:
     plt.plot(time[ema_start_index_5:], ema_5[ema_start_index_5:], label=f'5-Day EMA', color='green')
 
+# Adding vertical lines with green for EMA above KNN and red for EMA below KNN
+for i in range(ema_start_index_5 + 1, len(time)):
+    if ema_5[i] > knn_ma[i - ma_len] and ema_5[i - 1] <= knn_ma[i - ma_len - 1]:
+        plt.axvline(x=i, color='green', linestyle='-', alpha=0.7)
+    elif ema_5[i] < knn_ma[i - ma_len] and ema_5[i - 1] >= knn_ma[i - ma_len - 1]:
+        plt.axvline(x=i, color='red', linestyle='-', alpha=0.7)
+
+
 # Adding red vertical lines at all data entry points
 for entry_point in range(len(time)):
-    plt.axvline(x=entry_point, color='red', linestyle='--', alpha=0.5)
-
-# Adding black lines where 5-day EMA crosses over the KNN MA
-crossovers = [i for i in range(ema_start_index_5, len(time)) if (ema_5[i] > knn_ma[i - ma_len]) and (ema_5[i - 1] <= knn_ma[i - ma_len - 1])]
-for crossover in crossovers:
-    plt.axvline(x=crossover, color='black', linestyle='-', alpha=0.7)
+    plt.axvline(x=entry_point, color='blue', linestyle='--', alpha=0.2)
 
 plt.xlabel('Time')
 plt.ylabel('Price')
@@ -167,5 +202,4 @@ plt.title(f'{"QQQ"} {""} Chart with KNN MA and EMA')
 plt.legend()
 plt.grid(True)
 plt.show()
-
 #Instead of just using a ema as a stop loss we should use the rate of the how the slope value is decreasing in volatility.
