@@ -1,0 +1,6291 @@
+Short: 100 shares at $34.23
+Cover: 100 shares at $35.18
+Buy: 100 shares at $35.18
+Sell: 100 shares at $35.25
+Short: 100 shares at $35.25
+Cover: 100 shares at $35.30
+Buy: 100 shares at $35.30
+Sell: 100 shares at $34.91
+Short: 100 shares at $34.91
+Cover: 100 shares at $35.56
+Buy: 100 shares at $35.56
+Sell: 100 shares at $38.08
+Short: 100 shares at $38.08
+Cover: 100 shares at $38.57
+Buy: 100 shares at $38.57
+Sell: 100 shares at $38.15
+Short: 100 shares at $38.15
+Cover: 100 shares at $37.13
+Buy: 100 shares at $37.13
+Sell: 100 shares at $36.94
+Short: 100 shares at $36.94
+Cover: 100 shares at $37.44
+Buy: 100 shares at $37.44
+Sell: 100 shares at $36.98
+Short: 100 shares at $36.98
+Cover: 100 shares at $36.67
+Buy: 100 shares at $36.67
+Sell: 100 shares at $36.42
+Short: 100 shares at $36.42
+Cover: 100 shares at $36.76
+Buy: 100 shares at $36.76
+Sell: 100 shares at $36.63
+Short: 100 shares at $36.63
+Cover: 100 shares at $35.50
+Buy: 100 shares at $35.50
+Sell: 100 shares at $34.75
+Short: 100 shares at $34.75
+Cover: 100 shares at $35.34
+Buy: 100 shares at $35.34
+Sell: 100 shares at $36.94
+Short: 100 shares at $36.94
+Cover: 100 shares at $36.92
+Buy: 100 shares at $36.92
+Sell: 100 shares at $36.20
+Short: 100 shares at $36.20
+Cover: 100 shares at $35.53
+Buy: 100 shares at $35.53
+Sell: 100 shares at $34.67
+Short: 100 shares at $34.67
+Cover: 100 shares at $35.26
+Buy: 100 shares at $35.26
+Sell: 100 shares at $34.75
+Short: 100 shares at $34.75
+Cover: 100 shares at $34.85
+Buy: 100 shares at $34.85
+Sell: 100 shares at $36.42
+Short: 100 shares at $36.42
+Cover: 100 shares at $37.05
+Buy: 100 shares at $37.05
+Sell: 100 shares at $36.32
+Short: 100 shares at $36.32
+Cover: 100 shares at $37.12
+Buy: 100 shares at $37.12
+Sell: 100 shares at $37.04
+Short: 100 shares at $37.04
+Cover: 100 shares at $35.43
+Buy: 100 shares at $35.43
+Sell: 100 shares at $34.40
+Short: 100 shares at $34.40
+Cover: 100 shares at $34.87
+Buy: 100 shares at $34.87
+Sell: 100 shares at $34.21
+Short: 100 shares at $34.21
+Cover: 100 shares at $34.38
+Buy: 100 shares at $34.38
+Sell: 100 shares at $34.23
+Short: 100 shares at $34.23
+Cover: 100 shares at $32.89
+Buy: 100 shares at $32.89
+Sell: 100 shares at $33.98
+Short: 100 shares at $33.98
+Cover: 100 shares at $34.78
+Buy: 100 shares at $34.78
+Sell: 100 shares at $34.14
+Short: 100 shares at $34.14
+Cover: 100 shares at $34.43
+Buy: 100 shares at $34.43
+Sell: 100 shares at $35.43
+Short: 100 shares at $35.43
+Cover: 100 shares at $35.57
+Buy: 100 shares at $35.57
+Sell: 100 shares at $34.95
+Short: 100 shares at $34.95
+Cover: 100 shares at $35.08
+Buy: 100 shares at $35.08
+Sell: 100 shares at $35.58
+Short: 100 shares at $35.58
+Cover: 100 shares at $35.63
+Buy: 100 shares at $35.63
+Sell: 100 shares at $35.80
+Short: 100 shares at $35.80
+Cover: 100 shares at $36.73
+Buy: 100 shares at $36.73
+Sell: 100 shares at $38.68
+Short: 100 shares at $38.68
+Cover: 100 shares at $39.33
+Buy: 100 shares at $39.33
+Sell: 100 shares at $39.12
+Short: 100 shares at $39.12
+Cover: 100 shares at $39.92
+Buy: 100 shares at $39.92
+Sell: 100 shares at $39.58
+Short: 100 shares at $39.58
+Cover: 100 shares at $40.28
+Buy: 100 shares at $40.28
+Sell: 100 shares at $39.95
+Short: 100 shares at $39.95
+Cover: 100 shares at $39.76
+Buy: 100 shares at $39.76
+Sell: 100 shares at $39.50
+Short: 100 shares at $39.50
+Cover: 100 shares at $38.58
+Buy: 100 shares at $38.58
+Sell: 100 shares at $38.07
+Short: 100 shares at $38.07
+Cover: 100 shares at $38.43
+Buy: 100 shares at $38.43
+Sell: 100 shares at $38.08
+Short: 100 shares at $38.08
+Cover: 100 shares at $37.10
+Buy: 100 shares at $37.10
+Sell: 100 shares at $37.11
+Short: 100 shares at $37.11
+Cover: 100 shares at $37.87
+Buy: 100 shares at $37.87
+Sell: 100 shares at $37.47
+Short: 100 shares at $37.47
+Cover: 100 shares at $37.62
+Buy: 100 shares at $37.62
+Sell: 100 shares at $37.30
+Short: 100 shares at $37.30
+Cover: 100 shares at $38.06
+Buy: 100 shares at $38.06
+Sell: 100 shares at $37.52
+Short: 100 shares at $37.52
+Cover: 100 shares at $36.34
+Buy: 100 shares at $36.34
+Sell: 100 shares at $36.05
+Short: 100 shares at $36.05
+Cover: 100 shares at $36.73
+Buy: 100 shares at $36.73
+Sell: 100 shares at $36.20
+Short: 100 shares at $36.20
+Cover: 100 shares at $36.46
+Buy: 100 shares at $36.46
+Sell: 100 shares at $36.50
+Short: 100 shares at $36.50
+Cover: 100 shares at $36.94
+Buy: 100 shares at $36.94
+Sell: 100 shares at $36.48
+Short: 100 shares at $36.48
+Cover: 100 shares at $35.62
+Buy: 100 shares at $35.62
+Sell: 100 shares at $35.10
+Short: 100 shares at $35.10
+Cover: 100 shares at $35.30
+Buy: 100 shares at $35.30
+Sell: 100 shares at $35.95
+Short: 100 shares at $35.95
+Cover: 100 shares at $36.24
+Buy: 100 shares at $36.24
+Sell: 100 shares at $38.08
+Short: 100 shares at $38.08
+Cover: 100 shares at $38.39
+Buy: 100 shares at $38.39
+Sell: 100 shares at $38.10
+Short: 100 shares at $38.10
+Cover: 100 shares at $37.70
+Buy: 100 shares at $37.70
+Sell: 100 shares at $37.81
+Short: 100 shares at $37.81
+Cover: 100 shares at $37.11
+Buy: 100 shares at $37.11
+Sell: 100 shares at $39.27
+Short: 100 shares at $39.27
+Cover: 100 shares at $39.72
+Buy: 100 shares at $39.72
+Sell: 100 shares at $39.67
+Short: 100 shares at $39.67
+Cover: 100 shares at $39.43
+Buy: 100 shares at $39.43
+Sell: 100 shares at $39.21
+Short: 100 shares at $39.21
+Cover: 100 shares at $39.45
+Buy: 100 shares at $39.45
+Sell: 100 shares at $38.81
+Short: 100 shares at $38.81
+Cover: 100 shares at $38.76
+Buy: 100 shares at $38.76
+Sell: 100 shares at $39.18
+Short: 100 shares at $39.18
+Cover: 100 shares at $38.76
+Buy: 100 shares at $38.76
+Sell: 100 shares at $38.76
+Short: 100 shares at $38.76
+Cover: 100 shares at $38.06
+Buy: 100 shares at $38.06
+Sell: 100 shares at $38.03
+Short: 100 shares at $38.03
+Cover: 100 shares at $38.84
+Buy: 100 shares at $38.84
+Sell: 100 shares at $41.54
+Short: 100 shares at $41.54
+Cover: 100 shares at $42.01
+Buy: 100 shares at $42.01
+Sell: 100 shares at $41.56
+Short: 100 shares at $41.56
+Cover: 100 shares at $41.87
+Buy: 100 shares at $41.87
+Sell: 100 shares at $41.58
+Short: 100 shares at $41.58
+Cover: 100 shares at $41.40
+Buy: 100 shares at $41.40
+Sell: 100 shares at $40.99
+Short: 100 shares at $40.99
+Cover: 100 shares at $41.31
+Buy: 100 shares at $41.31
+Sell: 100 shares at $42.70
+Short: 100 shares at $42.70
+Cover: 100 shares at $41.55
+Buy: 100 shares at $41.55
+Sell: 100 shares at $41.43
+Short: 100 shares at $41.43
+Cover: 100 shares at $40.96
+Buy: 100 shares at $40.96
+Sell: 100 shares at $40.49
+Short: 100 shares at $40.49
+Cover: 100 shares at $40.90
+Buy: 100 shares at $40.90
+Sell: 100 shares at $40.75
+Short: 100 shares at $40.75
+Cover: 100 shares at $41.72
+Buy: 100 shares at $41.72
+Sell: 100 shares at $41.45
+Short: 100 shares at $41.45
+Cover: 100 shares at $41.37
+Buy: 100 shares at $41.37
+Sell: 100 shares at $41.11
+Short: 100 shares at $41.11
+Cover: 100 shares at $41.31
+Buy: 100 shares at $41.31
+Sell: 100 shares at $42.26
+Short: 100 shares at $42.26
+Cover: 100 shares at $42.46
+Buy: 100 shares at $42.46
+Sell: 100 shares at $41.96
+Short: 100 shares at $41.96
+Cover: 100 shares at $42.16
+Buy: 100 shares at $42.16
+Sell: 100 shares at $41.67
+Short: 100 shares at $41.67
+Cover: 100 shares at $39.36
+Buy: 100 shares at $39.36
+Sell: 100 shares at $38.82
+Short: 100 shares at $38.82
+Cover: 100 shares at $39.74
+Buy: 100 shares at $39.74
+Sell: 100 shares at $38.78
+Short: 100 shares at $38.78
+Cover: 100 shares at $38.65
+Buy: 100 shares at $38.65
+Sell: 100 shares at $38.19
+Short: 100 shares at $38.19
+Cover: 100 shares at $38.25
+Buy: 100 shares at $38.25
+Sell: 100 shares at $37.53
+Short: 100 shares at $37.53
+Cover: 100 shares at $38.96
+Buy: 100 shares at $38.96
+Sell: 100 shares at $37.69
+Short: 100 shares at $37.69
+Cover: 100 shares at $36.62
+Buy: 100 shares at $36.62
+Sell: 100 shares at $35.70
+Short: 100 shares at $35.70
+Cover: 100 shares at $36.41
+Buy: 100 shares at $36.41
+Sell: 100 shares at $36.48
+Short: 100 shares at $36.48
+Cover: 100 shares at $36.89
+Buy: 100 shares at $36.89
+Sell: 100 shares at $36.95
+Short: 100 shares at $36.95
+Cover: 100 shares at $36.77
+Buy: 100 shares at $36.77
+Sell: 100 shares at $38.43
+Short: 100 shares at $38.43
+Cover: 100 shares at $38.61
+Buy: 100 shares at $38.61
+Sell: 100 shares at $38.67
+Short: 100 shares at $38.67
+Cover: 100 shares at $39.68
+Buy: 100 shares at $39.68
+Sell: 100 shares at $39.85
+Short: 100 shares at $39.85
+Cover: 100 shares at $40.43
+Buy: 100 shares at $40.43
+Sell: 100 shares at $40.18
+Short: 100 shares at $40.18
+Cover: 100 shares at $40.57
+Buy: 100 shares at $40.57
+Sell: 100 shares at $40.14
+Short: 100 shares at $40.14
+Cover: 100 shares at $41.30
+Buy: 100 shares at $41.30
+Sell: 100 shares at $41.54
+Short: 100 shares at $41.54
+Cover: 100 shares at $42.20
+Buy: 100 shares at $42.20
+Sell: 100 shares at $41.80
+Short: 100 shares at $41.80
+Cover: 100 shares at $42.43
+Buy: 100 shares at $42.43
+Sell: 100 shares at $42.48
+Short: 100 shares at $42.48
+Cover: 100 shares at $42.58
+Buy: 100 shares at $42.58
+Sell: 100 shares at $42.04
+Short: 100 shares at $42.04
+Cover: 100 shares at $42.54
+Buy: 100 shares at $42.54
+Sell: 100 shares at $43.64
+Short: 100 shares at $43.64
+Cover: 100 shares at $44.26
+Buy: 100 shares at $44.26
+Sell: 100 shares at $43.70
+Short: 100 shares at $43.70
+Cover: 100 shares at $44.37
+Buy: 100 shares at $44.37
+Sell: 100 shares at $43.85
+Short: 100 shares at $43.85
+Cover: 100 shares at $43.16
+Buy: 100 shares at $43.16
+Sell: 100 shares at $44.08
+Short: 100 shares at $44.08
+Cover: 100 shares at $44.30
+Buy: 100 shares at $44.30
+Sell: 100 shares at $43.57
+Short: 100 shares at $43.57
+Cover: 100 shares at $44.07
+Buy: 100 shares at $44.07
+Sell: 100 shares at $43.88
+Short: 100 shares at $43.88
+Cover: 100 shares at $44.60
+Buy: 100 shares at $44.60
+Sell: 100 shares at $45.04
+Short: 100 shares at $45.04
+Cover: 100 shares at $42.85
+Buy: 100 shares at $42.85
+Sell: 100 shares at $42.37
+Short: 100 shares at $42.37
+Cover: 100 shares at $42.99
+Buy: 100 shares at $42.99
+Sell: 100 shares at $42.89
+Short: 100 shares at $42.89
+Cover: 100 shares at $43.27
+Buy: 100 shares at $43.27
+Sell: 100 shares at $43.99
+Short: 100 shares at $43.99
+Cover: 100 shares at $44.16
+Buy: 100 shares at $44.16
+Sell: 100 shares at $44.21
+Short: 100 shares at $44.21
+Cover: 100 shares at $44.65
+Buy: 100 shares at $44.65
+Sell: 100 shares at $45.96
+Short: 100 shares at $45.96
+Cover: 100 shares at $46.59
+Buy: 100 shares at $46.59
+Sell: 100 shares at $46.19
+Short: 100 shares at $46.19
+Cover: 100 shares at $46.71
+Buy: 100 shares at $46.71
+Sell: 100 shares at $46.16
+Short: 100 shares at $46.16
+Cover: 100 shares at $47.19
+Buy: 100 shares at $47.19
+Sell: 100 shares at $47.07
+Short: 100 shares at $47.07
+Cover: 100 shares at $47.05
+Buy: 100 shares at $47.05
+Sell: 100 shares at $47.31
+Short: 100 shares at $47.31
+Cover: 100 shares at $47.54
+Buy: 100 shares at $47.54
+Sell: 100 shares at $48.48
+Short: 100 shares at $48.48
+Cover: 100 shares at $49.56
+Buy: 100 shares at $49.56
+Sell: 100 shares at $50.05
+Short: 100 shares at $50.05
+Cover: 100 shares at $48.34
+Buy: 100 shares at $48.34
+Sell: 100 shares at $47.42
+Short: 100 shares at $47.42
+Cover: 100 shares at $47.97
+Buy: 100 shares at $47.97
+Sell: 100 shares at $47.71
+Short: 100 shares at $47.71
+Cover: 100 shares at $46.53
+Buy: 100 shares at $46.53
+Sell: 100 shares at $46.74
+Short: 100 shares at $46.74
+Cover: 100 shares at $48.33
+Buy: 100 shares at $48.33
+Sell: 100 shares at $48.23
+Short: 100 shares at $48.23
+Cover: 100 shares at $48.94
+Buy: 100 shares at $48.94
+Sell: 100 shares at $52.66
+Short: 100 shares at $52.66
+Cover: 100 shares at $53.55
+Buy: 100 shares at $53.55
+Sell: 100 shares at $52.44
+Short: 100 shares at $52.44
+Cover: 100 shares at $54.18
+Buy: 100 shares at $54.18
+Sell: 100 shares at $53.05
+Short: 100 shares at $53.05
+Cover: 100 shares at $53.93
+Buy: 100 shares at $53.93
+Sell: 100 shares at $54.07
+Short: 100 shares at $54.07
+Cover: 100 shares at $54.68
+Buy: 100 shares at $54.68
+Sell: 100 shares at $53.35
+Short: 100 shares at $53.35
+Cover: 100 shares at $50.28
+Buy: 100 shares at $50.28
+Sell: 100 shares at $49.90
+Short: 100 shares at $49.90
+Cover: 100 shares at $49.84
+Buy: 100 shares at $49.84
+Sell: 100 shares at $48.98
+Short: 100 shares at $48.98
+Cover: 100 shares at $49.96
+Buy: 100 shares at $49.96
+Sell: 100 shares at $50.67
+Short: 100 shares at $50.67
+Cover: 100 shares at $52.32
+Buy: 100 shares at $52.32
+Sell: 100 shares at $51.32
+Short: 100 shares at $51.32
+Cover: 100 shares at $50.90
+Buy: 100 shares at $50.90
+Sell: 100 shares at $51.82
+Short: 100 shares at $51.82
+Cover: 100 shares at $47.87
+Buy: 100 shares at $47.87
+Sell: 100 shares at $46.55
+Short: 100 shares at $46.55
+Cover: 100 shares at $44.33
+Buy: 100 shares at $44.33
+Sell: 100 shares at $43.67
+Short: 100 shares at $43.67
+Cover: 100 shares at $44.07
+Buy: 100 shares at $44.07
+Sell: 100 shares at $43.82
+Short: 100 shares at $43.82
+Cover: 100 shares at $43.90
+Buy: 100 shares at $43.90
+Sell: 100 shares at $42.95
+Short: 100 shares at $42.95
+Cover: 100 shares at $42.83
+Buy: 100 shares at $42.83
+Sell: 100 shares at $41.48
+Short: 100 shares at $41.48
+Cover: 100 shares at $43.33
+Buy: 100 shares at $43.33
+Sell: 100 shares at $42.26
+Short: 100 shares at $42.26
+Cover: 100 shares at $43.09
+Buy: 100 shares at $43.09
+Sell: 100 shares at $43.49
+Short: 100 shares at $43.49
+Cover: 100 shares at $45.59
+Buy: 100 shares at $45.59
+Sell: 100 shares at $45.41
+Short: 100 shares at $45.41
+Cover: 100 shares at $45.37
+Buy: 100 shares at $45.37
+Sell: 100 shares at $47.15
+Short: 100 shares at $47.15
+Cover: 100 shares at $47.24
+Buy: 100 shares at $47.24
+Sell: 100 shares at $47.21
+Short: 100 shares at $47.21
+Cover: 100 shares at $48.70
+Buy: 100 shares at $48.70
+Sell: 100 shares at $48.04
+Short: 100 shares at $48.04
+Cover: 100 shares at $49.09
+Buy: 100 shares at $49.09
+Sell: 100 shares at $49.27
+Short: 100 shares at $49.27
+Cover: 100 shares at $49.05
+Buy: 100 shares at $49.05
+Sell: 100 shares at $49.13
+Short: 100 shares at $49.13
+Cover: 100 shares at $50.55
+Buy: 100 shares at $50.55
+Sell: 100 shares at $49.03
+Short: 100 shares at $49.03
+Cover: 100 shares at $48.80
+Buy: 100 shares at $48.80
+Sell: 100 shares at $47.42
+Short: 100 shares at $47.42
+Cover: 100 shares at $45.97
+Buy: 100 shares at $45.97
+Sell: 100 shares at $44.75
+Short: 100 shares at $44.75
+Cover: 100 shares at $45.28
+Buy: 100 shares at $45.28
+Sell: 100 shares at $44.56
+Short: 100 shares at $44.56
+Cover: 100 shares at $45.34
+Buy: 100 shares at $45.34
+Sell: 100 shares at $44.78
+Short: 100 shares at $44.78
+Cover: 100 shares at $45.27
+Buy: 100 shares at $45.27
+Sell: 100 shares at $44.42
+Short: 100 shares at $44.42
+Cover: 100 shares at $45.34
+Buy: 100 shares at $45.34
+Sell: 100 shares at $44.88
+Short: 100 shares at $44.88
+Cover: 100 shares at $45.93
+Buy: 100 shares at $45.93
+Sell: 100 shares at $47.60
+Short: 100 shares at $47.60
+Cover: 100 shares at $47.11
+Buy: 100 shares at $47.11
+Sell: 100 shares at $46.12
+Short: 100 shares at $46.12
+Cover: 100 shares at $43.60
+Buy: 100 shares at $43.60
+Sell: 100 shares at $42.08
+Short: 100 shares at $42.08
+Cover: 100 shares at $42.90
+Buy: 100 shares at $42.90
+Sell: 100 shares at $40.88
+Short: 100 shares at $40.88
+Cover: 100 shares at $35.13
+Buy: 100 shares at $35.13
+Sell: 100 shares at $30.60
+Short: 100 shares at $30.60
+Cover: 100 shares at $32.26
+Buy: 100 shares at $32.26
+Sell: 100 shares at $32.30
+Short: 100 shares at $32.30
+Cover: 100 shares at $31.86
+Buy: 100 shares at $31.86
+Sell: 100 shares at $31.99
+Short: 100 shares at $31.99
+Cover: 100 shares at $30.46
+Buy: 100 shares at $30.46
+Sell: 100 shares at $28.98
+Short: 100 shares at $28.98
+Cover: 100 shares at $28.30
+Buy: 100 shares at $28.30
+Sell: 100 shares at $26.93
+Short: 100 shares at $26.93
+Cover: 100 shares at $28.94
+Buy: 100 shares at $28.94
+Sell: 100 shares at $29.68
+Short: 100 shares at $29.68
+Cover: 100 shares at $30.56
+Buy: 100 shares at $30.56
+Sell: 100 shares at $29.86
+Short: 100 shares at $29.86
+Cover: 100 shares at $29.49
+Buy: 100 shares at $29.49
+Sell: 100 shares at $30.76
+Short: 100 shares at $30.76
+Cover: 100 shares at $29.42
+Buy: 100 shares at $29.42
+Sell: 100 shares at $27.96
+Short: 100 shares at $27.96
+Cover: 100 shares at $29.15
+Buy: 100 shares at $29.15
+Sell: 100 shares at $29.06
+Short: 100 shares at $29.06
+Cover: 100 shares at $29.87
+Buy: 100 shares at $29.87
+Sell: 100 shares at $30.34
+Short: 100 shares at $30.34
+Cover: 100 shares at $28.59
+Buy: 100 shares at $28.59
+Sell: 100 shares at $27.79
+Short: 100 shares at $27.79
+Cover: 100 shares at $27.33
+Buy: 100 shares at $27.33
+Sell: 100 shares at $30.06
+Short: 100 shares at $30.06
+Cover: 100 shares at $31.76
+Buy: 100 shares at $31.76
+Sell: 100 shares at $32.24
+Short: 100 shares at $32.24
+Cover: 100 shares at $33.69
+Buy: 100 shares at $33.69
+Sell: 100 shares at $34.21
+Short: 100 shares at $34.21
+Cover: 100 shares at $34.24
+Buy: 100 shares at $34.24
+Sell: 100 shares at $33.54
+Short: 100 shares at $33.54
+Cover: 100 shares at $34.79
+Buy: 100 shares at $34.79
+Sell: 100 shares at $36.67
+Short: 100 shares at $36.67
+Cover: 100 shares at $36.95
+Buy: 100 shares at $36.95
+Sell: 100 shares at $36.82
+Short: 100 shares at $36.82
+Cover: 100 shares at $36.16
+Buy: 100 shares at $36.16
+Sell: 100 shares at $35.08
+Short: 100 shares at $35.08
+Cover: 100 shares at $36.29
+Buy: 100 shares at $36.29
+Sell: 100 shares at $35.60
+Short: 100 shares at $35.60
+Cover: 100 shares at $35.59
+Buy: 100 shares at $35.59
+Sell: 100 shares at $39.34
+Short: 100 shares at $39.34
+Cover: 100 shares at $39.45
+Buy: 100 shares at $39.45
+Sell: 100 shares at $39.38
+Short: 100 shares at $39.38
+Cover: 100 shares at $39.87
+Buy: 100 shares at $39.87
+Sell: 100 shares at $39.63
+Short: 100 shares at $39.63
+Cover: 100 shares at $39.76
+Buy: 100 shares at $39.76
+Sell: 100 shares at $40.44
+Short: 100 shares at $40.44
+Cover: 100 shares at $40.36
+Buy: 100 shares at $40.36
+Sell: 100 shares at $42.45
+Short: 100 shares at $42.45
+Cover: 100 shares at $42.25
+Buy: 100 shares at $42.25
+Sell: 100 shares at $40.88
+Short: 100 shares at $40.88
+Cover: 100 shares at $42.06
+Buy: 100 shares at $42.06
+Sell: 100 shares at $43.14
+Short: 100 shares at $43.14
+Cover: 100 shares at $43.31
+Buy: 100 shares at $43.31
+Sell: 100 shares at $42.99
+Short: 100 shares at $42.99
+Cover: 100 shares at $41.33
+Buy: 100 shares at $41.33
+Sell: 100 shares at $43.66
+Short: 100 shares at $43.66
+Cover: 100 shares at $44.18
+Buy: 100 shares at $44.18
+Sell: 100 shares at $43.51
+Short: 100 shares at $43.51
+Cover: 100 shares at $44.07
+Buy: 100 shares at $44.07
+Sell: 100 shares at $43.64
+Short: 100 shares at $43.64
+Cover: 100 shares at $44.08
+Buy: 100 shares at $44.08
+Sell: 100 shares at $43.82
+Short: 100 shares at $43.82
+Cover: 100 shares at $44.46
+Buy: 100 shares at $44.46
+Sell: 100 shares at $45.75
+Short: 100 shares at $45.75
+Cover: 100 shares at $46.42
+Buy: 100 shares at $46.42
+Sell: 100 shares at $46.14
+Short: 100 shares at $46.14
+Cover: 100 shares at $46.55
+Buy: 100 shares at $46.55
+Sell: 100 shares at $46.36
+Short: 100 shares at $46.36
+Cover: 100 shares at $46.35
+Buy: 100 shares at $46.35
+Sell: 100 shares at $45.85
+Short: 100 shares at $45.85
+Cover: 100 shares at $46.59
+Buy: 100 shares at $46.59
+Sell: 100 shares at $45.92
+Short: 100 shares at $45.92
+Cover: 100 shares at $43.89
+Buy: 100 shares at $43.89
+Sell: 100 shares at $42.62
+Short: 100 shares at $42.62
+Cover: 100 shares at $43.67
+Buy: 100 shares at $43.67
+Sell: 100 shares at $44.16
+Short: 100 shares at $44.16
+Cover: 100 shares at $44.76
+Buy: 100 shares at $44.76
+Sell: 100 shares at $47.49
+Short: 100 shares at $47.49
+Cover: 100 shares at $47.92
+Buy: 100 shares at $47.92
+Sell: 100 shares at $48.16
+Short: 100 shares at $48.16
+Cover: 100 shares at $48.16
+Buy: 100 shares at $48.16
+Sell: 100 shares at $49.50
+Short: 100 shares at $49.50
+Cover: 100 shares at $50.31
+Buy: 100 shares at $50.31
+Sell: 100 shares at $49.34
+Short: 100 shares at $49.34
+Cover: 100 shares at $49.93
+Buy: 100 shares at $49.93
+Sell: 100 shares at $48.43
+Short: 100 shares at $48.43
+Cover: 100 shares at $47.72
+Buy: 100 shares at $47.72
+Sell: 100 shares at $47.08
+Short: 100 shares at $47.08
+Cover: 100 shares at $45.87
+Buy: 100 shares at $45.87
+Sell: 100 shares at $45.09
+Short: 100 shares at $45.09
+Cover: 100 shares at $45.50
+Buy: 100 shares at $45.50
+Sell: 100 shares at $46.24
+Short: 100 shares at $46.24
+Cover: 100 shares at $43.96
+Buy: 100 shares at $43.96
+Sell: 100 shares at $44.34
+Short: 100 shares at $44.34
+Cover: 100 shares at $45.77
+Buy: 100 shares at $45.77
+Sell: 100 shares at $45.71
+Short: 100 shares at $45.71
+Cover: 100 shares at $46.67
+Buy: 100 shares at $46.67
+Sell: 100 shares at $46.67
+Short: 100 shares at $46.67
+Cover: 100 shares at $45.55
+Buy: 100 shares at $45.55
+Sell: 100 shares at $44.48
+Short: 100 shares at $44.48
+Cover: 100 shares at $44.76
+Buy: 100 shares at $44.76
+Sell: 100 shares at $49.07
+Short: 100 shares at $49.07
+Cover: 100 shares at $49.66
+Buy: 100 shares at $49.66
+Sell: 100 shares at $52.22
+Short: 100 shares at $52.22
+Cover: 100 shares at $52.78
+Buy: 100 shares at $52.78
+Sell: 100 shares at $53.72
+Short: 100 shares at $53.72
+Cover: 100 shares at $52.47
+Buy: 100 shares at $52.47
+Sell: 100 shares at $52.09
+Short: 100 shares at $52.09
+Cover: 100 shares at $53.19
+Buy: 100 shares at $53.19
+Sell: 100 shares at $54.16
+Short: 100 shares at $54.16
+Cover: 100 shares at $54.58
+Buy: 100 shares at $54.58
+Sell: 100 shares at $54.67
+Short: 100 shares at $54.67
+Cover: 100 shares at $55.31
+Buy: 100 shares at $55.31
+Sell: 100 shares at $56.11
+Short: 100 shares at $56.11
+Cover: 100 shares at $56.83
+Buy: 100 shares at $56.83
+Sell: 100 shares at $55.73
+Short: 100 shares at $55.73
+Cover: 100 shares at $57.05
+Buy: 100 shares at $57.05
+Sell: 100 shares at $58.73
+Short: 100 shares at $58.73
+Cover: 100 shares at $57.77
+Buy: 100 shares at $57.77
+Sell: 100 shares at $57.19
+Short: 100 shares at $57.19
+Cover: 100 shares at $57.42
+Buy: 100 shares at $57.42
+Sell: 100 shares at $57.03
+Short: 100 shares at $57.03
+Cover: 100 shares at $55.50
+Buy: 100 shares at $55.50
+Sell: 100 shares at $57.12
+Short: 100 shares at $57.12
+Cover: 100 shares at $56.65
+Buy: 100 shares at $56.65
+Sell: 100 shares at $56.25
+Short: 100 shares at $56.25
+Cover: 100 shares at $56.60
+Buy: 100 shares at $56.60
+Sell: 100 shares at $58.97
+Short: 100 shares at $58.97
+Cover: 100 shares at $59.19
+Buy: 100 shares at $59.19
+Sell: 100 shares at $58.41
+Short: 100 shares at $58.41
+Cover: 100 shares at $57.77
+Buy: 100 shares at $57.77
+Sell: 100 shares at $56.92
+Short: 100 shares at $56.92
+Cover: 100 shares at $57.43
+Buy: 100 shares at $57.43
+Sell: 100 shares at $57.21
+Short: 100 shares at $57.21
+Cover: 100 shares at $55.34
+Buy: 100 shares at $55.34
+Sell: 100 shares at $54.29
+Short: 100 shares at $54.29
+Cover: 100 shares at $55.23
+Buy: 100 shares at $55.23
+Sell: 100 shares at $57.96
+Short: 100 shares at $57.96
+Cover: 100 shares at $57.54
+Buy: 100 shares at $57.54
+Sell: 100 shares at $58.09
+Short: 100 shares at $58.09
+Cover: 100 shares at $53.10
+Buy: 100 shares at $53.10
+Sell: 100 shares at $50.95
+Short: 100 shares at $50.95
+Cover: 100 shares at $52.69
+Buy: 100 shares at $52.69
+Sell: 100 shares at $53.28
+Short: 100 shares at $53.28
+Cover: 100 shares at $53.86
+Buy: 100 shares at $53.86
+Sell: 100 shares at $55.38
+Short: 100 shares at $55.38
+Cover: 100 shares at $55.35
+Buy: 100 shares at $55.35
+Sell: 100 shares at $52.49
+Short: 100 shares at $52.49
+Cover: 100 shares at $53.53
+Buy: 100 shares at $53.53
+Sell: 100 shares at $56.87
+Short: 100 shares at $56.87
+Cover: 100 shares at $58.49
+Buy: 100 shares at $58.49
+Sell: 100 shares at $57.95
+Short: 100 shares at $57.95
+Cover: 100 shares at $58.21
+Buy: 100 shares at $58.21
+Sell: 100 shares at $56.81
+Short: 100 shares at $56.81
+Cover: 100 shares at $58.13
+Buy: 100 shares at $58.13
+Sell: 100 shares at $55.83
+Short: 100 shares at $55.83
+Cover: 100 shares at $54.72
+Buy: 100 shares at $54.72
+Sell: 100 shares at $57.08
+Short: 100 shares at $57.08
+Cover: 100 shares at $55.93
+Buy: 100 shares at $55.93
+Sell: 100 shares at $55.59
+Short: 100 shares at $55.59
+Cover: 100 shares at $55.99
+Buy: 100 shares at $55.99
+Sell: 100 shares at $55.83
+Short: 100 shares at $55.83
+Cover: 100 shares at $56.90
+Buy: 100 shares at $56.90
+Sell: 100 shares at $62.77
+Short: 100 shares at $62.77
+Cover: 100 shares at $63.63
+Buy: 100 shares at $63.63
+Sell: 100 shares at $63.32
+Short: 100 shares at $63.32
+Cover: 100 shares at $63.74
+Buy: 100 shares at $63.74
+Sell: 100 shares at $64.20
+Short: 100 shares at $64.20
+Cover: 100 shares at $64.75
+Buy: 100 shares at $64.75
+Sell: 100 shares at $66.98
+Short: 100 shares at $66.98
+Cover: 100 shares at $68.11
+Buy: 100 shares at $68.11
+Sell: 100 shares at $67.55
+Short: 100 shares at $67.55
+Cover: 100 shares at $68.23
+Buy: 100 shares at $68.23
+Sell: 100 shares at $67.30
+Short: 100 shares at $67.30
+Cover: 100 shares at $67.21
+Buy: 100 shares at $67.21
+Sell: 100 shares at $66.19
+Short: 100 shares at $66.19
+Cover: 100 shares at $66.78
+Buy: 100 shares at $66.78
+Sell: 100 shares at $65.86
+Short: 100 shares at $65.86
+Cover: 100 shares at $66.45
+Buy: 100 shares at $66.45
+Sell: 100 shares at $67.06
+Short: 100 shares at $67.06
+Cover: 100 shares at $64.18
+Buy: 100 shares at $64.18
+Sell: 100 shares at $63.58
+Short: 100 shares at $63.58
+Cover: 100 shares at $62.44
+Buy: 100 shares at $62.44
+Sell: 100 shares at $62.33
+Short: 100 shares at $62.33
+Cover: 100 shares at $62.52
+Buy: 100 shares at $62.52
+Sell: 100 shares at $62.13
+Short: 100 shares at $62.13
+Cover: 100 shares at $62.99
+Buy: 100 shares at $62.99
+Sell: 100 shares at $62.69
+Short: 100 shares at $62.69
+Cover: 100 shares at $64.16
+Buy: 100 shares at $64.16
+Sell: 100 shares at $63.37
+Short: 100 shares at $63.37
+Cover: 100 shares at $63.53
+Buy: 100 shares at $63.53
+Sell: 100 shares at $63.46
+Short: 100 shares at $63.46
+Cover: 100 shares at $64.87
+Buy: 100 shares at $64.87
+Sell: 100 shares at $64.38
+Short: 100 shares at $64.38
+Cover: 100 shares at $65.60
+Buy: 100 shares at $65.60
+Sell: 100 shares at $67.05
+Short: 100 shares at $67.05
+Cover: 100 shares at $67.22
+Buy: 100 shares at $67.22
+Sell: 100 shares at $67.87
+Short: 100 shares at $67.87
+Cover: 100 shares at $68.40
+Buy: 100 shares at $68.40
+Sell: 100 shares at $67.71
+Short: 100 shares at $67.71
+Cover: 100 shares at $69.53
+Buy: 100 shares at $69.53
+Sell: 100 shares at $68.43
+Short: 100 shares at $68.43
+Cover: 100 shares at $69.56
+Buy: 100 shares at $69.56
+Sell: 100 shares at $70.15
+Short: 100 shares at $70.15
+Cover: 100 shares at $68.67
+Buy: 100 shares at $68.67
+Sell: 100 shares at $68.35
+Short: 100 shares at $68.35
+Cover: 100 shares at $67.17
+Buy: 100 shares at $67.17
+Sell: 100 shares at $65.68
+Short: 100 shares at $65.68
+Cover: 100 shares at $65.35
+Buy: 100 shares at $65.35
+Sell: 100 shares at $64.95
+Short: 100 shares at $64.95
+Cover: 100 shares at $65.87
+Buy: 100 shares at $65.87
+Sell: 100 shares at $64.17
+Short: 100 shares at $64.17
+Cover: 100 shares at $63.78
+Buy: 100 shares at $63.78
+Sell: 100 shares at $65.63
+Short: 100 shares at $65.63
+Cover: 100 shares at $65.97
+Buy: 100 shares at $65.97
+Sell: 100 shares at $64.69
+Short: 100 shares at $64.69
+Cover: 100 shares at $66.55
+Buy: 100 shares at $66.55
+Sell: 100 shares at $65.20
+Short: 100 shares at $65.20
+Cover: 100 shares at $65.13
+Buy: 100 shares at $65.13
+Sell: 100 shares at $66.52
+Short: 100 shares at $66.52
+Cover: 100 shares at $67.17
+Buy: 100 shares at $67.17
+Sell: 100 shares at $66.63
+Short: 100 shares at $66.63
+Cover: 100 shares at $67.07
+Buy: 100 shares at $67.07
+Sell: 100 shares at $66.66
+Short: 100 shares at $66.66
+Cover: 100 shares at $67.66
+Buy: 100 shares at $67.66
+Sell: 100 shares at $66.48
+Short: 100 shares at $66.48
+Cover: 100 shares at $67.46
+Buy: 100 shares at $67.46
+Sell: 100 shares at $67.75
+Short: 100 shares at $67.75
+Cover: 100 shares at $68.24
+Buy: 100 shares at $68.24
+Sell: 100 shares at $67.19
+Short: 100 shares at $67.19
+Cover: 100 shares at $67.24
+Buy: 100 shares at $67.24
+Sell: 100 shares at $68.72
+Short: 100 shares at $68.72
+Cover: 100 shares at $68.71
+Buy: 100 shares at $68.71
+Sell: 100 shares at $67.93
+Short: 100 shares at $67.93
+Cover: 100 shares at $68.59
+Buy: 100 shares at $68.59
+Sell: 100 shares at $68.50
+Short: 100 shares at $68.50
+Cover: 100 shares at $69.04
+Buy: 100 shares at $69.04
+Sell: 100 shares at $68.41
+Short: 100 shares at $68.41
+Cover: 100 shares at $68.68
+Buy: 100 shares at $68.68
+Sell: 100 shares at $68.56
+Short: 100 shares at $68.56
+Cover: 100 shares at $68.79
+Buy: 100 shares at $68.79
+Sell: 100 shares at $73.62
+Short: 100 shares at $73.62
+Cover: 100 shares at $73.93
+Buy: 100 shares at $73.93
+Sell: 100 shares at $73.25
+Short: 100 shares at $73.25
+Cover: 100 shares at $73.39
+Buy: 100 shares at $73.39
+Sell: 100 shares at $71.85
+Short: 100 shares at $71.85
+Cover: 100 shares at $72.98
+Buy: 100 shares at $72.98
+Sell: 100 shares at $71.03
+Short: 100 shares at $71.03
+Cover: 100 shares at $71.17
+Buy: 100 shares at $71.17
+Sell: 100 shares at $75.37
+Short: 100 shares at $75.37
+Cover: 100 shares at $74.97
+Buy: 100 shares at $74.97
+Sell: 100 shares at $76.42
+Short: 100 shares at $76.42
+Cover: 100 shares at $77.10
+Buy: 100 shares at $77.10
+Sell: 100 shares at $75.51
+Short: 100 shares at $75.51
+Cover: 100 shares at $76.16
+Buy: 100 shares at $76.16
+Sell: 100 shares at $75.14
+Short: 100 shares at $75.14
+Cover: 100 shares at $75.90
+Buy: 100 shares at $75.90
+Sell: 100 shares at $77.85
+Short: 100 shares at $77.85
+Cover: 100 shares at $79.31
+Buy: 100 shares at $79.31
+Sell: 100 shares at $78.83
+Short: 100 shares at $78.83
+Cover: 100 shares at $79.07
+Buy: 100 shares at $79.07
+Sell: 100 shares at $78.72
+Short: 100 shares at $78.72
+Cover: 100 shares at $79.40
+Buy: 100 shares at $79.40
+Sell: 100 shares at $78.74
+Short: 100 shares at $78.74
+Cover: 100 shares at $79.23
+Buy: 100 shares at $79.23
+Sell: 100 shares at $82.31
+Short: 100 shares at $82.31
+Cover: 100 shares at $82.90
+Buy: 100 shares at $82.90
+Sell: 100 shares at $82.79
+Short: 100 shares at $82.79
+Cover: 100 shares at $82.54
+Buy: 100 shares at $82.54
+Sell: 100 shares at $82.90
+Short: 100 shares at $82.90
+Cover: 100 shares at $83.99
+Buy: 100 shares at $83.99
+Sell: 100 shares at $85.49
+Short: 100 shares at $85.49
+Cover: 100 shares at $86.35
+Buy: 100 shares at $86.35
+Sell: 100 shares at $85.18
+Short: 100 shares at $85.18
+Cover: 100 shares at $86.14
+Buy: 100 shares at $86.14
+Sell: 100 shares at $87.39
+Short: 100 shares at $87.39
+Cover: 100 shares at $87.96
+Buy: 100 shares at $87.96
+Sell: 100 shares at $87.27
+Short: 100 shares at $87.27
+Cover: 100 shares at $87.31
+Buy: 100 shares at $87.31
+Sell: 100 shares at $86.01
+Short: 100 shares at $86.01
+Cover: 100 shares at $87.65
+Buy: 100 shares at $87.65
+Sell: 100 shares at $88.48
+Short: 100 shares at $88.48
+Cover: 100 shares at $86.27
+Buy: 100 shares at $86.27
+Sell: 100 shares at $84.29
+Short: 100 shares at $84.29
+Cover: 100 shares at $85.77
+Buy: 100 shares at $85.77
+Sell: 100 shares at $89.63
+Short: 100 shares at $89.63
+Cover: 100 shares at $90.41
+Buy: 100 shares at $90.41
+Sell: 100 shares at $89.67
+Short: 100 shares at $89.67
+Cover: 100 shares at $90.81
+Buy: 100 shares at $90.81
+Sell: 100 shares at $90.22
+Short: 100 shares at $90.22
+Cover: 100 shares at $90.53
+Buy: 100 shares at $90.53
+Sell: 100 shares at $88.22
+Short: 100 shares at $88.22
+Cover: 100 shares at $87.67
+Buy: 100 shares at $87.67
+Sell: 100 shares at $86.37
+Short: 100 shares at $86.37
+Cover: 100 shares at $86.18
+Buy: 100 shares at $86.18
+Sell: 100 shares at $86.19
+Short: 100 shares at $86.19
+Cover: 100 shares at $87.39
+Buy: 100 shares at $87.39
+Sell: 100 shares at $86.81
+Short: 100 shares at $86.81
+Cover: 100 shares at $88.23
+Buy: 100 shares at $88.23
+Sell: 100 shares at $87.14
+Short: 100 shares at $87.14
+Cover: 100 shares at $88.84
+Buy: 100 shares at $88.84
+Sell: 100 shares at $91.52
+Short: 100 shares at $91.52
+Cover: 100 shares at $92.29
+Buy: 100 shares at $92.29
+Sell: 100 shares at $92.05
+Short: 100 shares at $92.05
+Cover: 100 shares at $92.97
+Buy: 100 shares at $92.97
+Sell: 100 shares at $92.70
+Short: 100 shares at $92.70
+Cover: 100 shares at $93.29
+Buy: 100 shares at $93.29
+Sell: 100 shares at $94.26
+Short: 100 shares at $94.26
+Cover: 100 shares at $95.84
+Buy: 100 shares at $95.84
+Sell: 100 shares at $94.62
+Short: 100 shares at $94.62
+Cover: 100 shares at $96.12
+Buy: 100 shares at $96.12
+Sell: 100 shares at $96.77
+Short: 100 shares at $96.77
+Cover: 100 shares at $94.90
+Buy: 100 shares at $94.90
+Sell: 100 shares at $99.41
+Short: 100 shares at $99.41
+Cover: 100 shares at $99.78
+Buy: 100 shares at $99.78
+Sell: 100 shares at $99.48
+Short: 100 shares at $99.48
+Cover: 100 shares at $99.89
+Buy: 100 shares at $99.89
+Sell: 100 shares at $99.25
+Short: 100 shares at $99.25
+Cover: 100 shares at $100.07
+Buy: 100 shares at $100.07
+Sell: 100 shares at $99.48
+Short: 100 shares at $99.48
+Cover: 100 shares at $100.28
+Buy: 100 shares at $100.28
+Sell: 100 shares at $98.78
+Short: 100 shares at $98.78
+Cover: 100 shares at $98.79
+Buy: 100 shares at $98.79
+Sell: 100 shares at $97.21
+Short: 100 shares at $97.21
+Cover: 100 shares at $98.45
+Buy: 100 shares at $98.45
+Sell: 100 shares at $96.86
+Short: 100 shares at $96.86
+Cover: 100 shares at $94.39
+Buy: 100 shares at $94.39
+Sell: 100 shares at $101.60
+Short: 100 shares at $101.60
+Cover: 100 shares at $101.96
+Buy: 100 shares at $101.96
+Sell: 100 shares at $105.23
+Short: 100 shares at $105.23
+Cover: 100 shares at $104.25
+Buy: 100 shares at $104.25
+Sell: 100 shares at $104.32
+Short: 100 shares at $104.32
+Cover: 100 shares at $103.30
+Buy: 100 shares at $103.30
+Sell: 100 shares at $100.96
+Short: 100 shares at $100.96
+Cover: 100 shares at $101.62
+Buy: 100 shares at $101.62
+Sell: 100 shares at $101.44
+Short: 100 shares at $101.44
+Cover: 100 shares at $102.96
+Buy: 100 shares at $102.96
+Sell: 100 shares at $102.80
+Short: 100 shares at $102.80
+Cover: 100 shares at $104.40
+Buy: 100 shares at $104.40
+Sell: 100 shares at $108.40
+Short: 100 shares at $108.40
+Cover: 100 shares at $109.38
+Buy: 100 shares at $109.38
+Sell: 100 shares at $108.45
+Short: 100 shares at $108.45
+Cover: 100 shares at $106.70
+Buy: 100 shares at $106.70
+Sell: 100 shares at $107.93
+Short: 100 shares at $107.93
+Cover: 100 shares at $105.05
+Buy: 100 shares at $105.05
+Sell: 100 shares at $105.12
+Short: 100 shares at $105.12
+Cover: 100 shares at $105.98
+Buy: 100 shares at $105.98
+Sell: 100 shares at $107.69
+Short: 100 shares at $107.69
+Cover: 100 shares at $108.06
+Buy: 100 shares at $108.06
+Sell: 100 shares at $109.35
+Short: 100 shares at $109.35
+Cover: 100 shares at $108.69
+Buy: 100 shares at $108.69
+Sell: 100 shares at $109.20
+Short: 100 shares at $109.20
+Cover: 100 shares at $110.96
+Buy: 100 shares at $110.96
+Sell: 100 shares at $110.05
+Short: 100 shares at $110.05
+Cover: 100 shares at $110.42
+Buy: 100 shares at $110.42
+Sell: 100 shares at $110.07
+Short: 100 shares at $110.07
+Cover: 100 shares at $109.65
+Buy: 100 shares at $109.65
+Sell: 100 shares at $108.21
+Short: 100 shares at $108.21
+Cover: 100 shares at $110.69
+Buy: 100 shares at $110.69
+Sell: 100 shares at $109.27
+Short: 100 shares at $109.27
+Cover: 100 shares at $107.70
+Buy: 100 shares at $107.70
+Sell: 100 shares at $106.09
+Short: 100 shares at $106.09
+Cover: 100 shares at $107.65
+Buy: 100 shares at $107.65
+Sell: 100 shares at $112.62
+Short: 100 shares at $112.62
+Cover: 100 shares at $112.08
+Buy: 100 shares at $112.08
+Sell: 100 shares at $111.39
+Short: 100 shares at $111.39
+Cover: 100 shares at $112.25
+Buy: 100 shares at $112.25
+Sell: 100 shares at $110.45
+Short: 100 shares at $110.45
+Cover: 100 shares at $110.34
+Buy: 100 shares at $110.34
+Sell: 100 shares at $110.51
+Short: 100 shares at $110.51
+Cover: 100 shares at $111.43
+Buy: 100 shares at $111.43
+Sell: 100 shares at $110.13
+Short: 100 shares at $110.13
+Cover: 100 shares at $105.64
+Buy: 100 shares at $105.64
+Sell: 100 shares at $101.05
+Short: 100 shares at $101.05
+Cover: 100 shares at $105.04
+Buy: 100 shares at $105.04
+Sell: 100 shares at $105.35
+Short: 100 shares at $105.35
+Cover: 100 shares at $102.22
+Buy: 100 shares at $102.22
+Sell: 100 shares at $106.10
+Short: 100 shares at $106.10
+Cover: 100 shares at $107.67
+Buy: 100 shares at $107.67
+Sell: 100 shares at $107.52
+Short: 100 shares at $107.52
+Cover: 100 shares at $109.71
+Buy: 100 shares at $109.71
+Sell: 100 shares at $113.33
+Short: 100 shares at $113.33
+Cover: 100 shares at $114.61
+Buy: 100 shares at $114.61
+Sell: 100 shares at $113.57
+Short: 100 shares at $113.57
+Cover: 100 shares at $113.63
+Buy: 100 shares at $113.63
+Sell: 100 shares at $114.15
+Short: 100 shares at $114.15
+Cover: 100 shares at $115.16
+Buy: 100 shares at $115.16
+Sell: 100 shares at $112.51
+Short: 100 shares at $112.51
+Cover: 100 shares at $115.14
+Buy: 100 shares at $115.14
+Sell: 100 shares at $112.89
+Short: 100 shares at $112.89
+Cover: 100 shares at $113.98
+Buy: 100 shares at $113.98
+Sell: 100 shares at $109.83
+Short: 100 shares at $109.83
+Cover: 100 shares at $112.61
+Buy: 100 shares at $112.61
+Sell: 100 shares at $111.86
+Short: 100 shares at $111.86
+Cover: 100 shares at $104.07
+Buy: 100 shares at $104.07
+Sell: 100 shares at $100.84
+Short: 100 shares at $100.84
+Cover: 100 shares at $103.77
+Buy: 100 shares at $103.77
+Sell: 100 shares at $100.58
+Short: 100 shares at $100.58
+Cover: 100 shares at $104.13
+Buy: 100 shares at $104.13
+Sell: 100 shares at $102.15
+Short: 100 shares at $102.15
+Cover: 100 shares at $98.02
+Buy: 100 shares at $98.02
+Sell: 100 shares at $101.58
+Short: 100 shares at $101.58
+Cover: 100 shares at $103.56
+Buy: 100 shares at $103.56
+Sell: 100 shares at $102.50
+Short: 100 shares at $102.50
+Cover: 100 shares at $105.79
+Buy: 100 shares at $105.79
+Sell: 100 shares at $105.02
+Short: 100 shares at $105.02
+Cover: 100 shares at $106.49
+Buy: 100 shares at $106.49
+Sell: 100 shares at $107.23
+Short: 100 shares at $107.23
+Cover: 100 shares at $108.83
+Buy: 100 shares at $108.83
+Sell: 100 shares at $108.88
+Short: 100 shares at $108.88
+Cover: 100 shares at $110.67
+Buy: 100 shares at $110.67
+Sell: 100 shares at $109.08
+Short: 100 shares at $109.08
+Cover: 100 shares at $110.91
+Buy: 100 shares at $110.91
+Sell: 100 shares at $110.55
+Short: 100 shares at $110.55
+Cover: 100 shares at $105.58
+Buy: 100 shares at $105.58
+Sell: 100 shares at $105.50
+Short: 100 shares at $105.50
+Cover: 100 shares at $106.82
+Buy: 100 shares at $106.82
+Sell: 100 shares at $105.48
+Short: 100 shares at $105.48
+Cover: 100 shares at $106.47
+Buy: 100 shares at $106.47
+Sell: 100 shares at $110.06
+Short: 100 shares at $110.06
+Cover: 100 shares at $107.50
+Buy: 100 shares at $107.50
+Sell: 100 shares at $104.29
+Short: 100 shares at $104.29
+Cover: 100 shares at $106.31
+Buy: 100 shares at $106.31
+Sell: 100 shares at $115.34
+Short: 100 shares at $115.34
+Cover: 100 shares at $115.67
+Buy: 100 shares at $115.67
+Sell: 100 shares at $117.05
+Short: 100 shares at $117.05
+Cover: 100 shares at $117.26
+Buy: 100 shares at $117.26
+Sell: 100 shares at $117.29
+Short: 100 shares at $117.29
+Cover: 100 shares at $117.56
+Buy: 100 shares at $117.56
+Sell: 100 shares at $116.80
+Short: 100 shares at $116.80
+Cover: 100 shares at $116.74
+Buy: 100 shares at $116.74
+Sell: 100 shares at $114.28
+Short: 100 shares at $114.28
+Cover: 100 shares at $117.64
+Buy: 100 shares at $117.64
+Sell: 100 shares at $117.34
+Short: 100 shares at $117.34
+Cover: 100 shares at $118.50
+Buy: 100 shares at $118.50
+Sell: 100 shares at $118.70
+Short: 100 shares at $118.70
+Cover: 100 shares at $118.72
+Buy: 100 shares at $118.72
+Sell: 100 shares at $118.37
+Short: 100 shares at $118.37
+Cover: 100 shares at $118.79
+Buy: 100 shares at $118.79
+Sell: 100 shares at $118.47
+Short: 100 shares at $118.47
+Cover: 100 shares at $119.22
+Buy: 100 shares at $119.22
+Sell: 100 shares at $117.52
+Short: 100 shares at $117.52
+Cover: 100 shares at $117.85
+Buy: 100 shares at $117.85
+Sell: 100 shares at $117.84
+Short: 100 shares at $117.84
+Cover: 100 shares at $116.35
+Buy: 100 shares at $116.35
+Sell: 100 shares at $114.63
+Short: 100 shares at $114.63
+Cover: 100 shares at $116.91
+Buy: 100 shares at $116.91
+Sell: 100 shares at $118.94
+Short: 100 shares at $118.94
+Cover: 100 shares at $118.36
+Buy: 100 shares at $118.36
+Sell: 100 shares at $119.60
+Short: 100 shares at $119.60
+Cover: 100 shares at $120.46
+Buy: 100 shares at $120.46
+Sell: 100 shares at $120.12
+Short: 100 shares at $120.12
+Cover: 100 shares at $120.20
+Buy: 100 shares at $120.20
+Sell: 100 shares at $119.88
+Short: 100 shares at $119.88
+Cover: 100 shares at $120.19
+Buy: 100 shares at $120.19
+Sell: 100 shares at $122.79
+Short: 100 shares at $122.79
+Cover: 100 shares at $123.25
+Buy: 100 shares at $123.25
+Sell: 100 shares at $124.57
+Short: 100 shares at $124.57
+Cover: 100 shares at $125.68
+Buy: 100 shares at $125.68
+Sell: 100 shares at $130.26
+Short: 100 shares at $130.26
+Cover: 100 shares at $131.44
+Buy: 100 shares at $131.44
+Sell: 100 shares at $130.51
+Short: 100 shares at $130.51
+Cover: 100 shares at $131.39
+Buy: 100 shares at $131.39
+Sell: 100 shares at $131.81
+Short: 100 shares at $131.81
+Cover: 100 shares at $130.84
+Buy: 100 shares at $130.84
+Sell: 100 shares at $131.97
+Short: 100 shares at $131.97
+Cover: 100 shares at $131.28
+Buy: 100 shares at $131.28
+Sell: 100 shares at $136.07
+Short: 100 shares at $136.07
+Cover: 100 shares at $139.14
+Buy: 100 shares at $139.14
+Sell: 100 shares at $139.98
+Short: 100 shares at $139.98
+Cover: 100 shares at $140.46
+Buy: 100 shares at $140.46
+Sell: 100 shares at $138.03
+Short: 100 shares at $138.03
+Cover: 100 shares at $137.76
+Buy: 100 shares at $137.76
+Sell: 100 shares at $143.96
+Short: 100 shares at $143.96
+Cover: 100 shares at $143.65
+Buy: 100 shares at $143.65
+Sell: 100 shares at $141.03
+Short: 100 shares at $141.03
+Cover: 100 shares at $144.03
+Buy: 100 shares at $144.03
+Sell: 100 shares at $141.33
+Short: 100 shares at $141.33
+Cover: 100 shares at $142.69
+Buy: 100 shares at $142.69
+Sell: 100 shares at $144.21
+Short: 100 shares at $144.21
+Cover: 100 shares at $146.22
+Buy: 100 shares at $146.22
+Sell: 100 shares at $145.55
+Short: 100 shares at $145.55
+Cover: 100 shares at $144.46
+Buy: 100 shares at $144.46
+Sell: 100 shares at $147.77
+Short: 100 shares at $147.77
+Cover: 100 shares at $148.34
+Buy: 100 shares at $148.34
+Sell: 100 shares at $148.31
+Short: 100 shares at $148.31
+Cover: 100 shares at $151.24
+Buy: 100 shares at $151.24
+Sell: 100 shares at $153.68
+Short: 100 shares at $153.68
+Cover: 100 shares at $154.54
+Buy: 100 shares at $154.54
+Sell: 100 shares at $153.86
+Short: 100 shares at $153.86
+Cover: 100 shares at $154.02
+Buy: 100 shares at $154.02
+Sell: 100 shares at $157.55
+Short: 100 shares at $157.55
+Cover: 100 shares at $158.49
+Buy: 100 shares at $158.49
+Sell: 100 shares at $168.70
+Short: 100 shares at $168.70
+Cover: 100 shares at $158.87
+Buy: 100 shares at $158.87
+Sell: 100 shares at $164.80
+Short: 100 shares at $164.80
+Cover: 100 shares at $168.17
+Buy: 100 shares at $168.17
+Sell: 100 shares at $164.48
+Short: 100 shares at $164.48
+Cover: 100 shares at $168.54
+Buy: 100 shares at $168.54
+Sell: 100 shares at $171.53
+Short: 100 shares at $171.53
+Cover: 100 shares at $160.13
+Buy: 100 shares at $160.13
+Sell: 100 shares at $155.51
+Short: 100 shares at $155.51
+Cover: 100 shares at $159.74
+Buy: 100 shares at $159.74
+Sell: 100 shares at $156.63
+Short: 100 shares at $156.63
+Cover: 100 shares at $157.73
+Buy: 100 shares at $157.73
+Sell: 100 shares at $162.30
+Short: 100 shares at $162.30
+Cover: 100 shares at $162.09
+Buy: 100 shares at $162.09
+Sell: 100 shares at $161.80
+Short: 100 shares at $161.80
+Cover: 100 shares at $164.87
+Buy: 100 shares at $164.87
+Sell: 100 shares at $167.87
+Short: 100 shares at $167.87
+Cover: 100 shares at $169.60
+Buy: 100 shares at $169.60
+Sell: 100 shares at $174.44
+Short: 100 shares at $174.44
+Cover: 100 shares at $175.82
+Buy: 100 shares at $175.82
+Sell: 100 shares at $175.71
+Short: 100 shares at $175.71
+Cover: 100 shares at $172.80
+Buy: 100 shares at $172.80
+Sell: 100 shares at $179.03
+Short: 100 shares at $179.03
+Cover: 100 shares at $180.30
+Buy: 100 shares at $180.30
+Sell: 100 shares at $177.62
+Short: 100 shares at $177.62
+Cover: 100 shares at $179.53
+Buy: 100 shares at $179.53
+Sell: 100 shares at $180.52
+Short: 100 shares at $180.52
+Cover: 100 shares at $180.36
+Buy: 100 shares at $180.36
+Sell: 100 shares at $185.85
+Short: 100 shares at $185.85
+Cover: 100 shares at $182.58
+Buy: 100 shares at $182.58
+Sell: 100 shares at $181.34
+Short: 100 shares at $181.34
+Cover: 100 shares at $184.72
+Buy: 100 shares at $184.72
+Sell: 100 shares at $182.38
+Short: 100 shares at $182.38
+Cover: 100 shares at $177.22
+Buy: 100 shares at $177.22
+Sell: 100 shares at $173.02
+Short: 100 shares at $173.02
+Cover: 100 shares at $169.82
+Buy: 100 shares at $169.82
+Sell: 100 shares at $166.33
+Short: 100 shares at $166.33
+Cover: 100 shares at $167.50
+Buy: 100 shares at $167.50
+Sell: 100 shares at $162.06
+Short: 100 shares at $162.06
+Cover: 100 shares at $162.89
+Buy: 100 shares at $162.89
+Sell: 100 shares at $165.72
+Short: 100 shares at $165.72
+Cover: 100 shares at $165.05
+Buy: 100 shares at $165.05
+Sell: 100 shares at $161.08
+Short: 100 shares at $161.08
+Cover: 100 shares at $153.05
+Buy: 100 shares at $153.05
+Sell: 100 shares at $149.82
+Short: 100 shares at $149.82
+Cover: 100 shares at $156.23
+Buy: 100 shares at $156.23
+Sell: 100 shares at $159.27
+Short: 100 shares at $159.27
+Cover: 100 shares at $162.38
+Buy: 100 shares at $162.38
+Sell: 100 shares at $162.15
+Short: 100 shares at $162.15
+Cover: 100 shares at $165.15
+Buy: 100 shares at $165.15
+Sell: 100 shares at $163.11
+Short: 100 shares at $163.11
+Cover: 100 shares at $165.68
+Buy: 100 shares at $165.68
+Sell: 100 shares at $168.23
+Short: 100 shares at $168.23
+Cover: 100 shares at $170.89
+Buy: 100 shares at $170.89
+Sell: 100 shares at $171.62
+Short: 100 shares at $171.62
+Cover: 100 shares at $172.89
+Buy: 100 shares at $172.89
+Sell: 100 shares at $173.56
+Short: 100 shares at $173.56
+Cover: 100 shares at $174.73
+Buy: 100 shares at $174.73
+Sell: 100 shares at $178.56
+Short: 100 shares at $178.56
+Cover: 100 shares at $179.66
+Buy: 100 shares at $179.66
+Sell: 100 shares at $189.54
+Short: 100 shares at $189.54
+Cover: 100 shares at $191.11
+Buy: 100 shares at $191.11
+Sell: 100 shares at $186.24
+Short: 100 shares at $186.24
+Cover: 100 shares at $184.93
+Buy: 100 shares at $184.93
+Sell: 100 shares at $181.83
+Short: 100 shares at $181.83
+Cover: 100 shares at $176.21
+Buy: 100 shares at $176.21
+Sell: 100 shares at $182.64
+Short: 100 shares at $182.64
+Cover: 100 shares at $186.41
+Buy: 100 shares at $186.41
+Sell: 100 shares at $184.93
+Short: 100 shares at $184.93
+Cover: 100 shares at $189.26
+Buy: 100 shares at $189.26
+Sell: 100 shares at $190.66
+Short: 100 shares at $190.66
+Cover: 100 shares at $192.56
+Buy: 100 shares at $192.56
+Sell: 100 shares at $192.20
+Short: 100 shares at $192.20
+Cover: 100 shares at $193.79
+Buy: 100 shares at $193.79
+Sell: 100 shares at $193.78
+Short: 100 shares at $193.78
+Cover: 100 shares at $188.26
+Buy: 100 shares at $188.26
+Sell: 100 shares at $182.76
+Short: 100 shares at $182.76
+Cover: 100 shares at $188.43
+Buy: 100 shares at $188.43
+Sell: 100 shares at $182.07
+Short: 100 shares at $182.07
+Cover: 100 shares at $187.92
+Buy: 100 shares at $187.92
+Sell: 100 shares at $191.68
+Short: 100 shares at $191.68
+Cover: 100 shares at $192.60
+Buy: 100 shares at $192.60
+Sell: 100 shares at $192.52
+Short: 100 shares at $192.52
+Cover: 100 shares at $188.81
+Buy: 100 shares at $188.81
+Sell: 100 shares at $191.69
+Short: 100 shares at $191.69
+Cover: 100 shares at $194.09
+Buy: 100 shares at $194.09
+Sell: 100 shares at $202.15
+Short: 100 shares at $202.15
+Cover: 100 shares at $204.22
+Buy: 100 shares at $204.22
+Sell: 100 shares at $201.41
+Short: 100 shares at $201.41
+Cover: 100 shares at $203.90
+Buy: 100 shares at $203.90
+Sell: 100 shares at $212.21
+Short: 100 shares at $212.21
+Cover: 100 shares at $216.16
+Buy: 100 shares at $216.16
+Sell: 100 shares at $222.70
+Short: 100 shares at $222.70
+Cover: 100 shares at $222.60
+Buy: 100 shares at $222.60
+Sell: 100 shares at $219.07
+Short: 100 shares at $219.07
+Cover: 100 shares at $222.38
+Buy: 100 shares at $222.38
+Sell: 100 shares at $234.78
+Short: 100 shares at $234.78
+Cover: 100 shares at $216.42
+Buy: 100 shares at $216.42
+Sell: 100 shares at $208.02
+Short: 100 shares at $208.02
+Cover: 100 shares at $177.66
+Buy: 100 shares at $177.66
+Sell: 100 shares at $170.70
+Short: 100 shares at $170.70
+Cover: 100 shares at $183.66
+Buy: 100 shares at $183.66
+Sell: 100 shares at $182.31
+Short: 100 shares at $182.31
+Cover: 100 shares at $196.48
+Buy: 100 shares at $196.48
+Sell: 100 shares at $204.89
+Short: 100 shares at $204.89
+Cover: 100 shares at $213.84
+Buy: 100 shares at $213.84
+Sell: 100 shares at $212.74
+Short: 100 shares at $212.74
+Cover: 100 shares at $217.66
+Buy: 100 shares at $217.66
+Sell: 100 shares at $219.34
+Short: 100 shares at $219.34
+Cover: 100 shares at $227.43
+Buy: 100 shares at $227.43
+Sell: 100 shares at $229.04
+Short: 100 shares at $229.04
+Cover: 100 shares at $233.36
+Buy: 100 shares at $233.36
+Sell: 100 shares at $234.02
+Short: 100 shares at $234.02
+Cover: 100 shares at $242.85
+Buy: 100 shares at $242.85
+Sell: 100 shares at $243.71
+Short: 100 shares at $243.71
+Cover: 100 shares at $247.60
+Buy: 100 shares at $247.60
+Sell: 100 shares at $258.54
+Short: 100 shares at $258.54
+Cover: 100 shares at $266.78
+Buy: 100 shares at $266.78
+Sell: 100 shares at $258.01
+Short: 100 shares at $258.01
+Cover: 100 shares at $261.13
+Buy: 100 shares at $261.13
+Sell: 100 shares at $270.31
+Short: 100 shares at $270.31
+Cover: 100 shares at $272.16
+Buy: 100 shares at $272.16
+Sell: 100 shares at $287.41
+Short: 100 shares at $287.41
+Cover: 100 shares at $275.16
+Buy: 100 shares at $275.16
+Sell: 100 shares at $270.32
+Short: 100 shares at $270.32
+Cover: 100 shares at $271.56
+Buy: 100 shares at $271.56
+Sell: 100 shares at $274.31
+Short: 100 shares at $274.31
+Cover: 100 shares at $280.16
+Buy: 100 shares at $280.16
+Sell: 100 shares at $275.16
+Short: 100 shares at $275.16
+Cover: 100 shares at $281.41
+Buy: 100 shares at $281.41
+Sell: 100 shares at $288.51
+Short: 100 shares at $288.51
+Cover: 100 shares at $284.74
+Buy: 100 shares at $284.74
+Sell: 100 shares at $280.47
+Short: 100 shares at $280.47
+Cover: 100 shares at $286.91
+Buy: 100 shares at $286.91
+Sell: 100 shares at $283.42
+Short: 100 shares at $283.42
+Cover: 100 shares at $293.20
+Buy: 100 shares at $293.20
+Sell: 100 shares at $290.11
+Short: 100 shares at $290.11
+Cover: 100 shares at $292.38
+Buy: 100 shares at $292.38
+Sell: 100 shares at $290.38
+Short: 100 shares at $290.38
+Cover: 100 shares at $294.47
+Buy: 100 shares at $294.47
+Sell: 100 shares at $301.31
+Short: 100 shares at $301.31
+Cover: 100 shares at $307.29
+Buy: 100 shares at $307.29
+Sell: 100 shares at $308.20
+Short: 100 shares at $308.20
+Cover: 100 shares at $312.68
+Buy: 100 shares at $312.68
+Sell: 100 shares at $309.31
+Short: 100 shares at $309.31
+Cover: 100 shares at $314.98
+Buy: 100 shares at $314.98
+Sell: 100 shares at $314.35
+Short: 100 shares at $314.35
+Cover: 100 shares at $316.41
+Buy: 100 shares at $316.41
+Sell: 100 shares at $319.43
+Short: 100 shares at $319.43
+Cover: 100 shares at $327.68
+Buy: 100 shares at $327.68
+Sell: 100 shares at $333.93
+Short: 100 shares at $333.93
+Cover: 100 shares at $323.59
+Buy: 100 shares at $323.59
+Sell: 100 shares at $309.16
+Short: 100 shares at $309.16
+Cover: 100 shares at $311.77
+Buy: 100 shares at $311.77
+Sell: 100 shares at $312.04
+Short: 100 shares at $312.04
+Cover: 100 shares at $315.91
+Buy: 100 shares at $315.91
+Sell: 100 shares at $314.32
+Short: 100 shares at $314.32
+Cover: 100 shares at $319.13
+Buy: 100 shares at $319.13
+Sell: 100 shares at $338.88
+Short: 100 shares at $338.88
+Cover: 100 shares at $341.63
+Buy: 100 shares at $341.63
+Sell: 100 shares at $337.99
+Short: 100 shares at $337.99
+Cover: 100 shares at $334.20
+Buy: 100 shares at $334.20
+Sell: 100 shares at $325.76
+Short: 100 shares at $325.76
+Cover: 100 shares at $324.41
+Buy: 100 shares at $324.41
+Sell: 100 shares at $332.82
+Short: 100 shares at $332.82
+Cover: 100 shares at $335.60
+Buy: 100 shares at $335.60
+Sell: 100 shares at $342.63
+Short: 100 shares at $342.63
+Cover: 100 shares at $344.36
+Buy: 100 shares at $344.36
+Sell: 100 shares at $360.52
+Short: 100 shares at $360.52
+Cover: 100 shares at $361.56
+Buy: 100 shares at $361.56
+Sell: 100 shares at $365.83
+Short: 100 shares at $365.83
+Cover: 100 shares at $366.81
+Buy: 100 shares at $366.81
+Sell: 100 shares at $366.84
+Short: 100 shares at $366.84
+Cover: 100 shares at $368.82
+Buy: 100 shares at $368.82
+Sell: 100 shares at $365.73
+Short: 100 shares at $365.73
+Cover: 100 shares at $367.73
+Buy: 100 shares at $367.73
+Sell: 100 shares at $380.78
+Short: 100 shares at $380.78
+Cover: 100 shares at $378.31
+Buy: 100 shares at $378.31
+Sell: 100 shares at $373.83
+Short: 100 shares at $373.83
+Cover: 100 shares at $372.98
+Buy: 100 shares at $372.98
+Sell: 100 shares at $359.87
+Short: 100 shares at $359.87
+Cover: 100 shares at $357.38
+Buy: 100 shares at $357.38
+Sell: 100 shares at $357.14
+Short: 100 shares at $357.14
+Cover: 100 shares at $366.63
+Buy: 100 shares at $366.63
+Sell: 100 shares at $374.10
+Short: 100 shares at $374.10
+Cover: 100 shares at $377.93
+Buy: 100 shares at $377.93
+Sell: 100 shares at $395.32
+Short: 100 shares at $395.32
+Cover: 100 shares at $394.61
+Buy: 100 shares at $394.61
+Sell: 100 shares at $397.48
+Short: 100 shares at $397.48
+Cover: 100 shares at $397.83
+Buy: 100 shares at $397.83
+Sell: 100 shares at $392.26
+Short: 100 shares at $392.26
+Cover: 100 shares at $393.95
+Buy: 100 shares at $393.95
+Sell: 100 shares at $400.35
+Short: 100 shares at $400.35
+Cover: 100 shares at $385.82
+Buy: 100 shares at $385.82
+Sell: 100 shares at $377.66
+Short: 100 shares at $377.66
+Cover: 100 shares at $351.80
+Buy: 100 shares at $351.80
+Sell: 100 shares at $358.01
+Short: 100 shares at $358.01
+Cover: 100 shares at $366.73
+Buy: 100 shares at $366.73
+Sell: 100 shares at $347.06
+Short: 100 shares at $347.06
+Cover: 100 shares at $345.77
+Buy: 100 shares at $345.77
+Sell: 100 shares at $342.26
+Short: 100 shares at $342.26
+Cover: 100 shares at $328.15
+Buy: 100 shares at $328.15
+Sell: 100 shares at $362.54
+Short: 100 shares at $362.54
+Cover: 100 shares at $346.26
+Buy: 100 shares at $346.26
+Sell: 100 shares at $334.15
+Short: 100 shares at $334.15
+Cover: 100 shares at $328.01
+Buy: 100 shares at $328.01
+Sell: 100 shares at $313.25
+Short: 100 shares at $313.25
+Cover: 100 shares at $318.82
+Buy: 100 shares at $318.82
+Sell: 100 shares at $309.25
+Short: 100 shares at $309.25
+Cover: 100 shares at $301.94
+Buy: 100 shares at $301.94
+Sell: 100 shares at $289.58
+Short: 100 shares at $289.58
+Cover: 100 shares at $291.26
+Buy: 100 shares at $291.26
+Sell: 100 shares at $307.22
+Short: 100 shares at $307.22
+Cover: 100 shares at $281.08
+Buy: 100 shares at $281.08
+Sell: 100 shares at $283.54
+Short: 100 shares at $283.54
+Cover: 100 shares at $286.96
+Buy: 100 shares at $286.96
+Sell: 100 shares at $286.24
+Short: 100 shares at $286.24
+Cover: 100 shares at $291.87
+Buy: 100 shares at $291.87
+Sell: 100 shares at $294.37
+Short: 100 shares at $294.37
+Cover: 100 shares at $309.81
+Buy: 100 shares at $309.81
+Sell: 100 shares at $317.08
+Short: 100 shares at $317.08
+Cover: 100 shares at $324.08
+Buy: 100 shares at $324.08
+Sell: 100 shares at $328.49
+Short: 100 shares at $328.49
+Cover: 100 shares at $298.97
+Buy: 100 shares at $298.97
+Sell: 100 shares at $293.70
+Short: 100 shares at $293.70
+Cover: 100 shares at $279.94
+Buy: 100 shares at $279.94
+Sell: 100 shares at $271.87
+Short: 100 shares at $271.87
+Cover: 100 shares at $282.13
+Buy: 100 shares at $282.13
+Sell: 100 shares at $269.10
+Short: 100 shares at $269.10
+Cover: 100 shares at $269.35
+Buy: 100 shares at $269.35
+Sell: 100 shares at $272.87
+Short: 100 shares at $272.87
+Cover: 100 shares at $269.54
+Buy: 100 shares at $269.54
+Sell: 100 shares at $284.81
+Short: 100 shares at $284.81
+Cover: 100 shares at $288.82
+Buy: 100 shares at $288.82
+Sell: 100 shares at $282.71
+Short: 100 shares at $282.71
+Cover: 100 shares at $293.36
+Buy: 100 shares at $293.36
+Sell: 100 shares at $281.68
+Short: 100 shares at $281.68
+Cover: 100 shares at $285.58
+Buy: 100 shares at $285.58
+Sell: 100 shares at $276.89
+Short: 100 shares at $276.89
+Cover: 100 shares at $266.28
+Buy: 100 shares at $266.28
+Sell: 100 shares at $261.58
+Short: 100 shares at $261.58
+Cover: 100 shares at $268.80
+Buy: 100 shares at $268.80
+Sell: 100 shares at $277.88
+Short: 100 shares at $277.88
+Cover: 100 shares at $282.68
+Buy: 100 shares at $282.68
+Sell: 100 shares at $290.27
+Short: 100 shares at $290.27
+Cover: 100 shares at $294.62
+Buy: 100 shares at $294.62
+Sell: 100 shares at $304.37
+Short: 100 shares at $304.37
+Cover: 100 shares at $306.75
+Buy: 100 shares at $306.75
+Sell: 100 shares at $301.16
+Short: 100 shares at $301.16
+Cover: 100 shares at $293.56
+Buy: 100 shares at $293.56
+Sell: 100 shares at $291.20
+Short: 100 shares at $291.20
+Cover: 100 shares at $293.61
+Buy: 100 shares at $293.61
+Sell: 100 shares at $292.66
+Short: 100 shares at $292.66
+Cover: 100 shares at $297.37
+Buy: 100 shares at $297.37
+Sell: 100 shares at $308.76
+Short: 100 shares at $308.76
+Cover: 100 shares at $312.72
+Buy: 100 shares at $312.72
+Sell: 100 shares at $315.92
+Short: 100 shares at $315.92
+Cover: 100 shares at $319.17
+Buy: 100 shares at $319.17
+Sell: 100 shares at $316.28
+Short: 100 shares at $316.28
+Cover: 100 shares at $320.35
+Buy: 100 shares at $320.35
+Sell: 100 shares at $317.29
+Short: 100 shares at $317.29
+Cover: 100 shares at $322.89
+Buy: 100 shares at $322.89
+Sell: 100 shares at $331.65
+Short: 100 shares at $331.65
+Cover: 100 shares at $339.72
+Buy: 100 shares at $339.72
+Sell: 100 shares at $348.82
+Short: 100 shares at $348.82
+Cover: 100 shares at $360.49
+Buy: 100 shares at $360.49
+Sell: 100 shares at $361.90
+Short: 100 shares at $361.90
+Cover: 100 shares at $364.54
+Buy: 100 shares at $364.54
+Sell: 100 shares at $366.24
+Short: 100 shares at $366.24
+Cover: 100 shares at $372.82
+Buy: 100 shares at $372.82
+Sell: 100 shares at $376.76
+Short: 100 shares at $376.76
+Cover: 100 shares at $376.62
+Buy: 100 shares at $376.62
+Sell: 100 shares at $374.39
+Short: 100 shares at $374.39
+Cover: 100 shares at $363.38
+Buy: 100 shares at $363.38
+Sell: 100 shares at $374.74
+Short: 100 shares at $374.74
+Cover: 100 shares at $374.21
+Buy: 100 shares at $374.21
+Sell: 100 shares at $370.81
+Short: 100 shares at $370.81
+Short: 100 shares at $34.23
+Total Profit: $-3423.00
+Cover: 100 shares at $35.18
+Total Profit: $95.00
+Buy: 100 shares at $35.18
+Total Profit: $-3423.00
+Sell: 100 shares at $35.25
+Total Profit: $102.00
+Short: 100 shares at $35.25
+Total Profit: $-3423.00
+Cover: 100 shares at $35.30
+Total Profit: $107.00
+Buy: 100 shares at $35.30
+Total Profit: $-3423.00
+Sell: 100 shares at $34.91
+Total Profit: $68.00
+Short: 100 shares at $34.91
+Total Profit: $-3423.00
+Cover: 100 shares at $35.56
+Total Profit: $133.00
+Buy: 100 shares at $35.56
+Total Profit: $-3423.00
+Sell: 100 shares at $38.08
+Total Profit: $385.00
+Short: 100 shares at $38.08
+Total Profit: $-3423.00
+Cover: 100 shares at $38.57
+Total Profit: $434.00
+Buy: 100 shares at $38.57
+Total Profit: $-3423.00
+Sell: 100 shares at $38.15
+Total Profit: $392.00
+Short: 100 shares at $38.15
+Total Profit: $-3423.00
+Cover: 100 shares at $37.13
+Total Profit: $290.00
+Buy: 100 shares at $37.13
+Total Profit: $-3423.00
+Sell: 100 shares at $36.94
+Total Profit: $271.00
+Short: 100 shares at $36.94
+Total Profit: $-3423.00
+Cover: 100 shares at $37.44
+Total Profit: $321.00
+Buy: 100 shares at $37.44
+Total Profit: $-3423.00
+Sell: 100 shares at $36.98
+Total Profit: $275.00
+Short: 100 shares at $36.98
+Total Profit: $-3423.00
+Cover: 100 shares at $36.67
+Total Profit: $244.00
+Buy: 100 shares at $36.67
+Total Profit: $-3423.00
+Sell: 100 shares at $36.42
+Total Profit: $219.00
+Short: 100 shares at $36.42
+Total Profit: $-3423.00
+Cover: 100 shares at $36.76
+Total Profit: $253.00
+Buy: 100 shares at $36.76
+Total Profit: $-3423.00
+Sell: 100 shares at $36.63
+Total Profit: $240.00
+Short: 100 shares at $36.63
+Total Profit: $-3423.00
+Cover: 100 shares at $35.50
+Total Profit: $127.00
+Buy: 100 shares at $35.50
+Total Profit: $-3423.00
+Sell: 100 shares at $34.75
+Total Profit: $52.00
+Short: 100 shares at $34.75
+Total Profit: $-3423.00
+Cover: 100 shares at $35.34
+Total Profit: $111.00
+Buy: 100 shares at $35.34
+Total Profit: $-3423.00
+Sell: 100 shares at $36.94
+Total Profit: $271.00
+Short: 100 shares at $36.94
+Total Profit: $-3423.00
+Cover: 100 shares at $36.92
+Total Profit: $269.00
+Buy: 100 shares at $36.92
+Total Profit: $-3423.00
+Sell: 100 shares at $36.20
+Total Profit: $197.00
+Short: 100 shares at $36.20
+Total Profit: $-3423.00
+Cover: 100 shares at $35.53
+Total Profit: $130.00
+Buy: 100 shares at $35.53
+Total Profit: $-3423.00
+Sell: 100 shares at $34.67
+Total Profit: $44.00
+Short: 100 shares at $34.67
+Total Profit: $-3423.00
+Cover: 100 shares at $35.26
+Total Profit: $103.00
+Buy: 100 shares at $35.26
+Total Profit: $-3423.00
+Sell: 100 shares at $34.75
+Total Profit: $52.00
+Short: 100 shares at $34.75
+Total Profit: $-3423.00
+Cover: 100 shares at $34.85
+Total Profit: $62.00
+Buy: 100 shares at $34.85
+Total Profit: $-3423.00
+Sell: 100 shares at $36.42
+Total Profit: $219.00
+Short: 100 shares at $36.42
+Total Profit: $-3423.00
+Cover: 100 shares at $37.05
+Total Profit: $282.00
+Buy: 100 shares at $37.05
+Total Profit: $-3423.00
+Sell: 100 shares at $36.32
+Total Profit: $209.00
+Short: 100 shares at $36.32
+Total Profit: $-3423.00
+Cover: 100 shares at $37.12
+Total Profit: $289.00
+Buy: 100 shares at $37.12
+Total Profit: $-3423.00
+Sell: 100 shares at $37.04
+Total Profit: $281.00
+Short: 100 shares at $37.04
+Total Profit: $-3423.00
+Cover: 100 shares at $35.43
+Total Profit: $120.00
+Buy: 100 shares at $35.43
+Total Profit: $-3423.00
+Sell: 100 shares at $34.40
+Total Profit: $17.00
+Short: 100 shares at $34.40
+Total Profit: $-3423.00
+Cover: 100 shares at $34.87
+Total Profit: $64.00
+Buy: 100 shares at $34.87
+Total Profit: $-3423.00
+Sell: 100 shares at $34.21
+Total Profit: $-2.00
+Short: 100 shares at $34.21
+Total Profit: $-3423.00
+Cover: 100 shares at $34.38
+Total Profit: $15.00
+Buy: 100 shares at $34.38
+Total Profit: $-3423.00
+Sell: 100 shares at $34.23
+Total Profit: $0.00
+Short: 100 shares at $34.23
+Total Profit: $-3423.00
+Cover: 100 shares at $32.89
+Total Profit: $-134.00
+Buy: 100 shares at $32.89
+Total Profit: $-3423.00
+Sell: 100 shares at $33.98
+Total Profit: $-25.00
+Short: 100 shares at $33.98
+Total Profit: $-3423.00
+Cover: 100 shares at $34.78
+Total Profit: $55.00
+Buy: 100 shares at $34.78
+Total Profit: $-3423.00
+Sell: 100 shares at $34.14
+Total Profit: $-9.00
+Short: 100 shares at $34.14
+Total Profit: $-3423.00
+Cover: 100 shares at $34.43
+Total Profit: $20.00
+Buy: 100 shares at $34.43
+Total Profit: $-3423.00
+Sell: 100 shares at $35.43
+Total Profit: $120.00
+Short: 100 shares at $35.43
+Total Profit: $-3423.00
+Cover: 100 shares at $35.57
+Total Profit: $134.00
+Buy: 100 shares at $35.57
+Total Profit: $-3423.00
+Sell: 100 shares at $34.95
+Total Profit: $72.00
+Short: 100 shares at $34.95
+Total Profit: $-3423.00
+Cover: 100 shares at $35.08
+Total Profit: $85.00
+Buy: 100 shares at $35.08
+Total Profit: $-3423.00
+Sell: 100 shares at $35.58
+Total Profit: $135.00
+Short: 100 shares at $35.58
+Total Profit: $-3423.00
+Cover: 100 shares at $35.63
+Total Profit: $140.00
+Buy: 100 shares at $35.63
+Total Profit: $-3423.00
+Sell: 100 shares at $35.80
+Total Profit: $157.00
+Short: 100 shares at $35.80
+Total Profit: $-3423.00
+Cover: 100 shares at $36.73
+Total Profit: $250.00
+Buy: 100 shares at $36.73
+Total Profit: $-3423.00
+Sell: 100 shares at $38.68
+Total Profit: $445.00
+Short: 100 shares at $38.68
+Total Profit: $-3423.00
+Cover: 100 shares at $39.33
+Total Profit: $510.00
+Buy: 100 shares at $39.33
+Total Profit: $-3423.00
+Sell: 100 shares at $39.12
+Total Profit: $489.00
+Short: 100 shares at $39.12
+Total Profit: $-3423.00
+Cover: 100 shares at $39.92
+Total Profit: $569.00
+Buy: 100 shares at $39.92
+Total Profit: $-3423.00
+Sell: 100 shares at $39.58
+Total Profit: $535.00
+Short: 100 shares at $39.58
+Total Profit: $-3423.00
+Cover: 100 shares at $40.28
+Total Profit: $605.00
+Buy: 100 shares at $40.28
+Total Profit: $-3423.00
+Sell: 100 shares at $39.95
+Total Profit: $572.00
+Short: 100 shares at $39.95
+Total Profit: $-3423.00
+Cover: 100 shares at $39.76
+Total Profit: $553.00
+Buy: 100 shares at $39.76
+Total Profit: $-3423.00
+Sell: 100 shares at $39.50
+Total Profit: $527.00
+Short: 100 shares at $39.50
+Total Profit: $-3423.00
+Cover: 100 shares at $38.58
+Total Profit: $435.00
+Buy: 100 shares at $38.58
+Total Profit: $-3423.00
+Sell: 100 shares at $38.07
+Total Profit: $384.00
+Short: 100 shares at $38.07
+Total Profit: $-3423.00
+Cover: 100 shares at $38.43
+Total Profit: $420.00
+Buy: 100 shares at $38.43
+Total Profit: $-3423.00
+Sell: 100 shares at $38.08
+Total Profit: $385.00
+Short: 100 shares at $38.08
+Total Profit: $-3423.00
+Cover: 100 shares at $37.10
+Total Profit: $287.00
+Buy: 100 shares at $37.10
+Total Profit: $-3423.00
+Sell: 100 shares at $37.11
+Total Profit: $288.00
+Short: 100 shares at $37.11
+Total Profit: $-3423.00
+Cover: 100 shares at $37.87
+Total Profit: $364.00
+Buy: 100 shares at $37.87
+Total Profit: $-3423.00
+Sell: 100 shares at $37.47
+Total Profit: $324.00
+Short: 100 shares at $37.47
+Total Profit: $-3423.00
+Cover: 100 shares at $37.62
+Total Profit: $339.00
+Buy: 100 shares at $37.62
+Total Profit: $-3423.00
+Sell: 100 shares at $37.30
+Total Profit: $307.00
+Short: 100 shares at $37.30
+Total Profit: $-3423.00
+Cover: 100 shares at $38.06
+Total Profit: $383.00
+Buy: 100 shares at $38.06
+Total Profit: $-3423.00
+Sell: 100 shares at $37.52
+Total Profit: $329.00
+Short: 100 shares at $37.52
+Total Profit: $-3423.00
+Cover: 100 shares at $36.34
+Total Profit: $211.00
+Buy: 100 shares at $36.34
+Total Profit: $-3423.00
+Sell: 100 shares at $36.05
+Total Profit: $182.00
+Short: 100 shares at $36.05
+Total Profit: $-3423.00
+Cover: 100 shares at $36.73
+Total Profit: $250.00
+Buy: 100 shares at $36.73
+Total Profit: $-3423.00
+Sell: 100 shares at $36.20
+Total Profit: $197.00
+Short: 100 shares at $36.20
+Total Profit: $-3423.00
+Cover: 100 shares at $36.46
+Total Profit: $223.00
+Buy: 100 shares at $36.46
+Total Profit: $-3423.00
+Sell: 100 shares at $36.50
+Total Profit: $227.00
+Short: 100 shares at $36.50
+Total Profit: $-3423.00
+Cover: 100 shares at $36.94
+Total Profit: $271.00
+Buy: 100 shares at $36.94
+Total Profit: $-3423.00
+Sell: 100 shares at $36.48
+Total Profit: $225.00
+Short: 100 shares at $36.48
+Total Profit: $-3423.00
+Cover: 100 shares at $35.62
+Total Profit: $139.00
+Buy: 100 shares at $35.62
+Total Profit: $-3423.00
+Sell: 100 shares at $35.10
+Total Profit: $87.00
+Short: 100 shares at $35.10
+Total Profit: $-3423.00
+Cover: 100 shares at $35.30
+Total Profit: $107.00
+Buy: 100 shares at $35.30
+Total Profit: $-3423.00
+Sell: 100 shares at $35.95
+Total Profit: $172.00
+Short: 100 shares at $35.95
+Total Profit: $-3423.00
+Cover: 100 shares at $36.24
+Total Profit: $201.00
+Buy: 100 shares at $36.24
+Total Profit: $-3423.00
+Sell: 100 shares at $38.08
+Total Profit: $385.00
+Short: 100 shares at $38.08
+Total Profit: $-3423.00
+Cover: 100 shares at $38.39
+Total Profit: $416.00
+Buy: 100 shares at $38.39
+Total Profit: $-3423.00
+Sell: 100 shares at $38.10
+Total Profit: $387.00
+Short: 100 shares at $38.10
+Total Profit: $-3423.00
+Cover: 100 shares at $37.70
+Total Profit: $347.00
+Buy: 100 shares at $37.70
+Total Profit: $-3423.00
+Sell: 100 shares at $37.81
+Total Profit: $358.00
+Short: 100 shares at $37.81
+Total Profit: $-3423.00
+Cover: 100 shares at $37.11
+Total Profit: $288.00
+Buy: 100 shares at $37.11
+Total Profit: $-3423.00
+Sell: 100 shares at $39.27
+Total Profit: $504.00
+Short: 100 shares at $39.27
+Total Profit: $-3423.00
+Cover: 100 shares at $39.72
+Total Profit: $549.00
+Buy: 100 shares at $39.72
+Total Profit: $-3423.00
+Sell: 100 shares at $39.67
+Total Profit: $544.00
+Short: 100 shares at $39.67
+Total Profit: $-3423.00
+Cover: 100 shares at $39.43
+Total Profit: $520.00
+Buy: 100 shares at $39.43
+Total Profit: $-3423.00
+Sell: 100 shares at $39.21
+Total Profit: $498.00
+Short: 100 shares at $39.21
+Total Profit: $-3423.00
+Cover: 100 shares at $39.45
+Total Profit: $522.00
+Buy: 100 shares at $39.45
+Total Profit: $-3423.00
+Sell: 100 shares at $38.81
+Total Profit: $458.00
+Short: 100 shares at $38.81
+Total Profit: $-3423.00
+Cover: 100 shares at $38.76
+Total Profit: $453.00
+Buy: 100 shares at $38.76
+Total Profit: $-3423.00
+Sell: 100 shares at $39.18
+Total Profit: $495.00
+Short: 100 shares at $39.18
+Total Profit: $-3423.00
+Cover: 100 shares at $38.76
+Total Profit: $453.00
+Buy: 100 shares at $38.76
+Total Profit: $-3423.00
+Sell: 100 shares at $38.76
+Total Profit: $453.00
+Short: 100 shares at $38.76
+Total Profit: $-3423.00
+Cover: 100 shares at $38.06
+Total Profit: $383.00
+Buy: 100 shares at $38.06
+Total Profit: $-3423.00
+Sell: 100 shares at $38.03
+Total Profit: $380.00
+Short: 100 shares at $38.03
+Total Profit: $-3423.00
+Cover: 100 shares at $38.84
+Total Profit: $461.00
+Buy: 100 shares at $38.84
+Total Profit: $-3423.00
+Sell: 100 shares at $41.54
+Total Profit: $731.00
+Short: 100 shares at $41.54
+Total Profit: $-3423.00
+Cover: 100 shares at $42.01
+Total Profit: $778.00
+Buy: 100 shares at $42.01
+Total Profit: $-3423.00
+Sell: 100 shares at $41.56
+Total Profit: $733.00
+Short: 100 shares at $41.56
+Total Profit: $-3423.00
+Cover: 100 shares at $41.87
+Total Profit: $764.00
+Buy: 100 shares at $41.87
+Total Profit: $-3423.00
+Sell: 100 shares at $41.58
+Total Profit: $735.00
+Short: 100 shares at $41.58
+Total Profit: $-3423.00
+Cover: 100 shares at $41.40
+Total Profit: $717.00
+Buy: 100 shares at $41.40
+Total Profit: $-3423.00
+Sell: 100 shares at $40.99
+Total Profit: $676.00
+Short: 100 shares at $40.99
+Total Profit: $-3423.00
+Cover: 100 shares at $41.31
+Total Profit: $708.00
+Buy: 100 shares at $41.31
+Total Profit: $-3423.00
+Sell: 100 shares at $42.70
+Total Profit: $847.00
+Short: 100 shares at $42.70
+Total Profit: $-3423.00
+Cover: 100 shares at $41.55
+Total Profit: $732.00
+Buy: 100 shares at $41.55
+Total Profit: $-3423.00
+Sell: 100 shares at $41.43
+Total Profit: $720.00
+Short: 100 shares at $41.43
+Total Profit: $-3423.00
+Cover: 100 shares at $40.96
+Total Profit: $673.00
+Buy: 100 shares at $40.96
+Total Profit: $-3423.00
+Sell: 100 shares at $40.49
+Total Profit: $626.00
+Short: 100 shares at $40.49
+Total Profit: $-3423.00
+Cover: 100 shares at $40.90
+Total Profit: $667.00
+Buy: 100 shares at $40.90
+Total Profit: $-3423.00
+Sell: 100 shares at $40.75
+Total Profit: $652.00
+Short: 100 shares at $40.75
+Total Profit: $-3423.00
+Cover: 100 shares at $41.72
+Total Profit: $749.00
+Buy: 100 shares at $41.72
+Total Profit: $-3423.00
+Sell: 100 shares at $41.45
+Total Profit: $722.00
+Short: 100 shares at $41.45
+Total Profit: $-3423.00
+Cover: 100 shares at $41.37
+Total Profit: $714.00
+Buy: 100 shares at $41.37
+Total Profit: $-3423.00
+Sell: 100 shares at $41.11
+Total Profit: $688.00
+Short: 100 shares at $41.11
+Total Profit: $-3423.00
+Cover: 100 shares at $41.31
+Total Profit: $708.00
+Buy: 100 shares at $41.31
+Total Profit: $-3423.00
+Sell: 100 shares at $42.26
+Total Profit: $803.00
+Short: 100 shares at $42.26
+Total Profit: $-3423.00
+Cover: 100 shares at $42.46
+Total Profit: $823.00
+Buy: 100 shares at $42.46
+Total Profit: $-3423.00
+Sell: 100 shares at $41.96
+Total Profit: $773.00
+Short: 100 shares at $41.96
+Total Profit: $-3423.00
+Cover: 100 shares at $42.16
+Total Profit: $793.00
+Buy: 100 shares at $42.16
+Total Profit: $-3423.00
+Sell: 100 shares at $41.67
+Total Profit: $744.00
+Short: 100 shares at $41.67
+Total Profit: $-3423.00
+Cover: 100 shares at $39.36
+Total Profit: $513.00
+Buy: 100 shares at $39.36
+Total Profit: $-3423.00
+Sell: 100 shares at $38.82
+Total Profit: $459.00
+Short: 100 shares at $38.82
+Total Profit: $-3423.00
+Cover: 100 shares at $39.74
+Total Profit: $551.00
+Buy: 100 shares at $39.74
+Total Profit: $-3423.00
+Sell: 100 shares at $38.78
+Total Profit: $455.00
+Short: 100 shares at $38.78
+Total Profit: $-3423.00
+Cover: 100 shares at $38.65
+Total Profit: $442.00
+Buy: 100 shares at $38.65
+Total Profit: $-3423.00
+Sell: 100 shares at $38.19
+Total Profit: $396.00
+Short: 100 shares at $38.19
+Total Profit: $-3423.00
+Cover: 100 shares at $38.25
+Total Profit: $402.00
+Buy: 100 shares at $38.25
+Total Profit: $-3423.00
+Sell: 100 shares at $37.53
+Total Profit: $330.00
+Short: 100 shares at $37.53
+Total Profit: $-3423.00
+Cover: 100 shares at $38.96
+Total Profit: $473.00
+Buy: 100 shares at $38.96
+Total Profit: $-3423.00
+Sell: 100 shares at $37.69
+Total Profit: $346.00
+Short: 100 shares at $37.69
+Total Profit: $-3423.00
+Cover: 100 shares at $36.62
+Total Profit: $239.00
+Buy: 100 shares at $36.62
+Total Profit: $-3423.00
+Sell: 100 shares at $35.70
+Total Profit: $147.00
+Short: 100 shares at $35.70
+Total Profit: $-3423.00
+Cover: 100 shares at $36.41
+Total Profit: $218.00
+Buy: 100 shares at $36.41
+Total Profit: $-3423.00
+Sell: 100 shares at $36.48
+Total Profit: $225.00
+Short: 100 shares at $36.48
+Total Profit: $-3423.00
+Cover: 100 shares at $36.89
+Total Profit: $266.00
+Buy: 100 shares at $36.89
+Total Profit: $-3423.00
+Sell: 100 shares at $36.95
+Total Profit: $272.00
+Short: 100 shares at $36.95
+Total Profit: $-3423.00
+Cover: 100 shares at $36.77
+Total Profit: $254.00
+Buy: 100 shares at $36.77
+Total Profit: $-3423.00
+Sell: 100 shares at $38.43
+Total Profit: $420.00
+Short: 100 shares at $38.43
+Total Profit: $-3423.00
+Cover: 100 shares at $38.61
+Total Profit: $438.00
+Buy: 100 shares at $38.61
+Total Profit: $-3423.00
+Sell: 100 shares at $38.67
+Total Profit: $444.00
+Short: 100 shares at $38.67
+Total Profit: $-3423.00
+Cover: 100 shares at $39.68
+Total Profit: $545.00
+Buy: 100 shares at $39.68
+Total Profit: $-3423.00
+Sell: 100 shares at $39.85
+Total Profit: $562.00
+Short: 100 shares at $39.85
+Total Profit: $-3423.00
+Cover: 100 shares at $40.43
+Total Profit: $620.00
+Buy: 100 shares at $40.43
+Total Profit: $-3423.00
+Sell: 100 shares at $40.18
+Total Profit: $595.00
+Short: 100 shares at $40.18
+Total Profit: $-3423.00
+Cover: 100 shares at $40.57
+Total Profit: $634.00
+Buy: 100 shares at $40.57
+Total Profit: $-3423.00
+Sell: 100 shares at $40.14
+Total Profit: $591.00
+Short: 100 shares at $40.14
+Total Profit: $-3423.00
+Cover: 100 shares at $41.30
+Total Profit: $707.00
+Buy: 100 shares at $41.30
+Total Profit: $-3423.00
+Sell: 100 shares at $41.54
+Total Profit: $731.00
+Short: 100 shares at $41.54
+Total Profit: $-3423.00
+Cover: 100 shares at $42.20
+Total Profit: $797.00
+Buy: 100 shares at $42.20
+Total Profit: $-3423.00
+Sell: 100 shares at $41.80
+Total Profit: $757.00
+Short: 100 shares at $41.80
+Total Profit: $-3423.00
+Cover: 100 shares at $42.43
+Total Profit: $820.00
+Buy: 100 shares at $42.43
+Total Profit: $-3423.00
+Sell: 100 shares at $42.48
+Total Profit: $825.00
+Short: 100 shares at $42.48
+Total Profit: $-3423.00
+Cover: 100 shares at $42.58
+Total Profit: $835.00
+Buy: 100 shares at $42.58
+Total Profit: $-3423.00
+Sell: 100 shares at $42.04
+Total Profit: $781.00
+Short: 100 shares at $42.04
+Total Profit: $-3423.00
+Cover: 100 shares at $42.54
+Total Profit: $831.00
+Buy: 100 shares at $42.54
+Total Profit: $-3423.00
+Sell: 100 shares at $43.64
+Total Profit: $941.00
+Short: 100 shares at $43.64
+Total Profit: $-3423.00
+Cover: 100 shares at $44.26
+Total Profit: $1003.00
+Buy: 100 shares at $44.26
+Total Profit: $-3423.00
+Sell: 100 shares at $43.70
+Total Profit: $947.00
+Short: 100 shares at $43.70
+Total Profit: $-3423.00
+Cover: 100 shares at $44.37
+Total Profit: $1014.00
+Buy: 100 shares at $44.37
+Total Profit: $-3423.00
+Sell: 100 shares at $43.85
+Total Profit: $962.00
+Short: 100 shares at $43.85
+Total Profit: $-3423.00
+Cover: 100 shares at $43.16
+Total Profit: $893.00
+Buy: 100 shares at $43.16
+Total Profit: $-3423.00
+Sell: 100 shares at $44.08
+Total Profit: $985.00
+Short: 100 shares at $44.08
+Total Profit: $-3423.00
+Cover: 100 shares at $44.30
+Total Profit: $1007.00
+Buy: 100 shares at $44.30
+Total Profit: $-3423.00
+Sell: 100 shares at $43.57
+Total Profit: $934.00
+Short: 100 shares at $43.57
+Total Profit: $-3423.00
+Cover: 100 shares at $44.07
+Total Profit: $984.00
+Buy: 100 shares at $44.07
+Total Profit: $-3423.00
+Sell: 100 shares at $43.88
+Total Profit: $965.00
+Short: 100 shares at $43.88
+Total Profit: $-3423.00
+Cover: 100 shares at $44.60
+Total Profit: $1037.00
+Buy: 100 shares at $44.60
+Total Profit: $-3423.00
+Sell: 100 shares at $45.04
+Total Profit: $1081.00
+Short: 100 shares at $45.04
+Total Profit: $-3423.00
+Cover: 100 shares at $42.85
+Total Profit: $862.00
+Buy: 100 shares at $42.85
+Total Profit: $-3423.00
+Sell: 100 shares at $42.37
+Total Profit: $814.00
+Short: 100 shares at $42.37
+Total Profit: $-3423.00
+Cover: 100 shares at $42.99
+Total Profit: $876.00
+Buy: 100 shares at $42.99
+Total Profit: $-3423.00
+Sell: 100 shares at $42.89
+Total Profit: $866.00
+Short: 100 shares at $42.89
+Total Profit: $-3423.00
+Cover: 100 shares at $43.27
+Total Profit: $904.00
+Buy: 100 shares at $43.27
+Total Profit: $-3423.00
+Sell: 100 shares at $43.99
+Total Profit: $976.00
+Short: 100 shares at $43.99
+Total Profit: $-3423.00
+Cover: 100 shares at $44.16
+Total Profit: $993.00
+Buy: 100 shares at $44.16
+Total Profit: $-3423.00
+Sell: 100 shares at $44.21
+Total Profit: $998.00
+Short: 100 shares at $44.21
+Total Profit: $-3423.00
+Cover: 100 shares at $44.65
+Total Profit: $1042.00
+Buy: 100 shares at $44.65
+Total Profit: $-3423.00
+Sell: 100 shares at $45.96
+Total Profit: $1173.00
+Short: 100 shares at $45.96
+Total Profit: $-3423.00
+Cover: 100 shares at $46.59
+Total Profit: $1236.00
+Buy: 100 shares at $46.59
+Total Profit: $-3423.00
+Sell: 100 shares at $46.19
+Total Profit: $1196.00
+Short: 100 shares at $46.19
+Total Profit: $-3423.00
+Cover: 100 shares at $46.71
+Total Profit: $1248.00
+Buy: 100 shares at $46.71
+Total Profit: $-3423.00
+Sell: 100 shares at $46.16
+Total Profit: $1193.00
+Short: 100 shares at $46.16
+Total Profit: $-3423.00
+Cover: 100 shares at $47.19
+Total Profit: $1296.00
+Buy: 100 shares at $47.19
+Total Profit: $-3423.00
+Sell: 100 shares at $47.07
+Total Profit: $1284.00
+Short: 100 shares at $47.07
+Total Profit: $-3423.00
+Cover: 100 shares at $47.05
+Total Profit: $1282.00
+Buy: 100 shares at $47.05
+Total Profit: $-3423.00
+Sell: 100 shares at $47.31
+Total Profit: $1308.00
+Short: 100 shares at $47.31
+Total Profit: $-3423.00
+Cover: 100 shares at $47.54
+Total Profit: $1331.00
+Buy: 100 shares at $47.54
+Total Profit: $-3423.00
+Sell: 100 shares at $48.48
+Total Profit: $1425.00
+Short: 100 shares at $48.48
+Total Profit: $-3423.00
+Cover: 100 shares at $49.56
+Total Profit: $1533.00
+Buy: 100 shares at $49.56
+Total Profit: $-3423.00
+Sell: 100 shares at $50.05
+Total Profit: $1582.00
+Short: 100 shares at $50.05
+Total Profit: $-3423.00
+Cover: 100 shares at $48.34
+Total Profit: $1411.00
+Buy: 100 shares at $48.34
+Total Profit: $-3423.00
+Sell: 100 shares at $47.42
+Total Profit: $1319.00
+Short: 100 shares at $47.42
+Total Profit: $-3423.00
+Cover: 100 shares at $47.97
+Total Profit: $1374.00
+Buy: 100 shares at $47.97
+Total Profit: $-3423.00
+Sell: 100 shares at $47.71
+Total Profit: $1348.00
+Short: 100 shares at $47.71
+Total Profit: $-3423.00
+Cover: 100 shares at $46.53
+Total Profit: $1230.00
+Buy: 100 shares at $46.53
+Total Profit: $-3423.00
+Sell: 100 shares at $46.74
+Total Profit: $1251.00
+Short: 100 shares at $46.74
+Total Profit: $-3423.00
+Cover: 100 shares at $48.33
+Total Profit: $1410.00
+Buy: 100 shares at $48.33
+Total Profit: $-3423.00
+Sell: 100 shares at $48.23
+Total Profit: $1400.00
+Short: 100 shares at $48.23
+Total Profit: $-3423.00
+Cover: 100 shares at $48.94
+Total Profit: $1471.00
+Buy: 100 shares at $48.94
+Total Profit: $-3423.00
+Sell: 100 shares at $52.66
+Total Profit: $1843.00
+Short: 100 shares at $52.66
+Total Profit: $-3423.00
+Cover: 100 shares at $53.55
+Total Profit: $1932.00
+Buy: 100 shares at $53.55
+Total Profit: $-3423.00
+Sell: 100 shares at $52.44
+Total Profit: $1821.00
+Short: 100 shares at $52.44
+Total Profit: $-3423.00
+Cover: 100 shares at $54.18
+Total Profit: $1995.00
+Buy: 100 shares at $54.18
+Total Profit: $-3423.00
+Sell: 100 shares at $53.05
+Total Profit: $1882.00
+Short: 100 shares at $53.05
+Total Profit: $-3423.00
+Cover: 100 shares at $53.93
+Total Profit: $1970.00
+Buy: 100 shares at $53.93
+Total Profit: $-3423.00
+Sell: 100 shares at $54.07
+Total Profit: $1984.00
+Short: 100 shares at $54.07
+Total Profit: $-3423.00
+Cover: 100 shares at $54.68
+Total Profit: $2045.00
+Buy: 100 shares at $54.68
+Total Profit: $-3423.00
+Sell: 100 shares at $53.35
+Total Profit: $1912.00
+Short: 100 shares at $53.35
+Total Profit: $-3423.00
+Cover: 100 shares at $50.28
+Total Profit: $1605.00
+Buy: 100 shares at $50.28
+Total Profit: $-3423.00
+Sell: 100 shares at $49.90
+Total Profit: $1567.00
+Short: 100 shares at $49.90
+Total Profit: $-3423.00
+Cover: 100 shares at $49.84
+Total Profit: $1561.00
+Buy: 100 shares at $49.84
+Total Profit: $-3423.00
+Sell: 100 shares at $48.98
+Total Profit: $1475.00
+Short: 100 shares at $48.98
+Total Profit: $-3423.00
+Cover: 100 shares at $49.96
+Total Profit: $1573.00
+Buy: 100 shares at $49.96
+Total Profit: $-3423.00
+Sell: 100 shares at $50.67
+Total Profit: $1644.00
+Short: 100 shares at $50.67
+Total Profit: $-3423.00
+Cover: 100 shares at $52.32
+Total Profit: $1809.00
+Buy: 100 shares at $52.32
+Total Profit: $-3423.00
+Sell: 100 shares at $51.32
+Total Profit: $1709.00
+Short: 100 shares at $51.32
+Total Profit: $-3423.00
+Cover: 100 shares at $50.90
+Total Profit: $1667.00
+Buy: 100 shares at $50.90
+Total Profit: $-3423.00
+Sell: 100 shares at $51.82
+Total Profit: $1759.00
+Short: 100 shares at $51.82
+Total Profit: $-3423.00
+Cover: 100 shares at $47.87
+Total Profit: $1364.00
+Buy: 100 shares at $47.87
+Total Profit: $-3423.00
+Sell: 100 shares at $46.55
+Total Profit: $1232.00
+Short: 100 shares at $46.55
+Total Profit: $-3423.00
+Cover: 100 shares at $44.33
+Total Profit: $1010.00
+Buy: 100 shares at $44.33
+Total Profit: $-3423.00
+Sell: 100 shares at $43.67
+Total Profit: $944.00
+Short: 100 shares at $43.67
+Total Profit: $-3423.00
+Cover: 100 shares at $44.07
+Total Profit: $984.00
+Buy: 100 shares at $44.07
+Total Profit: $-3423.00
+Sell: 100 shares at $43.82
+Total Profit: $959.00
+Short: 100 shares at $43.82
+Total Profit: $-3423.00
+Cover: 100 shares at $43.90
+Total Profit: $967.00
+Buy: 100 shares at $43.90
+Total Profit: $-3423.00
+Sell: 100 shares at $42.95
+Total Profit: $872.00
+Short: 100 shares at $42.95
+Total Profit: $-3423.00
+Cover: 100 shares at $42.83
+Total Profit: $860.00
+Buy: 100 shares at $42.83
+Total Profit: $-3423.00
+Sell: 100 shares at $41.48
+Total Profit: $725.00
+Short: 100 shares at $41.48
+Total Profit: $-3423.00
+Cover: 100 shares at $43.33
+Total Profit: $910.00
+Buy: 100 shares at $43.33
+Total Profit: $-3423.00
+Sell: 100 shares at $42.26
+Total Profit: $803.00
+Short: 100 shares at $42.26
+Total Profit: $-3423.00
+Cover: 100 shares at $43.09
+Total Profit: $886.00
+Buy: 100 shares at $43.09
+Total Profit: $-3423.00
+Sell: 100 shares at $43.49
+Total Profit: $926.00
+Short: 100 shares at $43.49
+Total Profit: $-3423.00
+Cover: 100 shares at $45.59
+Total Profit: $1136.00
+Buy: 100 shares at $45.59
+Total Profit: $-3423.00
+Sell: 100 shares at $45.41
+Total Profit: $1118.00
+Short: 100 shares at $45.41
+Total Profit: $-3423.00
+Cover: 100 shares at $45.37
+Total Profit: $1114.00
+Buy: 100 shares at $45.37
+Total Profit: $-3423.00
+Sell: 100 shares at $47.15
+Total Profit: $1292.00
+Short: 100 shares at $47.15
+Total Profit: $-3423.00
+Cover: 100 shares at $47.24
+Total Profit: $1301.00
+Buy: 100 shares at $47.24
+Total Profit: $-3423.00
+Sell: 100 shares at $47.21
+Total Profit: $1298.00
+Short: 100 shares at $47.21
+Total Profit: $-3423.00
+Cover: 100 shares at $48.70
+Total Profit: $1447.00
+Buy: 100 shares at $48.70
+Total Profit: $-3423.00
+Sell: 100 shares at $48.04
+Total Profit: $1381.00
+Short: 100 shares at $48.04
+Total Profit: $-3423.00
+Cover: 100 shares at $49.09
+Total Profit: $1486.00
+Buy: 100 shares at $49.09
+Total Profit: $-3423.00
+Sell: 100 shares at $49.27
+Total Profit: $1504.00
+Short: 100 shares at $49.27
+Total Profit: $-3423.00
+Cover: 100 shares at $49.05
+Total Profit: $1482.00
+Buy: 100 shares at $49.05
+Total Profit: $-3423.00
+Sell: 100 shares at $49.13
+Total Profit: $1490.00
+Short: 100 shares at $49.13
+Total Profit: $-3423.00
+Cover: 100 shares at $50.55
+Total Profit: $1632.00
+Buy: 100 shares at $50.55
+Total Profit: $-3423.00
+Sell: 100 shares at $49.03
+Total Profit: $1480.00
+Short: 100 shares at $49.03
+Total Profit: $-3423.00
+Cover: 100 shares at $48.80
+Total Profit: $1457.00
+Buy: 100 shares at $48.80
+Total Profit: $-3423.00
+Sell: 100 shares at $47.42
+Total Profit: $1319.00
+Short: 100 shares at $47.42
+Total Profit: $-3423.00
+Cover: 100 shares at $45.97
+Total Profit: $1174.00
+Buy: 100 shares at $45.97
+Total Profit: $-3423.00
+Sell: 100 shares at $44.75
+Total Profit: $1052.00
+Short: 100 shares at $44.75
+Total Profit: $-3423.00
+Cover: 100 shares at $45.28
+Total Profit: $1105.00
+Buy: 100 shares at $45.28
+Total Profit: $-3423.00
+Sell: 100 shares at $44.56
+Total Profit: $1033.00
+Short: 100 shares at $44.56
+Total Profit: $-3423.00
+Cover: 100 shares at $45.34
+Total Profit: $1111.00
+Buy: 100 shares at $45.34
+Total Profit: $-3423.00
+Sell: 100 shares at $44.78
+Total Profit: $1055.00
+Short: 100 shares at $44.78
+Total Profit: $-3423.00
+Cover: 100 shares at $45.27
+Total Profit: $1104.00
+Buy: 100 shares at $45.27
+Total Profit: $-3423.00
+Sell: 100 shares at $44.42
+Total Profit: $1019.00
+Short: 100 shares at $44.42
+Total Profit: $-3423.00
+Cover: 100 shares at $45.34
+Total Profit: $1111.00
+Buy: 100 shares at $45.34
+Total Profit: $-3423.00
+Sell: 100 shares at $44.88
+Total Profit: $1065.00
+Short: 100 shares at $44.88
+Total Profit: $-3423.00
+Cover: 100 shares at $45.93
+Total Profit: $1170.00
+Buy: 100 shares at $45.93
+Total Profit: $-3423.00
+Sell: 100 shares at $47.60
+Total Profit: $1337.00
+Short: 100 shares at $47.60
+Total Profit: $-3423.00
+Cover: 100 shares at $47.11
+Total Profit: $1288.00
+Buy: 100 shares at $47.11
+Total Profit: $-3423.00
+Sell: 100 shares at $46.12
+Total Profit: $1189.00
+Short: 100 shares at $46.12
+Total Profit: $-3423.00
+Cover: 100 shares at $43.60
+Total Profit: $937.00
+Buy: 100 shares at $43.60
+Total Profit: $-3423.00
+Sell: 100 shares at $42.08
+Total Profit: $785.00
+Short: 100 shares at $42.08
+Total Profit: $-3423.00
+Cover: 100 shares at $42.90
+Total Profit: $867.00
+Buy: 100 shares at $42.90
+Total Profit: $-3423.00
+Sell: 100 shares at $40.88
+Total Profit: $665.00
+Short: 100 shares at $40.88
+Total Profit: $-3423.00
+Cover: 100 shares at $35.13
+Total Profit: $90.00
+Buy: 100 shares at $35.13
+Total Profit: $-3423.00
+Sell: 100 shares at $30.60
+Total Profit: $-363.00
+Short: 100 shares at $30.60
+Total Profit: $-3423.00
+Cover: 100 shares at $32.26
+Total Profit: $-197.00
+Buy: 100 shares at $32.26
+Total Profit: $-3423.00
+Sell: 100 shares at $32.30
+Total Profit: $-193.00
+Short: 100 shares at $32.30
+Total Profit: $-3423.00
+Cover: 100 shares at $31.86
+Total Profit: $-237.00
+Buy: 100 shares at $31.86
+Total Profit: $-3423.00
+Sell: 100 shares at $31.99
+Total Profit: $-224.00
+Short: 100 shares at $31.99
+Total Profit: $-3423.00
+Cover: 100 shares at $30.46
+Total Profit: $-377.00
+Buy: 100 shares at $30.46
+Total Profit: $-3423.00
+Sell: 100 shares at $28.98
+Total Profit: $-525.00
+Short: 100 shares at $28.98
+Total Profit: $-3423.00
+Cover: 100 shares at $28.30
+Total Profit: $-593.00
+Buy: 100 shares at $28.30
+Total Profit: $-3423.00
+Sell: 100 shares at $26.93
+Total Profit: $-730.00
+Short: 100 shares at $26.93
+Total Profit: $-3423.00
+Cover: 100 shares at $28.94
+Total Profit: $-529.00
+Buy: 100 shares at $28.94
+Total Profit: $-3423.00
+Sell: 100 shares at $29.68
+Total Profit: $-455.00
+Short: 100 shares at $29.68
+Total Profit: $-3423.00
+Cover: 100 shares at $30.56
+Total Profit: $-367.00
+Buy: 100 shares at $30.56
+Total Profit: $-3423.00
+Sell: 100 shares at $29.86
+Total Profit: $-437.00
+Short: 100 shares at $29.86
+Total Profit: $-3423.00
+Cover: 100 shares at $29.49
+Total Profit: $-474.00
+Buy: 100 shares at $29.49
+Total Profit: $-3423.00
+Sell: 100 shares at $30.76
+Total Profit: $-347.00
+Short: 100 shares at $30.76
+Total Profit: $-3423.00
+Cover: 100 shares at $29.42
+Total Profit: $-481.00
+Buy: 100 shares at $29.42
+Total Profit: $-3423.00
+Sell: 100 shares at $27.96
+Total Profit: $-627.00
+Short: 100 shares at $27.96
+Total Profit: $-3423.00
+Cover: 100 shares at $29.15
+Total Profit: $-508.00
+Buy: 100 shares at $29.15
+Total Profit: $-3423.00
+Sell: 100 shares at $29.06
+Total Profit: $-517.00
+Short: 100 shares at $29.06
+Total Profit: $-3423.00
+Cover: 100 shares at $29.87
+Total Profit: $-436.00
+Buy: 100 shares at $29.87
+Total Profit: $-3423.00
+Sell: 100 shares at $30.34
+Total Profit: $-389.00
+Short: 100 shares at $30.34
+Total Profit: $-3423.00
+Cover: 100 shares at $28.59
+Total Profit: $-564.00
+Buy: 100 shares at $28.59
+Total Profit: $-3423.00
+Sell: 100 shares at $27.79
+Total Profit: $-644.00
+Short: 100 shares at $27.79
+Total Profit: $-3423.00
+Cover: 100 shares at $27.33
+Total Profit: $-690.00
+Buy: 100 shares at $27.33
+Total Profit: $-3423.00
+Sell: 100 shares at $30.06
+Total Profit: $-417.00
+Short: 100 shares at $30.06
+Total Profit: $-3423.00
+Cover: 100 shares at $31.76
+Total Profit: $-247.00
+Buy: 100 shares at $31.76
+Total Profit: $-3423.00
+Sell: 100 shares at $32.24
+Total Profit: $-199.00
+Short: 100 shares at $32.24
+Total Profit: $-3423.00
+Cover: 100 shares at $33.69
+Total Profit: $-54.00
+Buy: 100 shares at $33.69
+Total Profit: $-3423.00
+Sell: 100 shares at $34.21
+Total Profit: $-2.00
+Short: 100 shares at $34.21
+Total Profit: $-3423.00
+Cover: 100 shares at $34.24
+Total Profit: $1.00
+Buy: 100 shares at $34.24
+Total Profit: $-3423.00
+Sell: 100 shares at $33.54
+Total Profit: $-69.00
+Short: 100 shares at $33.54
+Total Profit: $-3423.00
+Cover: 100 shares at $34.79
+Total Profit: $56.00
+Buy: 100 shares at $34.79
+Total Profit: $-3423.00
+Sell: 100 shares at $36.67
+Total Profit: $244.00
+Short: 100 shares at $36.67
+Total Profit: $-3423.00
+Cover: 100 shares at $36.95
+Total Profit: $272.00
+Buy: 100 shares at $36.95
+Total Profit: $-3423.00
+Sell: 100 shares at $36.82
+Total Profit: $259.00
+Short: 100 shares at $36.82
+Total Profit: $-3423.00
+Cover: 100 shares at $36.16
+Total Profit: $193.00
+Buy: 100 shares at $36.16
+Total Profit: $-3423.00
+Sell: 100 shares at $35.08
+Total Profit: $85.00
+Short: 100 shares at $35.08
+Total Profit: $-3423.00
+Cover: 100 shares at $36.29
+Total Profit: $206.00
+Buy: 100 shares at $36.29
+Total Profit: $-3423.00
+Sell: 100 shares at $35.60
+Total Profit: $137.00
+Short: 100 shares at $35.60
+Total Profit: $-3423.00
+Cover: 100 shares at $35.59
+Total Profit: $136.00
+Buy: 100 shares at $35.59
+Total Profit: $-3423.00
+Sell: 100 shares at $39.34
+Total Profit: $511.00
+Short: 100 shares at $39.34
+Total Profit: $-3423.00
+Cover: 100 shares at $39.45
+Total Profit: $522.00
+Buy: 100 shares at $39.45
+Total Profit: $-3423.00
+Sell: 100 shares at $39.38
+Total Profit: $515.00
+Short: 100 shares at $39.38
+Total Profit: $-3423.00
+Cover: 100 shares at $39.87
+Total Profit: $564.00
+Buy: 100 shares at $39.87
+Total Profit: $-3423.00
+Sell: 100 shares at $39.63
+Total Profit: $540.00
+Short: 100 shares at $39.63
+Total Profit: $-3423.00
+Cover: 100 shares at $39.76
+Total Profit: $553.00
+Buy: 100 shares at $39.76
+Total Profit: $-3423.00
+Sell: 100 shares at $40.44
+Total Profit: $621.00
+Short: 100 shares at $40.44
+Total Profit: $-3423.00
+Cover: 100 shares at $40.36
+Total Profit: $613.00
+Buy: 100 shares at $40.36
+Total Profit: $-3423.00
+Sell: 100 shares at $42.45
+Total Profit: $822.00
+Short: 100 shares at $42.45
+Total Profit: $-3423.00
+Cover: 100 shares at $42.25
+Total Profit: $802.00
+Buy: 100 shares at $42.25
+Total Profit: $-3423.00
+Sell: 100 shares at $40.88
+Total Profit: $665.00
+Short: 100 shares at $40.88
+Total Profit: $-3423.00
+Cover: 100 shares at $42.06
+Total Profit: $783.00
+Buy: 100 shares at $42.06
+Total Profit: $-3423.00
+Sell: 100 shares at $43.14
+Total Profit: $891.00
+Short: 100 shares at $43.14
+Total Profit: $-3423.00
+Cover: 100 shares at $43.31
+Total Profit: $908.00
+Buy: 100 shares at $43.31
+Total Profit: $-3423.00
+Sell: 100 shares at $42.99
+Total Profit: $876.00
+Short: 100 shares at $42.99
+Total Profit: $-3423.00
+Cover: 100 shares at $41.33
+Total Profit: $710.00
+Buy: 100 shares at $41.33
+Total Profit: $-3423.00
+Sell: 100 shares at $43.66
+Total Profit: $943.00
+Short: 100 shares at $43.66
+Total Profit: $-3423.00
+Cover: 100 shares at $44.18
+Total Profit: $995.00
+Buy: 100 shares at $44.18
+Total Profit: $-3423.00
+Sell: 100 shares at $43.51
+Total Profit: $928.00
+Short: 100 shares at $43.51
+Total Profit: $-3423.00
+Cover: 100 shares at $44.07
+Total Profit: $984.00
+Buy: 100 shares at $44.07
+Total Profit: $-3423.00
+Sell: 100 shares at $43.64
+Total Profit: $941.00
+Short: 100 shares at $43.64
+Total Profit: $-3423.00
+Cover: 100 shares at $44.08
+Total Profit: $985.00
+Buy: 100 shares at $44.08
+Total Profit: $-3423.00
+Sell: 100 shares at $43.82
+Total Profit: $959.00
+Short: 100 shares at $43.82
+Total Profit: $-3423.00
+Cover: 100 shares at $44.46
+Total Profit: $1023.00
+Buy: 100 shares at $44.46
+Total Profit: $-3423.00
+Sell: 100 shares at $45.75
+Total Profit: $1152.00
+Short: 100 shares at $45.75
+Total Profit: $-3423.00
+Cover: 100 shares at $46.42
+Total Profit: $1219.00
+Buy: 100 shares at $46.42
+Total Profit: $-3423.00
+Sell: 100 shares at $46.14
+Total Profit: $1191.00
+Short: 100 shares at $46.14
+Total Profit: $-3423.00
+Cover: 100 shares at $46.55
+Total Profit: $1232.00
+Buy: 100 shares at $46.55
+Total Profit: $-3423.00
+Sell: 100 shares at $46.36
+Total Profit: $1213.00
+Short: 100 shares at $46.36
+Total Profit: $-3423.00
+Cover: 100 shares at $46.35
+Total Profit: $1212.00
+Buy: 100 shares at $46.35
+Total Profit: $-3423.00
+Sell: 100 shares at $45.85
+Total Profit: $1162.00
+Short: 100 shares at $45.85
+Total Profit: $-3423.00
+Cover: 100 shares at $46.59
+Total Profit: $1236.00
+Buy: 100 shares at $46.59
+Total Profit: $-3423.00
+Sell: 100 shares at $45.92
+Total Profit: $1169.00
+Short: 100 shares at $45.92
+Total Profit: $-3423.00
+Cover: 100 shares at $43.89
+Total Profit: $966.00
+Buy: 100 shares at $43.89
+Total Profit: $-3423.00
+Sell: 100 shares at $42.62
+Total Profit: $839.00
+Short: 100 shares at $42.62
+Total Profit: $-3423.00
+Cover: 100 shares at $43.67
+Total Profit: $944.00
+Buy: 100 shares at $43.67
+Total Profit: $-3423.00
+Sell: 100 shares at $44.16
+Total Profit: $993.00
+Short: 100 shares at $44.16
+Total Profit: $-3423.00
+Cover: 100 shares at $44.76
+Total Profit: $1053.00
+Buy: 100 shares at $44.76
+Total Profit: $-3423.00
+Sell: 100 shares at $47.49
+Total Profit: $1326.00
+Short: 100 shares at $47.49
+Total Profit: $-3423.00
+Cover: 100 shares at $47.92
+Total Profit: $1369.00
+Buy: 100 shares at $47.92
+Total Profit: $-3423.00
+Sell: 100 shares at $48.16
+Total Profit: $1393.00
+Short: 100 shares at $48.16
+Total Profit: $-3423.00
+Cover: 100 shares at $48.16
+Total Profit: $1393.00
+Buy: 100 shares at $48.16
+Total Profit: $-3423.00
+Sell: 100 shares at $49.50
+Total Profit: $1527.00
+Short: 100 shares at $49.50
+Total Profit: $-3423.00
+Cover: 100 shares at $50.31
+Total Profit: $1608.00
+Buy: 100 shares at $50.31
+Total Profit: $-3423.00
+Sell: 100 shares at $49.34
+Total Profit: $1511.00
+Short: 100 shares at $49.34
+Total Profit: $-3423.00
+Cover: 100 shares at $49.93
+Total Profit: $1570.00
+Buy: 100 shares at $49.93
+Total Profit: $-3423.00
+Sell: 100 shares at $48.43
+Total Profit: $1420.00
+Short: 100 shares at $48.43
+Total Profit: $-3423.00
+Cover: 100 shares at $47.72
+Total Profit: $1349.00
+Buy: 100 shares at $47.72
+Total Profit: $-3423.00
+Sell: 100 shares at $47.08
+Total Profit: $1285.00
+Short: 100 shares at $47.08
+Total Profit: $-3423.00
+Cover: 100 shares at $45.87
+Total Profit: $1164.00
+Buy: 100 shares at $45.87
+Total Profit: $-3423.00
+Sell: 100 shares at $45.09
+Total Profit: $1086.00
+Short: 100 shares at $45.09
+Total Profit: $-3423.00
+Cover: 100 shares at $45.50
+Total Profit: $1127.00
+Buy: 100 shares at $45.50
+Total Profit: $-3423.00
+Sell: 100 shares at $46.24
+Total Profit: $1201.00
+Short: 100 shares at $46.24
+Total Profit: $-3423.00
+Cover: 100 shares at $43.96
+Total Profit: $973.00
+Buy: 100 shares at $43.96
+Total Profit: $-3423.00
+Sell: 100 shares at $44.34
+Total Profit: $1011.00
+Short: 100 shares at $44.34
+Total Profit: $-3423.00
+Cover: 100 shares at $45.77
+Total Profit: $1154.00
+Buy: 100 shares at $45.77
+Total Profit: $-3423.00
+Sell: 100 shares at $45.71
+Total Profit: $1148.00
+Short: 100 shares at $45.71
+Total Profit: $-3423.00
+Cover: 100 shares at $46.67
+Total Profit: $1244.00
+Buy: 100 shares at $46.67
+Total Profit: $-3423.00
+Sell: 100 shares at $46.67
+Total Profit: $1244.00
+Short: 100 shares at $46.67
+Total Profit: $-3423.00
+Cover: 100 shares at $45.55
+Total Profit: $1132.00
+Buy: 100 shares at $45.55
+Total Profit: $-3423.00
+Sell: 100 shares at $44.48
+Total Profit: $1025.00
+Short: 100 shares at $44.48
+Total Profit: $-3423.00
+Cover: 100 shares at $44.76
+Total Profit: $1053.00
+Buy: 100 shares at $44.76
+Total Profit: $-3423.00
+Sell: 100 shares at $49.07
+Total Profit: $1484.00
+Short: 100 shares at $49.07
+Total Profit: $-3423.00
+Cover: 100 shares at $49.66
+Total Profit: $1543.00
+Buy: 100 shares at $49.66
+Total Profit: $-3423.00
+Sell: 100 shares at $52.22
+Total Profit: $1799.00
+Short: 100 shares at $52.22
+Total Profit: $-3423.00
+Cover: 100 shares at $52.78
+Total Profit: $1855.00
+Buy: 100 shares at $52.78
+Total Profit: $-3423.00
+Sell: 100 shares at $53.72
+Total Profit: $1949.00
+Short: 100 shares at $53.72
+Total Profit: $-3423.00
+Cover: 100 shares at $52.47
+Total Profit: $1824.00
+Buy: 100 shares at $52.47
+Total Profit: $-3423.00
+Sell: 100 shares at $52.09
+Total Profit: $1786.00
+Short: 100 shares at $52.09
+Total Profit: $-3423.00
+Cover: 100 shares at $53.19
+Total Profit: $1896.00
+Buy: 100 shares at $53.19
+Total Profit: $-3423.00
+Sell: 100 shares at $54.16
+Total Profit: $1993.00
+Short: 100 shares at $54.16
+Total Profit: $-3423.00
+Cover: 100 shares at $54.58
+Total Profit: $2035.00
+Buy: 100 shares at $54.58
+Total Profit: $-3423.00
+Sell: 100 shares at $54.67
+Total Profit: $2044.00
+Short: 100 shares at $54.67
+Total Profit: $-3423.00
+Cover: 100 shares at $55.31
+Total Profit: $2108.00
+Buy: 100 shares at $55.31
+Total Profit: $-3423.00
+Sell: 100 shares at $56.11
+Total Profit: $2188.00
+Short: 100 shares at $56.11
+Total Profit: $-3423.00
+Cover: 100 shares at $56.83
+Total Profit: $2260.00
+Buy: 100 shares at $56.83
+Total Profit: $-3423.00
+Sell: 100 shares at $55.73
+Total Profit: $2150.00
+Short: 100 shares at $55.73
+Total Profit: $-3423.00
+Cover: 100 shares at $57.05
+Total Profit: $2282.00
+Buy: 100 shares at $57.05
+Total Profit: $-3423.00
+Sell: 100 shares at $58.73
+Total Profit: $2450.00
+Short: 100 shares at $58.73
+Total Profit: $-3423.00
+Cover: 100 shares at $57.77
+Total Profit: $2354.00
+Buy: 100 shares at $57.77
+Total Profit: $-3423.00
+Sell: 100 shares at $57.19
+Total Profit: $2296.00
+Short: 100 shares at $57.19
+Total Profit: $-3423.00
+Cover: 100 shares at $57.42
+Total Profit: $2319.00
+Buy: 100 shares at $57.42
+Total Profit: $-3423.00
+Sell: 100 shares at $57.03
+Total Profit: $2280.00
+Short: 100 shares at $57.03
+Total Profit: $-3423.00
+Cover: 100 shares at $55.50
+Total Profit: $2127.00
+Buy: 100 shares at $55.50
+Total Profit: $-3423.00
+Sell: 100 shares at $57.12
+Total Profit: $2289.00
+Short: 100 shares at $57.12
+Total Profit: $-3423.00
+Cover: 100 shares at $56.65
+Total Profit: $2242.00
+Buy: 100 shares at $56.65
+Total Profit: $-3423.00
+Sell: 100 shares at $56.25
+Total Profit: $2202.00
+Short: 100 shares at $56.25
+Total Profit: $-3423.00
+Cover: 100 shares at $56.60
+Total Profit: $2237.00
+Buy: 100 shares at $56.60
+Total Profit: $-3423.00
+Sell: 100 shares at $58.97
+Total Profit: $2474.00
+Short: 100 shares at $58.97
+Total Profit: $-3423.00
+Cover: 100 shares at $59.19
+Total Profit: $2496.00
+Buy: 100 shares at $59.19
+Total Profit: $-3423.00
+Sell: 100 shares at $58.41
+Total Profit: $2418.00
+Short: 100 shares at $58.41
+Total Profit: $-3423.00
+Cover: 100 shares at $57.77
+Total Profit: $2354.00
+Buy: 100 shares at $57.77
+Total Profit: $-3423.00
+Sell: 100 shares at $56.92
+Total Profit: $2269.00
+Short: 100 shares at $56.92
+Total Profit: $-3423.00
+Cover: 100 shares at $57.43
+Total Profit: $2320.00
+Buy: 100 shares at $57.43
+Total Profit: $-3423.00
+Sell: 100 shares at $57.21
+Total Profit: $2298.00
+Short: 100 shares at $57.21
+Total Profit: $-3423.00
+Cover: 100 shares at $55.34
+Total Profit: $2111.00
+Buy: 100 shares at $55.34
+Total Profit: $-3423.00
+Sell: 100 shares at $54.29
+Total Profit: $2006.00
+Short: 100 shares at $54.29
+Total Profit: $-3423.00
+Cover: 100 shares at $55.23
+Total Profit: $2100.00
+Buy: 100 shares at $55.23
+Total Profit: $-3423.00
+Sell: 100 shares at $57.96
+Total Profit: $2373.00
+Short: 100 shares at $57.96
+Total Profit: $-3423.00
+Cover: 100 shares at $57.54
+Total Profit: $2331.00
+Buy: 100 shares at $57.54
+Total Profit: $-3423.00
+Sell: 100 shares at $58.09
+Total Profit: $2386.00
+Short: 100 shares at $58.09
+Total Profit: $-3423.00
+Cover: 100 shares at $53.10
+Total Profit: $1887.00
+Buy: 100 shares at $53.10
+Total Profit: $-3423.00
+Sell: 100 shares at $50.95
+Total Profit: $1672.00
+Short: 100 shares at $50.95
+Total Profit: $-3423.00
+Cover: 100 shares at $52.69
+Total Profit: $1846.00
+Buy: 100 shares at $52.69
+Total Profit: $-3423.00
+Sell: 100 shares at $53.28
+Total Profit: $1905.00
+Short: 100 shares at $53.28
+Total Profit: $-3423.00
+Cover: 100 shares at $53.86
+Total Profit: $1963.00
+Buy: 100 shares at $53.86
+Total Profit: $-3423.00
+Sell: 100 shares at $55.38
+Total Profit: $2115.00
+Short: 100 shares at $55.38
+Total Profit: $-3423.00
+Cover: 100 shares at $55.35
+Total Profit: $2112.00
+Buy: 100 shares at $55.35
+Total Profit: $-3423.00
+Sell: 100 shares at $52.49
+Total Profit: $1826.00
+Short: 100 shares at $52.49
+Total Profit: $-3423.00
+Cover: 100 shares at $53.53
+Total Profit: $1930.00
+Buy: 100 shares at $53.53
+Total Profit: $-3423.00
+Sell: 100 shares at $56.87
+Total Profit: $2264.00
+Short: 100 shares at $56.87
+Total Profit: $-3423.00
+Cover: 100 shares at $58.49
+Total Profit: $2426.00
+Buy: 100 shares at $58.49
+Total Profit: $-3423.00
+Sell: 100 shares at $57.95
+Total Profit: $2372.00
+Short: 100 shares at $57.95
+Total Profit: $-3423.00
+Cover: 100 shares at $58.21
+Total Profit: $2398.00
+Buy: 100 shares at $58.21
+Total Profit: $-3423.00
+Sell: 100 shares at $56.81
+Total Profit: $2258.00
+Short: 100 shares at $56.81
+Total Profit: $-3423.00
+Cover: 100 shares at $58.13
+Total Profit: $2390.00
+Buy: 100 shares at $58.13
+Total Profit: $-3423.00
+Sell: 100 shares at $55.83
+Total Profit: $2160.00
+Short: 100 shares at $55.83
+Total Profit: $-3423.00
+Cover: 100 shares at $54.72
+Total Profit: $2049.00
+Buy: 100 shares at $54.72
+Total Profit: $-3423.00
+Sell: 100 shares at $57.08
+Total Profit: $2285.00
+Short: 100 shares at $57.08
+Total Profit: $-3423.00
+Cover: 100 shares at $55.93
+Total Profit: $2170.00
+Buy: 100 shares at $55.93
+Total Profit: $-3423.00
+Sell: 100 shares at $55.59
+Total Profit: $2136.00
+Short: 100 shares at $55.59
+Total Profit: $-3423.00
+Cover: 100 shares at $55.99
+Total Profit: $2176.00
+Buy: 100 shares at $55.99
+Total Profit: $-3423.00
+Sell: 100 shares at $55.83
+Total Profit: $2160.00
+Short: 100 shares at $55.83
+Total Profit: $-3423.00
+Cover: 100 shares at $56.90
+Total Profit: $2267.00
+Buy: 100 shares at $56.90
+Total Profit: $-3423.00
+Sell: 100 shares at $62.77
+Total Profit: $2854.00
+Short: 100 shares at $62.77
+Total Profit: $-3423.00
+Cover: 100 shares at $63.63
+Total Profit: $2940.00
+Buy: 100 shares at $63.63
+Total Profit: $-3423.00
+Sell: 100 shares at $63.32
+Total Profit: $2909.00
+Short: 100 shares at $63.32
+Total Profit: $-3423.00
+Cover: 100 shares at $63.74
+Total Profit: $2951.00
+Buy: 100 shares at $63.74
+Total Profit: $-3423.00
+Sell: 100 shares at $64.20
+Total Profit: $2997.00
+Short: 100 shares at $64.20
+Total Profit: $-3423.00
+Cover: 100 shares at $64.75
+Total Profit: $3052.00
+Buy: 100 shares at $64.75
+Total Profit: $-3423.00
+Sell: 100 shares at $66.98
+Total Profit: $3275.00
+Short: 100 shares at $66.98
+Total Profit: $-3423.00
+Cover: 100 shares at $68.11
+Total Profit: $3388.00
+Buy: 100 shares at $68.11
+Total Profit: $-3423.00
+Sell: 100 shares at $67.55
+Total Profit: $3332.00
+Short: 100 shares at $67.55
+Total Profit: $-3423.00
+Cover: 100 shares at $68.23
+Total Profit: $3400.00
+Buy: 100 shares at $68.23
+Total Profit: $-3423.00
+Sell: 100 shares at $67.30
+Total Profit: $3307.00
+Short: 100 shares at $67.30
+Total Profit: $-3423.00
+Cover: 100 shares at $67.21
+Total Profit: $3298.00
+Buy: 100 shares at $67.21
+Total Profit: $-3423.00
+Sell: 100 shares at $66.19
+Total Profit: $3196.00
+Short: 100 shares at $66.19
+Total Profit: $-3423.00
+Cover: 100 shares at $66.78
+Total Profit: $3255.00
+Buy: 100 shares at $66.78
+Total Profit: $-3423.00
+Sell: 100 shares at $65.86
+Total Profit: $3163.00
+Short: 100 shares at $65.86
+Total Profit: $-3423.00
+Cover: 100 shares at $66.45
+Total Profit: $3222.00
+Buy: 100 shares at $66.45
+Total Profit: $-3423.00
+Sell: 100 shares at $67.06
+Total Profit: $3283.00
+Short: 100 shares at $67.06
+Total Profit: $-3423.00
+Cover: 100 shares at $64.18
+Total Profit: $2995.00
+Buy: 100 shares at $64.18
+Total Profit: $-3423.00
+Sell: 100 shares at $63.58
+Total Profit: $2935.00
+Short: 100 shares at $63.58
+Total Profit: $-3423.00
+Cover: 100 shares at $62.44
+Total Profit: $2821.00
+Buy: 100 shares at $62.44
+Total Profit: $-3423.00
+Sell: 100 shares at $62.33
+Total Profit: $2810.00
+Short: 100 shares at $62.33
+Total Profit: $-3423.00
+Cover: 100 shares at $62.52
+Total Profit: $2829.00
+Buy: 100 shares at $62.52
+Total Profit: $-3423.00
+Sell: 100 shares at $62.13
+Total Profit: $2790.00
+Short: 100 shares at $62.13
+Total Profit: $-3423.00
+Cover: 100 shares at $62.99
+Total Profit: $2876.00
+Buy: 100 shares at $62.99
+Total Profit: $-3423.00
+Sell: 100 shares at $62.69
+Total Profit: $2846.00
+Short: 100 shares at $62.69
+Total Profit: $-3423.00
+Cover: 100 shares at $64.16
+Total Profit: $2993.00
+Buy: 100 shares at $64.16
+Total Profit: $-3423.00
+Sell: 100 shares at $63.37
+Total Profit: $2914.00
+Short: 100 shares at $63.37
+Total Profit: $-3423.00
+Cover: 100 shares at $63.53
+Total Profit: $2930.00
+Buy: 100 shares at $63.53
+Total Profit: $-3423.00
+Sell: 100 shares at $63.46
+Total Profit: $2923.00
+Short: 100 shares at $63.46
+Total Profit: $-3423.00
+Cover: 100 shares at $64.87
+Total Profit: $3064.00
+Buy: 100 shares at $64.87
+Total Profit: $-3423.00
+Sell: 100 shares at $64.38
+Total Profit: $3015.00
+Short: 100 shares at $64.38
+Total Profit: $-3423.00
+Cover: 100 shares at $65.60
+Total Profit: $3137.00
+Buy: 100 shares at $65.60
+Total Profit: $-3423.00
+Sell: 100 shares at $67.05
+Total Profit: $3282.00
+Short: 100 shares at $67.05
+Total Profit: $-3423.00
+Cover: 100 shares at $67.22
+Total Profit: $3299.00
+Buy: 100 shares at $67.22
+Total Profit: $-3423.00
+Sell: 100 shares at $67.87
+Total Profit: $3364.00
+Short: 100 shares at $67.87
+Total Profit: $-3423.00
+Cover: 100 shares at $68.40
+Total Profit: $3417.00
+Buy: 100 shares at $68.40
+Total Profit: $-3423.00
+Sell: 100 shares at $67.71
+Total Profit: $3348.00
+Short: 100 shares at $67.71
+Total Profit: $-3423.00
+Cover: 100 shares at $69.53
+Total Profit: $3530.00
+Buy: 100 shares at $69.53
+Total Profit: $-3423.00
+Sell: 100 shares at $68.43
+Total Profit: $3420.00
+Short: 100 shares at $68.43
+Total Profit: $-3423.00
+Cover: 100 shares at $69.56
+Total Profit: $3533.00
+Buy: 100 shares at $69.56
+Total Profit: $-3423.00
+Sell: 100 shares at $70.15
+Total Profit: $3592.00
+Short: 100 shares at $70.15
+Total Profit: $-3423.00
+Cover: 100 shares at $68.67
+Total Profit: $3444.00
+Buy: 100 shares at $68.67
+Total Profit: $-3423.00
+Sell: 100 shares at $68.35
+Total Profit: $3412.00
+Short: 100 shares at $68.35
+Total Profit: $-3423.00
+Cover: 100 shares at $67.17
+Total Profit: $3294.00
+Buy: 100 shares at $67.17
+Total Profit: $-3423.00
+Sell: 100 shares at $65.68
+Total Profit: $3145.00
+Short: 100 shares at $65.68
+Total Profit: $-3423.00
+Cover: 100 shares at $65.35
+Total Profit: $3112.00
+Buy: 100 shares at $65.35
+Total Profit: $-3423.00
+Sell: 100 shares at $64.95
+Total Profit: $3072.00
+Short: 100 shares at $64.95
+Total Profit: $-3423.00
+Cover: 100 shares at $65.87
+Total Profit: $3164.00
+Buy: 100 shares at $65.87
+Total Profit: $-3423.00
+Sell: 100 shares at $64.17
+Total Profit: $2994.00
+Short: 100 shares at $64.17
+Total Profit: $-3423.00
+Cover: 100 shares at $63.78
+Total Profit: $2955.00
+Buy: 100 shares at $63.78
+Total Profit: $-3423.00
+Sell: 100 shares at $65.63
+Total Profit: $3140.00
+Short: 100 shares at $65.63
+Total Profit: $-3423.00
+Cover: 100 shares at $65.97
+Total Profit: $3174.00
+Buy: 100 shares at $65.97
+Total Profit: $-3423.00
+Sell: 100 shares at $64.69
+Total Profit: $3046.00
+Short: 100 shares at $64.69
+Total Profit: $-3423.00
+Cover: 100 shares at $66.55
+Total Profit: $3232.00
+Buy: 100 shares at $66.55
+Total Profit: $-3423.00
+Sell: 100 shares at $65.20
+Total Profit: $3097.00
+Short: 100 shares at $65.20
+Total Profit: $-3423.00
+Cover: 100 shares at $65.13
+Total Profit: $3090.00
+Buy: 100 shares at $65.13
+Total Profit: $-3423.00
+Sell: 100 shares at $66.52
+Total Profit: $3229.00
+Short: 100 shares at $66.52
+Total Profit: $-3423.00
+Cover: 100 shares at $67.17
+Total Profit: $3294.00
+Buy: 100 shares at $67.17
+Total Profit: $-3423.00
+Sell: 100 shares at $66.63
+Total Profit: $3240.00
+Short: 100 shares at $66.63
+Total Profit: $-3423.00
+Cover: 100 shares at $67.07
+Total Profit: $3284.00
+Buy: 100 shares at $67.07
+Total Profit: $-3423.00
+Sell: 100 shares at $66.66
+Total Profit: $3243.00
+Short: 100 shares at $66.66
+Total Profit: $-3423.00
+Cover: 100 shares at $67.66
+Total Profit: $3343.00
+Buy: 100 shares at $67.66
+Total Profit: $-3423.00
+Sell: 100 shares at $66.48
+Total Profit: $3225.00
+Short: 100 shares at $66.48
+Total Profit: $-3423.00
+Cover: 100 shares at $67.46
+Total Profit: $3323.00
+Buy: 100 shares at $67.46
+Total Profit: $-3423.00
+Sell: 100 shares at $67.75
+Total Profit: $3352.00
+Short: 100 shares at $67.75
+Total Profit: $-3423.00
+Cover: 100 shares at $68.24
+Total Profit: $3401.00
+Buy: 100 shares at $68.24
+Total Profit: $-3423.00
+Sell: 100 shares at $67.19
+Total Profit: $3296.00
+Short: 100 shares at $67.19
+Total Profit: $-3423.00
+Cover: 100 shares at $67.24
+Total Profit: $3301.00
+Buy: 100 shares at $67.24
+Total Profit: $-3423.00
+Sell: 100 shares at $68.72
+Total Profit: $3449.00
+Short: 100 shares at $68.72
+Total Profit: $-3423.00
+Cover: 100 shares at $68.71
+Total Profit: $3448.00
+Buy: 100 shares at $68.71
+Total Profit: $-3423.00
+Sell: 100 shares at $67.93
+Total Profit: $3370.00
+Short: 100 shares at $67.93
+Total Profit: $-3423.00
+Cover: 100 shares at $68.59
+Total Profit: $3436.00
+Buy: 100 shares at $68.59
+Total Profit: $-3423.00
+Sell: 100 shares at $68.50
+Total Profit: $3427.00
+Short: 100 shares at $68.50
+Total Profit: $-3423.00
+Cover: 100 shares at $69.04
+Total Profit: $3481.00
+Buy: 100 shares at $69.04
+Total Profit: $-3423.00
+Sell: 100 shares at $68.41
+Total Profit: $3418.00
+Short: 100 shares at $68.41
+Total Profit: $-3423.00
+Cover: 100 shares at $68.68
+Total Profit: $3445.00
+Buy: 100 shares at $68.68
+Total Profit: $-3423.00
+Sell: 100 shares at $68.56
+Total Profit: $3433.00
+Short: 100 shares at $68.56
+Total Profit: $-3423.00
+Cover: 100 shares at $68.79
+Total Profit: $3456.00
+Buy: 100 shares at $68.79
+Total Profit: $-3423.00
+Sell: 100 shares at $73.62
+Total Profit: $3939.00
+Short: 100 shares at $73.62
+Total Profit: $-3423.00
+Cover: 100 shares at $73.93
+Total Profit: $3970.00
+Buy: 100 shares at $73.93
+Total Profit: $-3423.00
+Sell: 100 shares at $73.25
+Total Profit: $3902.00
+Short: 100 shares at $73.25
+Total Profit: $-3423.00
+Cover: 100 shares at $73.39
+Total Profit: $3916.00
+Buy: 100 shares at $73.39
+Total Profit: $-3423.00
+Sell: 100 shares at $71.85
+Total Profit: $3762.00
+Short: 100 shares at $71.85
+Total Profit: $-3423.00
+Cover: 100 shares at $72.98
+Total Profit: $3875.00
+Buy: 100 shares at $72.98
+Total Profit: $-3423.00
+Sell: 100 shares at $71.03
+Total Profit: $3680.00
+Short: 100 shares at $71.03
+Total Profit: $-3423.00
+Cover: 100 shares at $71.17
+Total Profit: $3694.00
+Buy: 100 shares at $71.17
+Total Profit: $-3423.00
+Sell: 100 shares at $75.37
+Total Profit: $4114.00
+Short: 100 shares at $75.37
+Total Profit: $-3423.00
+Cover: 100 shares at $74.97
+Total Profit: $4074.00
+Buy: 100 shares at $74.97
+Total Profit: $-3423.00
+Sell: 100 shares at $76.42
+Total Profit: $4219.00
+Short: 100 shares at $76.42
+Total Profit: $-3423.00
+Cover: 100 shares at $77.10
+Total Profit: $4287.00
+Buy: 100 shares at $77.10
+Total Profit: $-3423.00
+Sell: 100 shares at $75.51
+Total Profit: $4128.00
+Short: 100 shares at $75.51
+Total Profit: $-3423.00
+Cover: 100 shares at $76.16
+Total Profit: $4193.00
+Buy: 100 shares at $76.16
+Total Profit: $-3423.00
+Sell: 100 shares at $75.14
+Total Profit: $4091.00
+Short: 100 shares at $75.14
+Total Profit: $-3423.00
+Cover: 100 shares at $75.90
+Total Profit: $4167.00
+Buy: 100 shares at $75.90
+Total Profit: $-3423.00
+Sell: 100 shares at $77.85
+Total Profit: $4362.00
+Short: 100 shares at $77.85
+Total Profit: $-3423.00
+Cover: 100 shares at $79.31
+Total Profit: $4508.00
+Buy: 100 shares at $79.31
+Total Profit: $-3423.00
+Sell: 100 shares at $78.83
+Total Profit: $4460.00
+Short: 100 shares at $78.83
+Total Profit: $-3423.00
+Cover: 100 shares at $79.07
+Total Profit: $4484.00
+Buy: 100 shares at $79.07
+Total Profit: $-3423.00
+Sell: 100 shares at $78.72
+Total Profit: $4449.00
+Short: 100 shares at $78.72
+Total Profit: $-3423.00
+Cover: 100 shares at $79.40
+Total Profit: $4517.00
+Buy: 100 shares at $79.40
+Total Profit: $-3423.00
+Sell: 100 shares at $78.74
+Total Profit: $4451.00
+Short: 100 shares at $78.74
+Total Profit: $-3423.00
+Cover: 100 shares at $79.23
+Total Profit: $4500.00
+Buy: 100 shares at $79.23
+Total Profit: $-3423.00
+Sell: 100 shares at $82.31
+Total Profit: $4808.00
+Short: 100 shares at $82.31
+Total Profit: $-3423.00
+Cover: 100 shares at $82.90
+Total Profit: $4867.00
+Buy: 100 shares at $82.90
+Total Profit: $-3423.00
+Sell: 100 shares at $82.79
+Total Profit: $4856.00
+Short: 100 shares at $82.79
+Total Profit: $-3423.00
+Cover: 100 shares at $82.54
+Total Profit: $4831.00
+Buy: 100 shares at $82.54
+Total Profit: $-3423.00
+Sell: 100 shares at $82.90
+Total Profit: $4867.00
+Short: 100 shares at $82.90
+Total Profit: $-3423.00
+Cover: 100 shares at $83.99
+Total Profit: $4976.00
+Buy: 100 shares at $83.99
+Total Profit: $-3423.00
+Sell: 100 shares at $85.49
+Total Profit: $5126.00
+Short: 100 shares at $85.49
+Total Profit: $-3423.00
+Cover: 100 shares at $86.35
+Total Profit: $5212.00
+Buy: 100 shares at $86.35
+Total Profit: $-3423.00
+Sell: 100 shares at $85.18
+Total Profit: $5095.00
+Short: 100 shares at $85.18
+Total Profit: $-3423.00
+Cover: 100 shares at $86.14
+Total Profit: $5191.00
+Buy: 100 shares at $86.14
+Total Profit: $-3423.00
+Sell: 100 shares at $87.39
+Total Profit: $5316.00
+Short: 100 shares at $87.39
+Total Profit: $-3423.00
+Cover: 100 shares at $87.96
+Total Profit: $5373.00
+Buy: 100 shares at $87.96
+Total Profit: $-3423.00
+Sell: 100 shares at $87.27
+Total Profit: $5304.00
+Short: 100 shares at $87.27
+Total Profit: $-3423.00
+Cover: 100 shares at $87.31
+Total Profit: $5308.00
+Buy: 100 shares at $87.31
+Total Profit: $-3423.00
+Sell: 100 shares at $86.01
+Total Profit: $5178.00
+Short: 100 shares at $86.01
+Total Profit: $-3423.00
+Cover: 100 shares at $87.65
+Total Profit: $5342.00
+Buy: 100 shares at $87.65
+Total Profit: $-3423.00
+Sell: 100 shares at $88.48
+Total Profit: $5425.00
+Short: 100 shares at $88.48
+Total Profit: $-3423.00
+Cover: 100 shares at $86.27
+Total Profit: $5204.00
+Buy: 100 shares at $86.27
+Total Profit: $-3423.00
+Sell: 100 shares at $84.29
+Total Profit: $5006.00
+Short: 100 shares at $84.29
+Total Profit: $-3423.00
+Cover: 100 shares at $85.77
+Total Profit: $5154.00
+Buy: 100 shares at $85.77
+Total Profit: $-3423.00
+Sell: 100 shares at $89.63
+Total Profit: $5540.00
+Short: 100 shares at $89.63
+Total Profit: $-3423.00
+Cover: 100 shares at $90.41
+Total Profit: $5618.00
+Buy: 100 shares at $90.41
+Total Profit: $-3423.00
+Sell: 100 shares at $89.67
+Total Profit: $5544.00
+Short: 100 shares at $89.67
+Total Profit: $-3423.00
+Cover: 100 shares at $90.81
+Total Profit: $5658.00
+Buy: 100 shares at $90.81
+Total Profit: $-3423.00
+Sell: 100 shares at $90.22
+Total Profit: $5599.00
+Short: 100 shares at $90.22
+Total Profit: $-3423.00
+Cover: 100 shares at $90.53
+Total Profit: $5630.00
+Buy: 100 shares at $90.53
+Total Profit: $-3423.00
+Sell: 100 shares at $88.22
+Total Profit: $5399.00
+Short: 100 shares at $88.22
+Total Profit: $-3423.00
+Cover: 100 shares at $87.67
+Total Profit: $5344.00
+Buy: 100 shares at $87.67
+Total Profit: $-3423.00
+Sell: 100 shares at $86.37
+Total Profit: $5214.00
+Short: 100 shares at $86.37
+Total Profit: $-3423.00
+Cover: 100 shares at $86.18
+Total Profit: $5195.00
+Buy: 100 shares at $86.18
+Total Profit: $-3423.00
+Sell: 100 shares at $86.19
+Total Profit: $5196.00
+Short: 100 shares at $86.19
+Total Profit: $-3423.00
+Cover: 100 shares at $87.39
+Total Profit: $5316.00
+Buy: 100 shares at $87.39
+Total Profit: $-3423.00
+Sell: 100 shares at $86.81
+Total Profit: $5258.00
+Short: 100 shares at $86.81
+Total Profit: $-3423.00
+Cover: 100 shares at $88.23
+Total Profit: $5400.00
+Buy: 100 shares at $88.23
+Total Profit: $-3423.00
+Sell: 100 shares at $87.14
+Total Profit: $5291.00
+Short: 100 shares at $87.14
+Total Profit: $-3423.00
+Cover: 100 shares at $88.84
+Total Profit: $5461.00
+Buy: 100 shares at $88.84
+Total Profit: $-3423.00
+Sell: 100 shares at $91.52
+Total Profit: $5729.00
+Short: 100 shares at $91.52
+Total Profit: $-3423.00
+Cover: 100 shares at $92.29
+Total Profit: $5806.00
+Buy: 100 shares at $92.29
+Total Profit: $-3423.00
+Sell: 100 shares at $92.05
+Total Profit: $5782.00
+Short: 100 shares at $92.05
+Total Profit: $-3423.00
+Cover: 100 shares at $92.97
+Total Profit: $5874.00
+Buy: 100 shares at $92.97
+Total Profit: $-3423.00
+Sell: 100 shares at $92.70
+Total Profit: $5847.00
+Short: 100 shares at $92.70
+Total Profit: $-3423.00
+Cover: 100 shares at $93.29
+Total Profit: $5906.00
+Buy: 100 shares at $93.29
+Total Profit: $-3423.00
+Sell: 100 shares at $94.26
+Total Profit: $6003.00
+Short: 100 shares at $94.26
+Total Profit: $-3423.00
+Cover: 100 shares at $95.84
+Total Profit: $6161.00
+Buy: 100 shares at $95.84
+Total Profit: $-3423.00
+Sell: 100 shares at $94.62
+Total Profit: $6039.00
+Short: 100 shares at $94.62
+Total Profit: $-3423.00
+Cover: 100 shares at $96.12
+Total Profit: $6189.00
+Buy: 100 shares at $96.12
+Total Profit: $-3423.00
+Sell: 100 shares at $96.77
+Total Profit: $6254.00
+Short: 100 shares at $96.77
+Total Profit: $-3423.00
+Cover: 100 shares at $94.90
+Total Profit: $6067.00
+Buy: 100 shares at $94.90
+Total Profit: $-3423.00
+Sell: 100 shares at $99.41
+Total Profit: $6518.00
+Short: 100 shares at $99.41
+Total Profit: $-3423.00
+Cover: 100 shares at $99.78
+Total Profit: $6555.00
+Buy: 100 shares at $99.78
+Total Profit: $-3423.00
+Sell: 100 shares at $99.48
+Total Profit: $6525.00
+Short: 100 shares at $99.48
+Total Profit: $-3423.00
+Cover: 100 shares at $99.89
+Total Profit: $6566.00
+Buy: 100 shares at $99.89
+Total Profit: $-3423.00
+Sell: 100 shares at $99.25
+Total Profit: $6502.00
+Short: 100 shares at $99.25
+Total Profit: $-3423.00
+Cover: 100 shares at $100.07
+Total Profit: $6584.00
+Buy: 100 shares at $100.07
+Total Profit: $-3423.00
+Sell: 100 shares at $99.48
+Total Profit: $6525.00
+Short: 100 shares at $99.48
+Total Profit: $-3423.00
+Cover: 100 shares at $100.28
+Total Profit: $6605.00
+Buy: 100 shares at $100.28
+Total Profit: $-3423.00
+Sell: 100 shares at $98.78
+Total Profit: $6455.00
+Short: 100 shares at $98.78
+Total Profit: $-3423.00
+Cover: 100 shares at $98.79
+Total Profit: $6456.00
+Buy: 100 shares at $98.79
+Total Profit: $-3423.00
+Sell: 100 shares at $97.21
+Total Profit: $6298.00
+Short: 100 shares at $97.21
+Total Profit: $-3423.00
+Cover: 100 shares at $98.45
+Total Profit: $6422.00
+Buy: 100 shares at $98.45
+Total Profit: $-3423.00
+Sell: 100 shares at $96.86
+Total Profit: $6263.00
+Short: 100 shares at $96.86
+Total Profit: $-3423.00
+Cover: 100 shares at $94.39
+Total Profit: $6016.00
+Buy: 100 shares at $94.39
+Total Profit: $-3423.00
+Sell: 100 shares at $101.60
+Total Profit: $6737.00
+Short: 100 shares at $101.60
+Total Profit: $-3423.00
+Cover: 100 shares at $101.96
+Total Profit: $6773.00
+Buy: 100 shares at $101.96
+Total Profit: $-3423.00
+Sell: 100 shares at $105.23
+Total Profit: $7100.00
+Short: 100 shares at $105.23
+Total Profit: $-3423.00
+Cover: 100 shares at $104.25
+Total Profit: $7002.00
+Buy: 100 shares at $104.25
+Total Profit: $-3423.00
+Sell: 100 shares at $104.32
+Total Profit: $7009.00
+Short: 100 shares at $104.32
+Total Profit: $-3423.00
+Cover: 100 shares at $103.30
+Total Profit: $6907.00
+Buy: 100 shares at $103.30
+Total Profit: $-3423.00
+Sell: 100 shares at $100.96
+Total Profit: $6673.00
+Short: 100 shares at $100.96
+Total Profit: $-3423.00
+Cover: 100 shares at $101.62
+Total Profit: $6739.00
+Buy: 100 shares at $101.62
+Total Profit: $-3423.00
+Sell: 100 shares at $101.44
+Total Profit: $6721.00
+Short: 100 shares at $101.44
+Total Profit: $-3423.00
+Cover: 100 shares at $102.96
+Total Profit: $6873.00
+Buy: 100 shares at $102.96
+Total Profit: $-3423.00
+Sell: 100 shares at $102.80
+Total Profit: $6857.00
+Short: 100 shares at $102.80
+Total Profit: $-3423.00
+Cover: 100 shares at $104.40
+Total Profit: $7017.00
+Buy: 100 shares at $104.40
+Total Profit: $-3423.00
+Sell: 100 shares at $108.40
+Total Profit: $7417.00
+Short: 100 shares at $108.40
+Total Profit: $-3423.00
+Cover: 100 shares at $109.38
+Total Profit: $7515.00
+Buy: 100 shares at $109.38
+Total Profit: $-3423.00
+Sell: 100 shares at $108.45
+Total Profit: $7422.00
+Short: 100 shares at $108.45
+Total Profit: $-3423.00
+Cover: 100 shares at $106.70
+Total Profit: $7247.00
+Buy: 100 shares at $106.70
+Total Profit: $-3423.00
+Sell: 100 shares at $107.93
+Total Profit: $7370.00
+Short: 100 shares at $107.93
+Total Profit: $-3423.00
+Cover: 100 shares at $105.05
+Total Profit: $7082.00
+Buy: 100 shares at $105.05
+Total Profit: $-3423.00
+Sell: 100 shares at $105.12
+Total Profit: $7089.00
+Short: 100 shares at $105.12
+Total Profit: $-3423.00
+Cover: 100 shares at $105.98
+Total Profit: $7175.00
+Buy: 100 shares at $105.98
+Total Profit: $-3423.00
+Sell: 100 shares at $107.69
+Total Profit: $7346.00
+Short: 100 shares at $107.69
+Total Profit: $-3423.00
+Cover: 100 shares at $108.06
+Total Profit: $7383.00
+Buy: 100 shares at $108.06
+Total Profit: $-3423.00
+Sell: 100 shares at $109.35
+Total Profit: $7512.00
+Short: 100 shares at $109.35
+Total Profit: $-3423.00
+Cover: 100 shares at $108.69
+Total Profit: $7446.00
+Buy: 100 shares at $108.69
+Total Profit: $-3423.00
+Sell: 100 shares at $109.20
+Total Profit: $7497.00
+Short: 100 shares at $109.20
+Total Profit: $-3423.00
+Cover: 100 shares at $110.96
+Total Profit: $7673.00
+Buy: 100 shares at $110.96
+Total Profit: $-3423.00
+Sell: 100 shares at $110.05
+Total Profit: $7582.00
+Short: 100 shares at $110.05
+Total Profit: $-3423.00
+Cover: 100 shares at $110.42
+Total Profit: $7619.00
+Buy: 100 shares at $110.42
+Total Profit: $-3423.00
+Sell: 100 shares at $110.07
+Total Profit: $7584.00
+Short: 100 shares at $110.07
+Total Profit: $-3423.00
+Cover: 100 shares at $109.65
+Total Profit: $7542.00
+Buy: 100 shares at $109.65
+Total Profit: $-3423.00
+Sell: 100 shares at $108.21
+Total Profit: $7398.00
+Short: 100 shares at $108.21
+Total Profit: $-3423.00
+Cover: 100 shares at $110.69
+Total Profit: $7646.00
+Buy: 100 shares at $110.69
+Total Profit: $-3423.00
+Sell: 100 shares at $109.27
+Total Profit: $7504.00
+Short: 100 shares at $109.27
+Total Profit: $-3423.00
+Cover: 100 shares at $107.70
+Total Profit: $7347.00
+Buy: 100 shares at $107.70
+Total Profit: $-3423.00
+Sell: 100 shares at $106.09
+Total Profit: $7186.00
+Short: 100 shares at $106.09
+Total Profit: $-3423.00
+Cover: 100 shares at $107.65
+Total Profit: $7342.00
+Buy: 100 shares at $107.65
+Total Profit: $-3423.00
+Sell: 100 shares at $112.62
+Total Profit: $7839.00
+Short: 100 shares at $112.62
+Total Profit: $-3423.00
+Cover: 100 shares at $112.08
+Total Profit: $7785.00
+Buy: 100 shares at $112.08
+Total Profit: $-3423.00
+Sell: 100 shares at $111.39
+Total Profit: $7716.00
+Short: 100 shares at $111.39
+Total Profit: $-3423.00
+Cover: 100 shares at $112.25
+Total Profit: $7802.00
+Buy: 100 shares at $112.25
+Total Profit: $-3423.00
+Sell: 100 shares at $110.45
+Total Profit: $7622.00
+Short: 100 shares at $110.45
+Total Profit: $-3423.00
+Cover: 100 shares at $110.34
+Total Profit: $7611.00
+Buy: 100 shares at $110.34
+Total Profit: $-3423.00
+Sell: 100 shares at $110.51
+Total Profit: $7628.00
+Short: 100 shares at $110.51
+Total Profit: $-3423.00
+Cover: 100 shares at $111.43
+Total Profit: $7720.00
+Buy: 100 shares at $111.43
+Total Profit: $-3423.00
+Sell: 100 shares at $110.13
+Total Profit: $7590.00
+Short: 100 shares at $110.13
+Total Profit: $-3423.00
+Cover: 100 shares at $105.64
+Total Profit: $7141.00
+Buy: 100 shares at $105.64
+Total Profit: $-3423.00
+Sell: 100 shares at $101.05
+Total Profit: $6682.00
+Short: 100 shares at $101.05
+Total Profit: $-3423.00
+Cover: 100 shares at $105.04
+Total Profit: $7081.00
+Buy: 100 shares at $105.04
+Total Profit: $-3423.00
+Sell: 100 shares at $105.35
+Total Profit: $7112.00
+Short: 100 shares at $105.35
+Total Profit: $-3423.00
+Cover: 100 shares at $102.22
+Total Profit: $6799.00
+Buy: 100 shares at $102.22
+Total Profit: $-3423.00
+Sell: 100 shares at $106.10
+Total Profit: $7187.00
+Short: 100 shares at $106.10
+Total Profit: $-3423.00
+Cover: 100 shares at $107.67
+Total Profit: $7344.00
+Buy: 100 shares at $107.67
+Total Profit: $-3423.00
+Sell: 100 shares at $107.52
+Total Profit: $7329.00
+Short: 100 shares at $107.52
+Total Profit: $-3423.00
+Cover: 100 shares at $109.71
+Total Profit: $7548.00
+Buy: 100 shares at $109.71
+Total Profit: $-3423.00
+Sell: 100 shares at $113.33
+Total Profit: $7910.00
+Short: 100 shares at $113.33
+Total Profit: $-3423.00
+Cover: 100 shares at $114.61
+Total Profit: $8038.00
+Buy: 100 shares at $114.61
+Total Profit: $-3423.00
+Sell: 100 shares at $113.57
+Total Profit: $7934.00
+Short: 100 shares at $113.57
+Total Profit: $-3423.00
+Cover: 100 shares at $113.63
+Total Profit: $7940.00
+Buy: 100 shares at $113.63
+Total Profit: $-3423.00
+Sell: 100 shares at $114.15
+Total Profit: $7992.00
+Short: 100 shares at $114.15
+Total Profit: $-3423.00
+Cover: 100 shares at $115.16
+Total Profit: $8093.00
+Buy: 100 shares at $115.16
+Total Profit: $-3423.00
+Sell: 100 shares at $112.51
+Total Profit: $7828.00
+Short: 100 shares at $112.51
+Total Profit: $-3423.00
+Cover: 100 shares at $115.14
+Total Profit: $8091.00
+Buy: 100 shares at $115.14
+Total Profit: $-3423.00
+Sell: 100 shares at $112.89
+Total Profit: $7866.00
+Short: 100 shares at $112.89
+Total Profit: $-3423.00
+Cover: 100 shares at $113.98
+Total Profit: $7975.00
+Buy: 100 shares at $113.98
+Total Profit: $-3423.00
+Sell: 100 shares at $109.83
+Total Profit: $7560.00
+Short: 100 shares at $109.83
+Total Profit: $-3423.00
+Cover: 100 shares at $112.61
+Total Profit: $7838.00
+Buy: 100 shares at $112.61
+Total Profit: $-3423.00
+Sell: 100 shares at $111.86
+Total Profit: $7763.00
+Short: 100 shares at $111.86
+Total Profit: $-3423.00
+Cover: 100 shares at $104.07
+Total Profit: $6984.00
+Buy: 100 shares at $104.07
+Total Profit: $-3423.00
+Sell: 100 shares at $100.84
+Total Profit: $6661.00
+Short: 100 shares at $100.84
+Total Profit: $-3423.00
+Cover: 100 shares at $103.77
+Total Profit: $6954.00
+Buy: 100 shares at $103.77
+Total Profit: $-3423.00
+Sell: 100 shares at $100.58
+Total Profit: $6635.00
+Short: 100 shares at $100.58
+Total Profit: $-3423.00
+Cover: 100 shares at $104.13
+Total Profit: $6990.00
+Buy: 100 shares at $104.13
+Total Profit: $-3423.00
+Sell: 100 shares at $102.15
+Total Profit: $6792.00
+Short: 100 shares at $102.15
+Total Profit: $-3423.00
+Cover: 100 shares at $98.02
+Total Profit: $6379.00
+Buy: 100 shares at $98.02
+Total Profit: $-3423.00
+Sell: 100 shares at $101.58
+Total Profit: $6735.00
+Short: 100 shares at $101.58
+Total Profit: $-3423.00
+Cover: 100 shares at $103.56
+Total Profit: $6933.00
+Buy: 100 shares at $103.56
+Total Profit: $-3423.00
+Sell: 100 shares at $102.50
+Total Profit: $6827.00
+Short: 100 shares at $102.50
+Total Profit: $-3423.00
+Cover: 100 shares at $105.79
+Total Profit: $7156.00
+Buy: 100 shares at $105.79
+Total Profit: $-3423.00
+Sell: 100 shares at $105.02
+Total Profit: $7079.00
+Short: 100 shares at $105.02
+Total Profit: $-3423.00
+Cover: 100 shares at $106.49
+Total Profit: $7226.00
+Buy: 100 shares at $106.49
+Total Profit: $-3423.00
+Sell: 100 shares at $107.23
+Total Profit: $7300.00
+Short: 100 shares at $107.23
+Total Profit: $-3423.00
+Cover: 100 shares at $108.83
+Total Profit: $7460.00
+Buy: 100 shares at $108.83
+Total Profit: $-3423.00
+Sell: 100 shares at $108.88
+Total Profit: $7465.00
+Short: 100 shares at $108.88
+Total Profit: $-3423.00
+Cover: 100 shares at $110.67
+Total Profit: $7644.00
+Buy: 100 shares at $110.67
+Total Profit: $-3423.00
+Sell: 100 shares at $109.08
+Total Profit: $7485.00
+Short: 100 shares at $109.08
+Total Profit: $-3423.00
+Cover: 100 shares at $110.91
+Total Profit: $7668.00
+Buy: 100 shares at $110.91
+Total Profit: $-3423.00
+Sell: 100 shares at $110.55
+Total Profit: $7632.00
+Short: 100 shares at $110.55
+Total Profit: $-3423.00
+Cover: 100 shares at $105.58
+Total Profit: $7135.00
+Buy: 100 shares at $105.58
+Total Profit: $-3423.00
+Sell: 100 shares at $105.50
+Total Profit: $7127.00
+Short: 100 shares at $105.50
+Total Profit: $-3423.00
+Cover: 100 shares at $106.82
+Total Profit: $7259.00
+Buy: 100 shares at $106.82
+Total Profit: $-3423.00
+Sell: 100 shares at $105.48
+Total Profit: $7125.00
+Short: 100 shares at $105.48
+Total Profit: $-3423.00
+Cover: 100 shares at $106.47
+Total Profit: $7224.00
+Buy: 100 shares at $106.47
+Total Profit: $-3423.00
+Sell: 100 shares at $110.06
+Total Profit: $7583.00
+Short: 100 shares at $110.06
+Total Profit: $-3423.00
+Cover: 100 shares at $107.50
+Total Profit: $7327.00
+Buy: 100 shares at $107.50
+Total Profit: $-3423.00
+Sell: 100 shares at $104.29
+Total Profit: $7006.00
+Short: 100 shares at $104.29
+Total Profit: $-3423.00
+Cover: 100 shares at $106.31
+Total Profit: $7208.00
+Buy: 100 shares at $106.31
+Total Profit: $-3423.00
+Sell: 100 shares at $115.34
+Total Profit: $8111.00
+Short: 100 shares at $115.34
+Total Profit: $-3423.00
+Cover: 100 shares at $115.67
+Total Profit: $8144.00
+Buy: 100 shares at $115.67
+Total Profit: $-3423.00
+Sell: 100 shares at $117.05
+Total Profit: $8282.00
+Short: 100 shares at $117.05
+Total Profit: $-3423.00
+Cover: 100 shares at $117.26
+Total Profit: $8303.00
+Buy: 100 shares at $117.26
+Total Profit: $-3423.00
+Sell: 100 shares at $117.29
+Total Profit: $8306.00
+Short: 100 shares at $117.29
+Total Profit: $-3423.00
+Cover: 100 shares at $117.56
+Total Profit: $8333.00
+Buy: 100 shares at $117.56
+Total Profit: $-3423.00
+Sell: 100 shares at $116.80
+Total Profit: $8257.00
+Short: 100 shares at $116.80
+Total Profit: $-3423.00
+Cover: 100 shares at $116.74
+Total Profit: $8251.00
+Buy: 100 shares at $116.74
+Total Profit: $-3423.00
+Sell: 100 shares at $114.28
+Total Profit: $8005.00
+Short: 100 shares at $114.28
+Total Profit: $-3423.00
+Cover: 100 shares at $117.64
+Total Profit: $8341.00
+Buy: 100 shares at $117.64
+Total Profit: $-3423.00
+Sell: 100 shares at $117.34
+Total Profit: $8311.00
+Short: 100 shares at $117.34
+Total Profit: $-3423.00
+Cover: 100 shares at $118.50
+Total Profit: $8427.00
+Buy: 100 shares at $118.50
+Total Profit: $-3423.00
+Sell: 100 shares at $118.70
+Total Profit: $8447.00
+Short: 100 shares at $118.70
+Total Profit: $-3423.00
+Cover: 100 shares at $118.72
+Total Profit: $8449.00
+Buy: 100 shares at $118.72
+Total Profit: $-3423.00
+Sell: 100 shares at $118.37
+Total Profit: $8414.00
+Short: 100 shares at $118.37
+Total Profit: $-3423.00
+Cover: 100 shares at $118.79
+Total Profit: $8456.00
+Buy: 100 shares at $118.79
+Total Profit: $-3423.00
+Sell: 100 shares at $118.47
+Total Profit: $8424.00
+Short: 100 shares at $118.47
+Total Profit: $-3423.00
+Cover: 100 shares at $119.22
+Total Profit: $8499.00
+Buy: 100 shares at $119.22
+Total Profit: $-3423.00
+Sell: 100 shares at $117.52
+Total Profit: $8329.00
+Short: 100 shares at $117.52
+Total Profit: $-3423.00
+Cover: 100 shares at $117.85
+Total Profit: $8362.00
+Buy: 100 shares at $117.85
+Total Profit: $-3423.00
+Sell: 100 shares at $117.84
+Total Profit: $8361.00
+Short: 100 shares at $117.84
+Total Profit: $-3423.00
+Cover: 100 shares at $116.35
+Total Profit: $8212.00
+Buy: 100 shares at $116.35
+Total Profit: $-3423.00
+Sell: 100 shares at $114.63
+Total Profit: $8040.00
+Short: 100 shares at $114.63
+Total Profit: $-3423.00
+Cover: 100 shares at $116.91
+Total Profit: $8268.00
+Buy: 100 shares at $116.91
+Total Profit: $-3423.00
+Sell: 100 shares at $118.94
+Total Profit: $8471.00
+Short: 100 shares at $118.94
+Total Profit: $-3423.00
+Cover: 100 shares at $118.36
+Total Profit: $8413.00
+Buy: 100 shares at $118.36
+Total Profit: $-3423.00
+Sell: 100 shares at $119.60
+Total Profit: $8537.00
+Short: 100 shares at $119.60
+Total Profit: $-3423.00
+Cover: 100 shares at $120.46
+Total Profit: $8623.00
+Buy: 100 shares at $120.46
+Total Profit: $-3423.00
+Sell: 100 shares at $120.12
+Total Profit: $8589.00
+Short: 100 shares at $120.12
+Total Profit: $-3423.00
+Cover: 100 shares at $120.20
+Total Profit: $8597.00
+Buy: 100 shares at $120.20
+Total Profit: $-3423.00
+Sell: 100 shares at $119.88
+Total Profit: $8565.00
+Short: 100 shares at $119.88
+Total Profit: $-3423.00
+Cover: 100 shares at $120.19
+Total Profit: $8596.00
+Buy: 100 shares at $120.19
+Total Profit: $-3423.00
+Sell: 100 shares at $122.79
+Total Profit: $8856.00
+Short: 100 shares at $122.79
+Total Profit: $-3423.00
+Cover: 100 shares at $123.25
+Total Profit: $8902.00
+Buy: 100 shares at $123.25
+Total Profit: $-3423.00
+Sell: 100 shares at $124.57
+Total Profit: $9034.00
+Short: 100 shares at $124.57
+Total Profit: $-3423.00
+Cover: 100 shares at $125.68
+Total Profit: $9145.00
+Buy: 100 shares at $125.68
+Total Profit: $-3423.00
+Sell: 100 shares at $130.26
+Total Profit: $9603.00
+Short: 100 shares at $130.26
+Total Profit: $-3423.00
+Cover: 100 shares at $131.44
+Total Profit: $9721.00
+Buy: 100 shares at $131.44
+Total Profit: $-3423.00
+Sell: 100 shares at $130.51
+Total Profit: $9628.00
+Short: 100 shares at $130.51
+Total Profit: $-3423.00
+Cover: 100 shares at $131.39
+Total Profit: $9716.00
+Buy: 100 shares at $131.39
+Total Profit: $-3423.00
+Sell: 100 shares at $131.81
+Total Profit: $9758.00
+Short: 100 shares at $131.81
+Total Profit: $-3423.00
+Cover: 100 shares at $130.84
+Total Profit: $9661.00
+Buy: 100 shares at $130.84
+Total Profit: $-3423.00
+Sell: 100 shares at $131.97
+Total Profit: $9774.00
+Short: 100 shares at $131.97
+Total Profit: $-3423.00
+Cover: 100 shares at $131.28
+Total Profit: $9705.00
+Buy: 100 shares at $131.28
+Total Profit: $-3423.00
+Sell: 100 shares at $136.07
+Total Profit: $10184.00
+Short: 100 shares at $136.07
+Total Profit: $-3423.00
+Cover: 100 shares at $139.14
+Total Profit: $10491.00
+Buy: 100 shares at $139.14
+Total Profit: $-3423.00
+Sell: 100 shares at $139.98
+Total Profit: $10575.00
+Short: 100 shares at $139.98
+Total Profit: $-3423.00
+Cover: 100 shares at $140.46
+Total Profit: $10623.00
+Buy: 100 shares at $140.46
+Total Profit: $-3423.00
+Sell: 100 shares at $138.03
+Total Profit: $10380.00
+Short: 100 shares at $138.03
+Total Profit: $-3423.00
+Cover: 100 shares at $137.76
+Total Profit: $10353.00
+Buy: 100 shares at $137.76
+Total Profit: $-3423.00
+Sell: 100 shares at $143.96
+Total Profit: $10973.00
+Short: 100 shares at $143.96
+Total Profit: $-3423.00
+Cover: 100 shares at $143.65
+Total Profit: $10942.00
+Buy: 100 shares at $143.65
+Total Profit: $-3423.00
+Sell: 100 shares at $141.03
+Total Profit: $10680.00
+Short: 100 shares at $141.03
+Total Profit: $-3423.00
+Cover: 100 shares at $144.03
+Total Profit: $10980.00
+Buy: 100 shares at $144.03
+Total Profit: $-3423.00
+Sell: 100 shares at $141.33
+Total Profit: $10710.00
+Short: 100 shares at $141.33
+Total Profit: $-3423.00
+Cover: 100 shares at $142.69
+Total Profit: $10846.00
+Buy: 100 shares at $142.69
+Total Profit: $-3423.00
+Sell: 100 shares at $144.21
+Total Profit: $10998.00
+Short: 100 shares at $144.21
+Total Profit: $-3423.00
+Cover: 100 shares at $146.22
+Total Profit: $11199.00
+Buy: 100 shares at $146.22
+Total Profit: $-3423.00
+Sell: 100 shares at $145.55
+Total Profit: $11132.00
+Short: 100 shares at $145.55
+Total Profit: $-3423.00
+Cover: 100 shares at $144.46
+Total Profit: $11023.00
+Buy: 100 shares at $144.46
+Total Profit: $-3423.00
+Sell: 100 shares at $147.77
+Total Profit: $11354.00
+Short: 100 shares at $147.77
+Total Profit: $-3423.00
+Cover: 100 shares at $148.34
+Total Profit: $11411.00
+Buy: 100 shares at $148.34
+Total Profit: $-3423.00
+Sell: 100 shares at $148.31
+Total Profit: $11408.00
+Short: 100 shares at $148.31
+Total Profit: $-3423.00
+Cover: 100 shares at $151.24
+Total Profit: $11701.00
+Buy: 100 shares at $151.24
+Total Profit: $-3423.00
+Sell: 100 shares at $153.68
+Total Profit: $11945.00
+Short: 100 shares at $153.68
+Total Profit: $-3423.00
+Cover: 100 shares at $154.54
+Total Profit: $12031.00
+Buy: 100 shares at $154.54
+Total Profit: $-3423.00
+Sell: 100 shares at $153.86
+Total Profit: $11963.00
+Short: 100 shares at $153.86
+Total Profit: $-3423.00
+Cover: 100 shares at $154.02
+Total Profit: $11979.00
+Buy: 100 shares at $154.02
+Total Profit: $-3423.00
+Sell: 100 shares at $157.55
+Total Profit: $12332.00
+Short: 100 shares at $157.55
+Total Profit: $-3423.00
+Cover: 100 shares at $158.49
+Total Profit: $12426.00
+Buy: 100 shares at $158.49
+Total Profit: $-3423.00
+Sell: 100 shares at $168.70
+Total Profit: $13447.00
+Short: 100 shares at $168.70
+Total Profit: $-3423.00
+Cover: 100 shares at $158.87
+Total Profit: $12464.00
+Buy: 100 shares at $158.87
+Total Profit: $-3423.00
+Sell: 100 shares at $164.80
+Total Profit: $13057.00
+Short: 100 shares at $164.80
+Total Profit: $-3423.00
+Cover: 100 shares at $168.17
+Total Profit: $13394.00
+Buy: 100 shares at $168.17
+Total Profit: $-3423.00
+Sell: 100 shares at $164.48
+Total Profit: $13025.00
+Short: 100 shares at $164.48
+Total Profit: $-3423.00
+Cover: 100 shares at $168.54
+Total Profit: $13431.00
+Buy: 100 shares at $168.54
+Total Profit: $-3423.00
+Sell: 100 shares at $171.53
+Total Profit: $13730.00
+Short: 100 shares at $171.53
+Total Profit: $-3423.00
+Cover: 100 shares at $160.13
+Total Profit: $12590.00
+Buy: 100 shares at $160.13
+Total Profit: $-3423.00
+Sell: 100 shares at $155.51
+Total Profit: $12128.00
+Short: 100 shares at $155.51
+Total Profit: $-3423.00
+Cover: 100 shares at $159.74
+Total Profit: $12551.00
+Buy: 100 shares at $159.74
+Total Profit: $-3423.00
+Sell: 100 shares at $156.63
+Total Profit: $12240.00
+Short: 100 shares at $156.63
+Total Profit: $-3423.00
+Cover: 100 shares at $157.73
+Total Profit: $12350.00
+Buy: 100 shares at $157.73
+Total Profit: $-3423.00
+Sell: 100 shares at $162.30
+Total Profit: $12807.00
+Short: 100 shares at $162.30
+Total Profit: $-3423.00
+Cover: 100 shares at $162.09
+Total Profit: $12786.00
+Buy: 100 shares at $162.09
+Total Profit: $-3423.00
+Sell: 100 shares at $161.80
+Total Profit: $12757.00
+Short: 100 shares at $161.80
+Total Profit: $-3423.00
+Cover: 100 shares at $164.87
+Total Profit: $13064.00
+Buy: 100 shares at $164.87
+Total Profit: $-3423.00
+Sell: 100 shares at $167.87
+Total Profit: $13364.00
+Short: 100 shares at $167.87
+Total Profit: $-3423.00
+Cover: 100 shares at $169.60
+Total Profit: $13537.00
+Buy: 100 shares at $169.60
+Total Profit: $-3423.00
+Sell: 100 shares at $174.44
+Total Profit: $14021.00
+Short: 100 shares at $174.44
+Total Profit: $-3423.00
+Cover: 100 shares at $175.82
+Total Profit: $14159.00
+Buy: 100 shares at $175.82
+Total Profit: $-3423.00
+Sell: 100 shares at $175.71
+Total Profit: $14148.00
+Short: 100 shares at $175.71
+Total Profit: $-3423.00
+Cover: 100 shares at $172.80
+Total Profit: $13857.00
+Buy: 100 shares at $172.80
+Total Profit: $-3423.00
+Sell: 100 shares at $179.03
+Total Profit: $14480.00
+Short: 100 shares at $179.03
+Total Profit: $-3423.00
+Cover: 100 shares at $180.30
+Total Profit: $14607.00
+Buy: 100 shares at $180.30
+Total Profit: $-3423.00
+Sell: 100 shares at $177.62
+Total Profit: $14339.00
+Short: 100 shares at $177.62
+Total Profit: $-3423.00
+Cover: 100 shares at $179.53
+Total Profit: $14530.00
+Buy: 100 shares at $179.53
+Total Profit: $-3423.00
+Sell: 100 shares at $180.52
+Total Profit: $14629.00
+Short: 100 shares at $180.52
+Total Profit: $-3423.00
+Cover: 100 shares at $180.36
+Total Profit: $14613.00
+Buy: 100 shares at $180.36
+Total Profit: $-3423.00
+Sell: 100 shares at $185.85
+Total Profit: $15162.00
+Short: 100 shares at $185.85
+Total Profit: $-3423.00
+Cover: 100 shares at $182.58
+Total Profit: $14835.00
+Buy: 100 shares at $182.58
+Total Profit: $-3423.00
+Sell: 100 shares at $181.34
+Total Profit: $14711.00
+Short: 100 shares at $181.34
+Total Profit: $-3423.00
+Cover: 100 shares at $184.72
+Total Profit: $15049.00
+Buy: 100 shares at $184.72
+Total Profit: $-3423.00
+Sell: 100 shares at $182.38
+Total Profit: $14815.00
+Short: 100 shares at $182.38
+Total Profit: $-3423.00
+Cover: 100 shares at $177.22
+Total Profit: $14299.00
+Buy: 100 shares at $177.22
+Total Profit: $-3423.00
+Sell: 100 shares at $173.02
+Total Profit: $13879.00
+Short: 100 shares at $173.02
+Total Profit: $-3423.00
+Cover: 100 shares at $169.82
+Total Profit: $13559.00
+Buy: 100 shares at $169.82
+Total Profit: $-3423.00
+Sell: 100 shares at $166.33
+Total Profit: $13210.00
+Short: 100 shares at $166.33
+Total Profit: $-3423.00
+Cover: 100 shares at $167.50
+Total Profit: $13327.00
+Buy: 100 shares at $167.50
+Total Profit: $-3423.00
+Sell: 100 shares at $162.06
+Total Profit: $12783.00
+Short: 100 shares at $162.06
+Total Profit: $-3423.00
+Cover: 100 shares at $162.89
+Total Profit: $12866.00
+Buy: 100 shares at $162.89
+Total Profit: $-3423.00
+Sell: 100 shares at $165.72
+Total Profit: $13149.00
+Short: 100 shares at $165.72
+Total Profit: $-3423.00
+Cover: 100 shares at $165.05
+Total Profit: $13082.00
+Buy: 100 shares at $165.05
+Total Profit: $-3423.00
+Sell: 100 shares at $161.08
+Total Profit: $12685.00
+Short: 100 shares at $161.08
+Total Profit: $-3423.00
+Cover: 100 shares at $153.05
+Total Profit: $11882.00
+Buy: 100 shares at $153.05
+Total Profit: $-3423.00
+Sell: 100 shares at $149.82
+Total Profit: $11559.00
+Short: 100 shares at $149.82
+Total Profit: $-3423.00
+Cover: 100 shares at $156.23
+Total Profit: $12200.00
+Buy: 100 shares at $156.23
+Total Profit: $-3423.00
+Sell: 100 shares at $159.27
+Total Profit: $12504.00
+Short: 100 shares at $159.27
+Total Profit: $-3423.00
+Cover: 100 shares at $162.38
+Total Profit: $12815.00
+Buy: 100 shares at $162.38
+Total Profit: $-3423.00
+Sell: 100 shares at $162.15
+Total Profit: $12792.00
+Short: 100 shares at $162.15
+Total Profit: $-3423.00
+Cover: 100 shares at $165.15
+Total Profit: $13092.00
+Buy: 100 shares at $165.15
+Total Profit: $-3423.00
+Sell: 100 shares at $163.11
+Total Profit: $12888.00
+Short: 100 shares at $163.11
+Total Profit: $-3423.00
+Cover: 100 shares at $165.68
+Total Profit: $13145.00
+Buy: 100 shares at $165.68
+Total Profit: $-3423.00
+Sell: 100 shares at $168.23
+Total Profit: $13400.00
+Short: 100 shares at $168.23
+Total Profit: $-3423.00
+Cover: 100 shares at $170.89
+Total Profit: $13666.00
+Buy: 100 shares at $170.89
+Total Profit: $-3423.00
+Sell: 100 shares at $171.62
+Total Profit: $13739.00
+Short: 100 shares at $171.62
+Total Profit: $-3423.00
+Cover: 100 shares at $172.89
+Total Profit: $13866.00
+Buy: 100 shares at $172.89
+Total Profit: $-3423.00
+Sell: 100 shares at $173.56
+Total Profit: $13933.00
+Short: 100 shares at $173.56
+Total Profit: $-3423.00
+Cover: 100 shares at $174.73
+Total Profit: $14050.00
+Buy: 100 shares at $174.73
+Total Profit: $-3423.00
+Sell: 100 shares at $178.56
+Total Profit: $14433.00
+Short: 100 shares at $178.56
+Total Profit: $-3423.00
+Cover: 100 shares at $179.66
+Total Profit: $14543.00
+Buy: 100 shares at $179.66
+Total Profit: $-3423.00
+Sell: 100 shares at $189.54
+Total Profit: $15531.00
+Short: 100 shares at $189.54
+Total Profit: $-3423.00
+Cover: 100 shares at $191.11
+Total Profit: $15688.00
+Buy: 100 shares at $191.11
+Total Profit: $-3423.00
+Sell: 100 shares at $186.24
+Total Profit: $15201.00
+Short: 100 shares at $186.24
+Total Profit: $-3423.00
+Cover: 100 shares at $184.93
+Total Profit: $15070.00
+Buy: 100 shares at $184.93
+Total Profit: $-3423.00
+Sell: 100 shares at $181.83
+Total Profit: $14760.00
+Short: 100 shares at $181.83
+Total Profit: $-3423.00
+Cover: 100 shares at $176.21
+Total Profit: $14198.00
+Buy: 100 shares at $176.21
+Total Profit: $-3423.00
+Sell: 100 shares at $182.64
+Total Profit: $14841.00
+Short: 100 shares at $182.64
+Total Profit: $-3423.00
+Cover: 100 shares at $186.41
+Total Profit: $15218.00
+Buy: 100 shares at $186.41
+Total Profit: $-3423.00
+Sell: 100 shares at $184.93
+Total Profit: $15070.00
+Short: 100 shares at $184.93
+Total Profit: $-3423.00
+Cover: 100 shares at $189.26
+Total Profit: $15503.00
+Buy: 100 shares at $189.26
+Total Profit: $-3423.00
+Sell: 100 shares at $190.66
+Total Profit: $15643.00
+Short: 100 shares at $190.66
+Total Profit: $-3423.00
+Cover: 100 shares at $192.56
+Total Profit: $15833.00
+Buy: 100 shares at $192.56
+Total Profit: $-3423.00
+Sell: 100 shares at $192.20
+Total Profit: $15797.00
+Short: 100 shares at $192.20
+Total Profit: $-3423.00
+Cover: 100 shares at $193.79
+Total Profit: $15956.00
+Buy: 100 shares at $193.79
+Total Profit: $-3423.00
+Sell: 100 shares at $193.78
+Total Profit: $15955.00
+Short: 100 shares at $193.78
+Total Profit: $-3423.00
+Cover: 100 shares at $188.26
+Total Profit: $15403.00
+Buy: 100 shares at $188.26
+Total Profit: $-3423.00
+Sell: 100 shares at $182.76
+Total Profit: $14853.00
+Short: 100 shares at $182.76
+Total Profit: $-3423.00
+Cover: 100 shares at $188.43
+Total Profit: $15420.00
+Buy: 100 shares at $188.43
+Total Profit: $-3423.00
+Sell: 100 shares at $182.07
+Total Profit: $14784.00
+Short: 100 shares at $182.07
+Total Profit: $-3423.00
+Cover: 100 shares at $187.92
+Total Profit: $15369.00
+Buy: 100 shares at $187.92
+Total Profit: $-3423.00
+Sell: 100 shares at $191.68
+Total Profit: $15745.00
+Short: 100 shares at $191.68
+Total Profit: $-3423.00
+Cover: 100 shares at $192.60
+Total Profit: $15837.00
+Buy: 100 shares at $192.60
+Total Profit: $-3423.00
+Sell: 100 shares at $192.52
+Total Profit: $15829.00
+Short: 100 shares at $192.52
+Total Profit: $-3423.00
+Cover: 100 shares at $188.81
+Total Profit: $15458.00
+Buy: 100 shares at $188.81
+Total Profit: $-3423.00
+Sell: 100 shares at $191.69
+Total Profit: $15746.00
+Short: 100 shares at $191.69
+Total Profit: $-3423.00
+Cover: 100 shares at $194.09
+Total Profit: $15986.00
+Buy: 100 shares at $194.09
+Total Profit: $-3423.00
+Sell: 100 shares at $202.15
+Total Profit: $16792.00
+Short: 100 shares at $202.15
+Total Profit: $-3423.00
+Cover: 100 shares at $204.22
+Total Profit: $16999.00
+Buy: 100 shares at $204.22
+Total Profit: $-3423.00
+Sell: 100 shares at $201.41
+Total Profit: $16718.00
+Short: 100 shares at $201.41
+Total Profit: $-3423.00
+Cover: 100 shares at $203.90
+Total Profit: $16967.00
+Buy: 100 shares at $203.90
+Total Profit: $-3423.00
+Sell: 100 shares at $212.21
+Total Profit: $17798.00
+Short: 100 shares at $212.21
+Total Profit: $-3423.00
+Cover: 100 shares at $216.16
+Total Profit: $18193.00
+Buy: 100 shares at $216.16
+Total Profit: $-3423.00
+Sell: 100 shares at $222.70
+Total Profit: $18847.00
+Short: 100 shares at $222.70
+Total Profit: $-3423.00
+Cover: 100 shares at $222.60
+Total Profit: $18837.00
+Buy: 100 shares at $222.60
+Total Profit: $-3423.00
+Sell: 100 shares at $219.07
+Total Profit: $18484.00
+Short: 100 shares at $219.07
+Total Profit: $-3423.00
+Cover: 100 shares at $222.38
+Total Profit: $18815.00
+Buy: 100 shares at $222.38
+Total Profit: $-3423.00
+Sell: 100 shares at $234.78
+Total Profit: $20055.00
+Short: 100 shares at $234.78
+Total Profit: $-3423.00
+Cover: 100 shares at $216.42
+Total Profit: $18219.00
+Buy: 100 shares at $216.42
+Total Profit: $-3423.00
+Sell: 100 shares at $208.02
+Total Profit: $17379.00
+Short: 100 shares at $208.02
+Total Profit: $-3423.00
+Cover: 100 shares at $177.66
+Total Profit: $14343.00
+Buy: 100 shares at $177.66
+Total Profit: $-3423.00
+Sell: 100 shares at $170.70
+Total Profit: $13647.00
+Short: 100 shares at $170.70
+Total Profit: $-3423.00
+Cover: 100 shares at $183.66
+Total Profit: $14943.00
+Buy: 100 shares at $183.66
+Total Profit: $-3423.00
+Sell: 100 shares at $182.31
+Total Profit: $14808.00
+Short: 100 shares at $182.31
+Total Profit: $-3423.00
+Cover: 100 shares at $196.48
+Total Profit: $16225.00
+Buy: 100 shares at $196.48
+Total Profit: $-3423.00
+Sell: 100 shares at $204.89
+Total Profit: $17066.00
+Short: 100 shares at $204.89
+Total Profit: $-3423.00
+Cover: 100 shares at $213.84
+Total Profit: $17961.00
+Buy: 100 shares at $213.84
+Total Profit: $-3423.00
+Sell: 100 shares at $212.74
+Total Profit: $17851.00
+Short: 100 shares at $212.74
+Total Profit: $-3423.00
+Cover: 100 shares at $217.66
+Total Profit: $18343.00
+Buy: 100 shares at $217.66
+Total Profit: $-3423.00
+Sell: 100 shares at $219.34
+Total Profit: $18511.00
+Short: 100 shares at $219.34
+Total Profit: $-3423.00
+Cover: 100 shares at $227.43
+Total Profit: $19320.00
+Buy: 100 shares at $227.43
+Total Profit: $-3423.00
+Sell: 100 shares at $229.04
+Total Profit: $19481.00
+Short: 100 shares at $229.04
+Total Profit: $-3423.00
+Cover: 100 shares at $233.36
+Total Profit: $19913.00
+Buy: 100 shares at $233.36
+Total Profit: $-3423.00
+Sell: 100 shares at $234.02
+Total Profit: $19979.00
+Short: 100 shares at $234.02
+Total Profit: $-3423.00
+Cover: 100 shares at $242.85
+Total Profit: $20862.00
+Buy: 100 shares at $242.85
+Total Profit: $-3423.00
+Sell: 100 shares at $243.71
+Total Profit: $20948.00
+Short: 100 shares at $243.71
+Total Profit: $-3423.00
+Cover: 100 shares at $247.60
+Total Profit: $21337.00
+Buy: 100 shares at $247.60
+Total Profit: $-3423.00
+Sell: 100 shares at $258.54
+Total Profit: $22431.00
+Short: 100 shares at $258.54
+Total Profit: $-3423.00
+Cover: 100 shares at $266.78
+Total Profit: $23255.00
+Buy: 100 shares at $266.78
+Total Profit: $-3423.00
+Sell: 100 shares at $258.01
+Total Profit: $22378.00
+Short: 100 shares at $258.01
+Total Profit: $-3423.00
+Cover: 100 shares at $261.13
+Total Profit: $22690.00
+Buy: 100 shares at $261.13
+Total Profit: $-3423.00
+Sell: 100 shares at $270.31
+Total Profit: $23608.00
+Short: 100 shares at $270.31
+Total Profit: $-3423.00
+Cover: 100 shares at $272.16
+Total Profit: $23793.00
+Buy: 100 shares at $272.16
+Total Profit: $-3423.00
+Sell: 100 shares at $287.41
+Total Profit: $25318.00
+Short: 100 shares at $287.41
+Total Profit: $-3423.00
+Cover: 100 shares at $275.16
+Total Profit: $24093.00
+Buy: 100 shares at $275.16
+Total Profit: $-3423.00
+Sell: 100 shares at $270.32
+Total Profit: $23609.00
+Short: 100 shares at $270.32
+Total Profit: $-3423.00
+Cover: 100 shares at $271.56
+Total Profit: $23733.00
+Buy: 100 shares at $271.56
+Total Profit: $-3423.00
+Sell: 100 shares at $274.31
+Total Profit: $24008.00
+Short: 100 shares at $274.31
+Total Profit: $-3423.00
+Cover: 100 shares at $280.16
+Total Profit: $24593.00
+Buy: 100 shares at $280.16
+Total Profit: $-3423.00
+Sell: 100 shares at $275.16
+Total Profit: $24093.00
+Short: 100 shares at $275.16
+Total Profit: $-3423.00
+Cover: 100 shares at $281.41
+Total Profit: $24718.00
+Buy: 100 shares at $281.41
+Total Profit: $-3423.00
+Sell: 100 shares at $288.51
+Total Profit: $25428.00
+Short: 100 shares at $288.51
+Total Profit: $-3423.00
+Cover: 100 shares at $284.74
+Total Profit: $25051.00
+Buy: 100 shares at $284.74
+Total Profit: $-3423.00
+Sell: 100 shares at $280.47
+Total Profit: $24624.00
+Short: 100 shares at $280.47
+Total Profit: $-3423.00
+Cover: 100 shares at $286.91
+Total Profit: $25268.00
+Buy: 100 shares at $286.91
+Total Profit: $-3423.00
+Sell: 100 shares at $283.42
+Total Profit: $24919.00
+Short: 100 shares at $283.42
+Total Profit: $-3423.00
+Cover: 100 shares at $293.20
+Total Profit: $25897.00
+Buy: 100 shares at $293.20
+Total Profit: $-3423.00
+Sell: 100 shares at $290.11
+Total Profit: $25588.00
+Short: 100 shares at $290.11
+Total Profit: $-3423.00
+Cover: 100 shares at $292.38
+Total Profit: $25815.00
+Buy: 100 shares at $292.38
+Total Profit: $-3423.00
+Sell: 100 shares at $290.38
+Total Profit: $25615.00
+Short: 100 shares at $290.38
+Total Profit: $-3423.00
+Cover: 100 shares at $294.47
+Total Profit: $26024.00
+Buy: 100 shares at $294.47
+Total Profit: $-3423.00
+Sell: 100 shares at $301.31
+Total Profit: $26708.00
+Short: 100 shares at $301.31
+Total Profit: $-3423.00
+Cover: 100 shares at $307.29
+Total Profit: $27306.00
+Buy: 100 shares at $307.29
+Total Profit: $-3423.00
+Sell: 100 shares at $308.20
+Total Profit: $27397.00
+Short: 100 shares at $308.20
+Total Profit: $-3423.00
+Cover: 100 shares at $312.68
+Total Profit: $27845.00
+Buy: 100 shares at $312.68
+Total Profit: $-3423.00
+Sell: 100 shares at $309.31
+Total Profit: $27508.00
+Short: 100 shares at $309.31
+Total Profit: $-3423.00
+Cover: 100 shares at $314.98
+Total Profit: $28075.00
+Buy: 100 shares at $314.98
+Total Profit: $-3423.00
+Sell: 100 shares at $314.35
+Total Profit: $28012.00
+Short: 100 shares at $314.35
+Total Profit: $-3423.00
+Cover: 100 shares at $316.41
+Total Profit: $28218.00
+Buy: 100 shares at $316.41
+Total Profit: $-3423.00
+Sell: 100 shares at $319.43
+Total Profit: $28520.00
+Short: 100 shares at $319.43
+Total Profit: $-3423.00
+Cover: 100 shares at $327.68
+Total Profit: $29345.00
+Buy: 100 shares at $327.68
+Total Profit: $-3423.00
+Sell: 100 shares at $333.93
+Total Profit: $29970.00
+Short: 100 shares at $333.93
+Total Profit: $-3423.00
+Cover: 100 shares at $323.59
+Total Profit: $28936.00
+Buy: 100 shares at $323.59
+Total Profit: $-3423.00
+Sell: 100 shares at $309.16
+Total Profit: $27493.00
+Short: 100 shares at $309.16
+Total Profit: $-3423.00
+Cover: 100 shares at $311.77
+Total Profit: $27754.00
+Buy: 100 shares at $311.77
+Total Profit: $-3423.00
+Sell: 100 shares at $312.04
+Total Profit: $27781.00
+Short: 100 shares at $312.04
+Total Profit: $-3423.00
+Cover: 100 shares at $315.91
+Total Profit: $28168.00
+Buy: 100 shares at $315.91
+Total Profit: $-3423.00
+Sell: 100 shares at $314.32
+Total Profit: $28009.00
+Short: 100 shares at $314.32
+Total Profit: $-3423.00
+Cover: 100 shares at $319.13
+Total Profit: $28490.00
+Buy: 100 shares at $319.13
+Total Profit: $-3423.00
+Sell: 100 shares at $338.88
+Total Profit: $30465.00
+Short: 100 shares at $338.88
+Total Profit: $-3423.00
+Cover: 100 shares at $341.63
+Total Profit: $30740.00
+Buy: 100 shares at $341.63
+Total Profit: $-3423.00
+Sell: 100 shares at $337.99
+Total Profit: $30376.00
+Short: 100 shares at $337.99
+Total Profit: $-3423.00
+Cover: 100 shares at $334.20
+Total Profit: $29997.00
+Buy: 100 shares at $334.20
+Total Profit: $-3423.00
+Sell: 100 shares at $325.76
+Total Profit: $29153.00
+Short: 100 shares at $325.76
+Total Profit: $-3423.00
+Cover: 100 shares at $324.41
+Total Profit: $29018.00
+Buy: 100 shares at $324.41
+Total Profit: $-3423.00
+Sell: 100 shares at $332.82
+Total Profit: $29859.00
+Short: 100 shares at $332.82
+Total Profit: $-3423.00
+Cover: 100 shares at $335.60
+Total Profit: $30137.00
+Buy: 100 shares at $335.60
+Total Profit: $-3423.00
+Sell: 100 shares at $342.63
+Total Profit: $30840.00
+Short: 100 shares at $342.63
+Total Profit: $-3423.00
+Cover: 100 shares at $344.36
+Total Profit: $31013.00
+Buy: 100 shares at $344.36
+Total Profit: $-3423.00
+Sell: 100 shares at $360.52
+Total Profit: $32629.00
+Short: 100 shares at $360.52
+Total Profit: $-3423.00
+Cover: 100 shares at $361.56
+Total Profit: $32733.00
+Buy: 100 shares at $361.56
+Total Profit: $-3423.00
+Sell: 100 shares at $365.83
+Total Profit: $33160.00
+Short: 100 shares at $365.83
+Total Profit: $-3423.00
+Cover: 100 shares at $366.81
+Total Profit: $33258.00
+Buy: 100 shares at $366.81
+Total Profit: $-3423.00
+Sell: 100 shares at $366.84
+Total Profit: $33261.00
+Short: 100 shares at $366.84
+Total Profit: $-3423.00
+Cover: 100 shares at $368.82
+Total Profit: $33459.00
+Buy: 100 shares at $368.82
+Total Profit: $-3423.00
+Sell: 100 shares at $365.73
+Total Profit: $33150.00
+Short: 100 shares at $365.73
+Total Profit: $-3423.00
+Cover: 100 shares at $367.73
+Total Profit: $33350.00
+Buy: 100 shares at $367.73
+Total Profit: $-3423.00
+Sell: 100 shares at $380.78
+Total Profit: $34655.00
+Short: 100 shares at $380.78
+Total Profit: $-3423.00
+Cover: 100 shares at $378.31
+Total Profit: $34408.00
+Buy: 100 shares at $378.31
+Total Profit: $-3423.00
+Sell: 100 shares at $373.83
+Total Profit: $33960.00
+Short: 100 shares at $373.83
+Total Profit: $-3423.00
+Cover: 100 shares at $372.98
+Total Profit: $33875.00
+Buy: 100 shares at $372.98
+Total Profit: $-3423.00
+Sell: 100 shares at $359.87
+Total Profit: $32564.00
+Short: 100 shares at $359.87
+Total Profit: $-3423.00
+Cover: 100 shares at $357.38
+Total Profit: $32315.00
+Buy: 100 shares at $357.38
+Total Profit: $-3423.00
+Sell: 100 shares at $357.14
+Total Profit: $32291.00
+Short: 100 shares at $357.14
+Total Profit: $-3423.00
+Cover: 100 shares at $366.63
+Total Profit: $33240.00
+Buy: 100 shares at $366.63
+Total Profit: $-3423.00
+Sell: 100 shares at $374.10
+Total Profit: $33987.00
+Short: 100 shares at $374.10
+Total Profit: $-3423.00
+Cover: 100 shares at $377.93
+Total Profit: $34370.00
+Buy: 100 shares at $377.93
+Total Profit: $-3423.00
+Sell: 100 shares at $395.32
+Total Profit: $36109.00
+Short: 100 shares at $395.32
+Total Profit: $-3423.00
+Cover: 100 shares at $394.61
+Total Profit: $36038.00
+Buy: 100 shares at $394.61
+Total Profit: $-3423.00
+Sell: 100 shares at $397.48
+Total Profit: $36325.00
+Short: 100 shares at $397.48
+Total Profit: $-3423.00
+Cover: 100 shares at $397.83
+Total Profit: $36360.00
+Buy: 100 shares at $397.83
+Total Profit: $-3423.00
+Sell: 100 shares at $392.26
+Total Profit: $35803.00
+Short: 100 shares at $392.26
+Total Profit: $-3423.00
+Cover: 100 shares at $393.95
+Total Profit: $35972.00
+Buy: 100 shares at $393.95
+Total Profit: $-3423.00
+Sell: 100 shares at $400.35
+Total Profit: $36612.00
+Short: 100 shares at $400.35
+Total Profit: $-3423.00
+Cover: 100 shares at $385.82
+Total Profit: $35159.00
+Buy: 100 shares at $385.82
+Total Profit: $-3423.00
+Sell: 100 shares at $377.66
+Total Profit: $34343.00
+Short: 100 shares at $377.66
+Total Profit: $-3423.00
+Cover: 100 shares at $351.80
+Total Profit: $31757.00
+Buy: 100 shares at $351.80
+Total Profit: $-3423.00
+Sell: 100 shares at $358.01
+Total Profit: $32378.00
+Short: 100 shares at $358.01
+Total Profit: $-3423.00
+Cover: 100 shares at $366.73
+Total Profit: $33250.00
+Buy: 100 shares at $366.73
+Total Profit: $-3423.00
+Sell: 100 shares at $347.06
+Total Profit: $31283.00
+Short: 100 shares at $347.06
+Total Profit: $-3423.00
+Cover: 100 shares at $345.77
+Total Profit: $31154.00
+Buy: 100 shares at $345.77
+Total Profit: $-3423.00
+Sell: 100 shares at $342.26
+Total Profit: $30803.00
+Short: 100 shares at $342.26
+Total Profit: $-3423.00
+Cover: 100 shares at $328.15
+Total Profit: $29392.00
+Buy: 100 shares at $328.15
+Total Profit: $-3423.00
+Sell: 100 shares at $362.54
+Total Profit: $32831.00
+Short: 100 shares at $362.54
+Total Profit: $-3423.00
+Cover: 100 shares at $346.26
+Total Profit: $31203.00
+Buy: 100 shares at $346.26
+Total Profit: $-3423.00
+Sell: 100 shares at $334.15
+Total Profit: $29992.00
+Short: 100 shares at $334.15
+Total Profit: $-3423.00
+Cover: 100 shares at $328.01
+Total Profit: $29378.00
+Buy: 100 shares at $328.01
+Total Profit: $-3423.00
+Sell: 100 shares at $313.25
+Total Profit: $27902.00
+Short: 100 shares at $313.25
+Total Profit: $-3423.00
+Cover: 100 shares at $318.82
+Total Profit: $28459.00
+Buy: 100 shares at $318.82
+Total Profit: $-3423.00
+Sell: 100 shares at $309.25
+Total Profit: $27502.00
+Short: 100 shares at $309.25
+Total Profit: $-3423.00
+Cover: 100 shares at $301.94
+Total Profit: $26771.00
+Buy: 100 shares at $301.94
+Total Profit: $-3423.00
+Sell: 100 shares at $289.58
+Total Profit: $25535.00
+Short: 100 shares at $289.58
+Total Profit: $-3423.00
+Cover: 100 shares at $291.26
+Total Profit: $25703.00
+Buy: 100 shares at $291.26
+Total Profit: $-3423.00
+Sell: 100 shares at $307.22
+Total Profit: $27299.00
+Short: 100 shares at $307.22
+Total Profit: $-3423.00
+Cover: 100 shares at $281.08
+Total Profit: $24685.00
+Buy: 100 shares at $281.08
+Total Profit: $-3423.00
+Sell: 100 shares at $283.54
+Total Profit: $24931.00
+Short: 100 shares at $283.54
+Total Profit: $-3423.00
+Cover: 100 shares at $286.96
+Total Profit: $25273.00
+Buy: 100 shares at $286.96
+Total Profit: $-3423.00
+Sell: 100 shares at $286.24
+Total Profit: $25201.00
+Short: 100 shares at $286.24
+Total Profit: $-3423.00
+Cover: 100 shares at $291.87
+Total Profit: $25764.00
+Buy: 100 shares at $291.87
+Total Profit: $-3423.00
+Sell: 100 shares at $294.37
+Total Profit: $26014.00
+Short: 100 shares at $294.37
+Total Profit: $-3423.00
+Cover: 100 shares at $309.81
+Total Profit: $27558.00
+Buy: 100 shares at $309.81
+Total Profit: $-3423.00
+Sell: 100 shares at $317.08
+Total Profit: $28285.00
+Short: 100 shares at $317.08
+Total Profit: $-3423.00
+Cover: 100 shares at $324.08
+Total Profit: $28985.00
+Buy: 100 shares at $324.08
+Total Profit: $-3423.00
+Sell: 100 shares at $328.49
+Total Profit: $29426.00
+Short: 100 shares at $328.49
+Total Profit: $-3423.00
+Cover: 100 shares at $298.97
+Total Profit: $26474.00
+Buy: 100 shares at $298.97
+Total Profit: $-3423.00
+Sell: 100 shares at $293.70
+Total Profit: $25947.00
+Short: 100 shares at $293.70
+Total Profit: $-3423.00
+Cover: 100 shares at $279.94
+Total Profit: $24571.00
+Buy: 100 shares at $279.94
+Total Profit: $-3423.00
+Sell: 100 shares at $271.87
+Total Profit: $23764.00
+Short: 100 shares at $271.87
+Total Profit: $-3423.00
+Cover: 100 shares at $282.13
+Total Profit: $24790.00
+Buy: 100 shares at $282.13
+Total Profit: $-3423.00
+Sell: 100 shares at $269.10
+Total Profit: $23487.00
+Short: 100 shares at $269.10
+Total Profit: $-3423.00
+Cover: 100 shares at $269.35
+Total Profit: $23512.00
+Buy: 100 shares at $269.35
+Total Profit: $-3423.00
+Sell: 100 shares at $272.87
+Total Profit: $23864.00
+Short: 100 shares at $272.87
+Total Profit: $-3423.00
+Cover: 100 shares at $269.54
+Total Profit: $23531.00
+Buy: 100 shares at $269.54
+Total Profit: $-3423.00
+Sell: 100 shares at $284.81
+Total Profit: $25058.00
+Short: 100 shares at $284.81
+Total Profit: $-3423.00
+Cover: 100 shares at $288.82
+Total Profit: $25459.00
+Buy: 100 shares at $288.82
+Total Profit: $-3423.00
+Sell: 100 shares at $282.71
+Total Profit: $24848.00
+Short: 100 shares at $282.71
+Total Profit: $-3423.00
+Cover: 100 shares at $293.36
+Total Profit: $25913.00
+Buy: 100 shares at $293.36
+Total Profit: $-3423.00
+Sell: 100 shares at $281.68
+Total Profit: $24745.00
+Short: 100 shares at $281.68
+Total Profit: $-3423.00
+Cover: 100 shares at $285.58
+Total Profit: $25135.00
+Buy: 100 shares at $285.58
+Total Profit: $-3423.00
+Sell: 100 shares at $276.89
+Total Profit: $24266.00
+Short: 100 shares at $276.89
+Total Profit: $-3423.00
+Cover: 100 shares at $266.28
+Total Profit: $23205.00
+Buy: 100 shares at $266.28
+Total Profit: $-3423.00
+Sell: 100 shares at $261.58
+Total Profit: $22735.00
+Short: 100 shares at $261.58
+Total Profit: $-3423.00
+Cover: 100 shares at $268.80
+Total Profit: $23457.00
+Buy: 100 shares at $268.80
+Total Profit: $-3423.00
+Sell: 100 shares at $277.88
+Total Profit: $24365.00
+Short: 100 shares at $277.88
+Total Profit: $-3423.00
+Cover: 100 shares at $282.68
+Total Profit: $24845.00
+Buy: 100 shares at $282.68
+Total Profit: $-3423.00
+Sell: 100 shares at $290.27
+Total Profit: $25604.00
+Short: 100 shares at $290.27
+Total Profit: $-3423.00
+Cover: 100 shares at $294.62
+Total Profit: $26039.00
+Buy: 100 shares at $294.62
+Total Profit: $-3423.00
+Sell: 100 shares at $304.37
+Total Profit: $27014.00
+Short: 100 shares at $304.37
+Total Profit: $-3423.00
+Cover: 100 shares at $306.75
+Total Profit: $27252.00
+Buy: 100 shares at $306.75
+Total Profit: $-3423.00
+Sell: 100 shares at $301.16
+Total Profit: $26693.00
+Short: 100 shares at $301.16
+Total Profit: $-3423.00
+Cover: 100 shares at $293.56
+Total Profit: $25933.00
+Buy: 100 shares at $293.56
+Total Profit: $-3423.00
+Sell: 100 shares at $291.20
+Total Profit: $25697.00
+Short: 100 shares at $291.20
+Total Profit: $-3423.00
+Cover: 100 shares at $293.61
+Total Profit: $25938.00
+Buy: 100 shares at $293.61
+Total Profit: $-3423.00
+Sell: 100 shares at $292.66
+Total Profit: $25843.00
+Short: 100 shares at $292.66
+Total Profit: $-3423.00
+Cover: 100 shares at $297.37
+Total Profit: $26314.00
+Buy: 100 shares at $297.37
+Total Profit: $-3423.00
+Sell: 100 shares at $308.76
+Total Profit: $27453.00
+Short: 100 shares at $308.76
+Total Profit: $-3423.00
+Cover: 100 shares at $312.72
+Total Profit: $27849.00
+Buy: 100 shares at $312.72
+Total Profit: $-3423.00
+Sell: 100 shares at $315.92
+Total Profit: $28169.00
+Short: 100 shares at $315.92
+Total Profit: $-3423.00
+Cover: 100 shares at $319.17
+Total Profit: $28494.00
+Buy: 100 shares at $319.17
+Total Profit: $-3423.00
+Sell: 100 shares at $316.28
+Total Profit: $28205.00
+Short: 100 shares at $316.28
+Total Profit: $-3423.00
+Cover: 100 shares at $320.35
+Total Profit: $28612.00
+Buy: 100 shares at $320.35
+Total Profit: $-3423.00
+Sell: 100 shares at $317.29
+Total Profit: $28306.00
+Short: 100 shares at $317.29
+Total Profit: $-3423.00
+Cover: 100 shares at $322.89
+Total Profit: $28866.00
+Buy: 100 shares at $322.89
+Total Profit: $-3423.00
+Sell: 100 shares at $331.65
+Total Profit: $29742.00
+Short: 100 shares at $331.65
+Total Profit: $-3423.00
+Cover: 100 shares at $339.72
+Total Profit: $30549.00
+Buy: 100 shares at $339.72
+Total Profit: $-3423.00
+Sell: 100 shares at $348.82
+Total Profit: $31459.00
+Short: 100 shares at $348.82
+Total Profit: $-3423.00
+Cover: 100 shares at $360.49
+Total Profit: $32626.00
+Buy: 100 shares at $360.49
+Total Profit: $-3423.00
+Sell: 100 shares at $361.90
+Total Profit: $32767.00
+Short: 100 shares at $361.90
+Total Profit: $-3423.00
+Cover: 100 shares at $364.54
+Total Profit: $33031.00
+Buy: 100 shares at $364.54
+Total Profit: $-3423.00
+Sell: 100 shares at $366.24
+Total Profit: $33201.00
+Short: 100 shares at $366.24
+Total Profit: $-3423.00
+Cover: 100 shares at $372.82
+Total Profit: $33859.00
+Buy: 100 shares at $372.82
+Total Profit: $-3423.00
+Sell: 100 shares at $376.76
+Total Profit: $34253.00
+Short: 100 shares at $376.76
+Total Profit: $-3423.00
+Cover: 100 shares at $376.62
+Total Profit: $34239.00
+Buy: 100 shares at $376.62
+Total Profit: $-3423.00
+Sell: 100 shares at $374.39
+Total Profit: $34016.00
+Short: 100 shares at $374.39
+Total Profit: $-3423.00
+Cover: 100 shares at $363.38
+Total Profit: $32915.00
+Buy: 100 shares at $363.38
+Total Profit: $-3423.00
+Sell: 100 shares at $374.74
+Total Profit: $34051.00
+Short: 100 shares at $374.74
+Total Profit: $-3423.00
+Cover: 100 shares at $374.21
+Total Profit: $33998.00
+Buy: 100 shares at $374.21
+Total Profit: $-3423.00
+Sell: 100 shares at $370.81
+Total Profit: $33658.00
+Short: 100 shares at $370.81
+Total Profit: $-3423.00

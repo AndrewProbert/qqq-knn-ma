@@ -6,10 +6,15 @@ ini_set('display_errors', '0');
 
 $symbol ='QQQ';
 
-
+//10-02 sso (spy 2x), 
+// xle (energy), kre (banking),
+//msft is good for 1 to 2 day trades, adbe, tm, gs (1 day), lmt (1 day), pdd 
 function getYahooFinanceCloseData() {
     // Specify the URL of the Yahoo Finance API
-    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/qqq?interval=30m&range=3d';
+    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/adbe?interval=1d&range=3000d';
+
+    //qqq, tlt, soxl, ewz
+
 
     // Fetch the JSON data from the URL
     $jsonData = file_get_contents($url);
