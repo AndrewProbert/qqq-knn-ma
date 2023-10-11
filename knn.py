@@ -210,55 +210,41 @@ plt.grid(True)
 #plt.show()
 
 
-
-
 # Initialize variables
 current_position = None  # None indicates no position
 entry_price = 0
-highest_price = 0  # Tracks the highest price during a green trend
-lowest_price = float('inf')  # Tracks the lowest price during a red trend
 total_profit = 0
 
 # Iterate through the data
-for row in highlighted_data:
+for i, row in enumerate(highlighted_data):
     time_point, price_point, ema_point, knn_ma_point, highlight = row
     
-    # Check if it's a green or red highlight
-    if highlight == 'Green':
-        if current_position == 'Short':
-            # Close the short position at the current price
-            profit_or_loss = entry_price - price_point
-            total_profit += profit_or_loss
-            current_position = None
-            print(f"Short position closed at time {time_point}, {'Profit' if profit_or_loss > 0 else 'Loss'}: {abs(profit_or_loss):.2f}")
-
-        if current_position is None:
-            # Open a long position
-            current_position = 'Long'
-            entry_price = price_point
-            highest_price = price_point
-            print(f"Long position opened at time {time_point}, Entry Price: {entry_price:.2f}")
-
-        # Update the highest price during the green trend
-        highest_price = max(highest_price, price_point)
-
-    elif highlight == 'Red':
+    # Check if there is an open position
+    if current_position is not None:
+        # Calculate profit or loss
         if current_position == 'Long':
-            # Close the long position at the current price
             profit_or_loss = price_point - entry_price
-            total_profit += profit_or_loss
-            current_position = None
-            print(f"Long position closed at time {time_point}, {'Profit' if profit_or_loss > 0 else 'Loss'}: {abs(profit_or_loss):.2f}")
+        else:
+            profit_or_loss = entry_price - price_point
+        
+        # Add to total profit
+        total_profit += profit_or_loss
+        
+        # Close the position
+        print(f"{current_position} position closed at time {time_point}, {'Profit' if profit_or_loss > 0 else 'Loss'}: {abs(profit_or_loss):.2f}")
+        
+        # Reset current_position to None
+        current_position = None
 
-        if current_position is None:
-            # Open a short position
-            current_position = 'Short'
+    if current_position is None:
+        # Open a position (either Long or Short) only on the first green or red highlight in a consecutive series
+        if i == 0 or (highlighted_data[i - 1][4] != highlight):
+            if highlight == 'Green':
+                current_position = 'Long'
+            elif highlight == 'Red':
+                current_position = 'Short'
             entry_price = price_point
-            lowest_price = price_point
-            print(f"Short position opened at time {time_point}, Entry Price: {entry_price:.2f}")
-
-        # Update the lowest price during the red trend
-        lowest_price = min(lowest_price, price_point)
+            print(f"{current_position} position opened at time {time_point}, Entry Price: {entry_price:.2f}")
 
 # Print the total profit at the end (which includes both profits and losses)
 print(f"Total Profit (including both profits and losses): {total_profit:.2f}")

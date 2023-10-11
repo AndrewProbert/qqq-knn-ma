@@ -5,16 +5,21 @@ ini_set('display_errors', '0');
 
 
 $symbol ='QQQ';
+$range = '100d';
 
-//10-02 sso (spy 2x), 
-// xle (energy), kre (banking),
-//msft is good for 1 to 2 day trades, adbe, tm, gs (1 day), lmt (1 day), pdd 
-function getYahooFinanceCloseData() {
+function getYahooFinanceCloseData($symbol, $range) {
     // Specify the URL of the Yahoo Finance API
-    $url = 'https://query1.finance.yahoo.com/v8/finance/chart/adbe?interval=1d&range=3000d';
+    $url = "https://query1.finance.yahoo.com/v8/finance/chart/$symbol?interval=1d&range=$range";
 
-    //qqq, tlt, soxl, ewz
 
+    /* 1 Day Trades
+    ETF: SPY, QQQ, DIA, TQQQ, USO
+
+    EQUITIES: MSFT, GOOGL, GS, JPM, PDD, LLY, IBM
+
+    OTHER: AAPL, NFLX, ADBE, TM, MCD, ASML
+
+    */
 
     // Fetch the JSON data from the URL
     $jsonData = file_get_contents($url);
@@ -39,7 +44,7 @@ function getYahooFinanceCloseData() {
 }
 
 // Usage example
-$closeData = getYahooFinanceCloseData();
+$closeData = getYahooFinanceCloseData($symbol, $range);
 
 if ($closeData !== false) {
     foreach ($closeData as $closePrice) {
@@ -54,7 +59,7 @@ if ($closeData !== false) {
 
 //print_r(getYahooFinanceCloseData());
 // Get the stock data for the symbol
-$stock_data = getYahooFinanceCloseData();
+$stock_data = getYahooFinanceCloseData($symbol, $range);
 
 // Print the data and capture the output
 ob_start();
