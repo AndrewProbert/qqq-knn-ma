@@ -4,8 +4,11 @@ ini_set('display_errors', '0');
 
 
 
-$symbol ='QQQ';
+$symbol ='gs';
 $range = '100d';
+
+
+
 
 function getYahooFinanceCloseData($symbol, $range) {
     // Specify the URL of the Yahoo Finance API
