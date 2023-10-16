@@ -3,11 +3,16 @@
 ini_set('display_errors', '0');
 
 
-
-$symbol ='gs';
+$symbol ='qqq';
 $range = '100d';
 
+/*
+$filename = "symbols.txt";
+$symbol = file_get_contents($filename);
 
+// Remove all spaces (including spaces, tabs, and line breaks)
+$symbol = preg_replace('/\s+/', '', $symbol);
+*/
 
 
 function getYahooFinanceCloseData($symbol, $range) {
