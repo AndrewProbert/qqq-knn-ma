@@ -3,7 +3,7 @@ include 'functions.php';
 
 
 $symbol = "qqq"; // Symbol for the QQQ ETF
-$range = "300d";  // Data range for one year
+$range = "100d";  // Data range for one year
 
 // Create the Yahoo Finance URL
 $url = "https://query1.finance.yahoo.com/v8/finance/chart/$symbol?interval=1d&range=$range";
@@ -32,6 +32,11 @@ $totalprofit = 0;
 $largestProfit = 0;
 $largestLoss = 0;
 $tradeArray = array();
+
+$y = 0;
+$totalsells = 0;
+$totalShortProfit = 0;
+$totalLongProfit = 0;
 
 
 
@@ -65,26 +70,26 @@ for ($i = 0; $i < count($timestamps); $i++) {
     $stopLoss = 65;  //in basis points
     $stopLoss = ($stopLoss / 10000) + 1;
 
-
-    if ($rsiema == "GREEN" and $clop == "GREEN"){
-        if ($x == 0){
-            $x = 1;
-            $buy = $closes[$i + 0];
+    //Short Position Entry
+    if ($rsiema == "RED" and $clop == "RED"){
+        if ($y == 0){
+            $y = 1;
+            $sell = $closes[$i + 0];
+            $selldate = $date;
+            $totalsells = $totalsells + 1;
+            echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
+        } elseif ($y == 1){
+            $y = 0;
+            if($open > $sell * (1/$stopLoss)){ //if open is greater than stop loss, buy at open
+                $buy = $open;
+                echo "<tr><td colspan='9'>STOP LOSS HIT: $buy, $date</td></tr>";
+            }elseif ($high > $sell * (1/$stopLoss)){
+                $buy = $sell * (1/$stopLoss);
+            }else {
+                $buy = $close;
+                echo "<tr><td colspan='9'>BUY AT CLOSE PRICE: $buy, $date</td></tr>";
+            }
             $buydate = $date;
-            $totalbuys = $totalbuys + 1;
-            echo "<tr><td colspan='9'>BUY AT CLOSE PRICE: $buy, $date</td></tr>";
-        } elseif ($x == 1){
-            $x = 0;
-            if($open < $buy * (1/$stopLoss)){ //if open is less than stop loss, sell at open
-                $sell = $open;
-                echo "<tr><td colspan='9'>STOP LOSS HIT: $sell, $date</td></tr>";
-            }elseif ($low < $buy * (1/$stopLoss)){
-                $sell = $buy * (1/$stopLoss);
-            }else {
-                $sell = $close;
-                echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
-            }
-            $selldate = $date;
             $profit = $sell - $buy;
             $tradeArray[] = $profit;
             if ($profit > 0){
@@ -95,6 +100,7 @@ for ($i = 0; $i < count($timestamps); $i++) {
             if ($profit > $largestProfit){
                 $largestProfit = $profit;
             }
+
             if ($profit < $largestLoss){
                 $largestLoss = $profit;
             }
@@ -103,19 +109,24 @@ for ($i = 0; $i < count($timestamps); $i++) {
             $maxLoss = ($low - $buy)/$buy * 100;
             $percent = $profit / $buy * 100;
             $totalprofit = $totalprofit + $profit;
-            echo "<tr><td colspan='9'>BUY: $buydate SELL: $selldate PROFIT: $profit PERCENT: $percent MAX: $maxProfit MIN: $maxLoss</td></tr>";
+            $totalShortProfit = $totalShortProfit + $profit;
+
+            echo "<tr><td colspan='9'>SELL: $selldate BUY: $buydate PROFIT: $profit PERCENT: $percent MAX: $maxProfit MIN: $maxLoss</td></tr>";
+
+            
         }
-    } elseif ($rsiema == "RED"  or $clop == "RED"){
-        if ($x == 1){
-            $x = 0;
-            if ($low < $buy * (1/$stopLoss)){
-                $sell = $open;
-                echo "<tr><td colspan='9'>STOP LOSS HIT RED: $sell, $date</td></tr>";
+
+    } elseif ($rsiema == "GREEN" or $clop == "GREEN"){
+        if ($y == 1){
+            $y = 0;
+            if ($high > $sell * (1/$stopLoss)){
+                $buy = $open;
+                echo "<tr><td colspan='9'>STOP LOSS HIT GREEN: $buy, $date</td></tr>";
             }else {
-                $sell = $close;
-                echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
+                $buy = $close;
+                echo "<tr><td colspan='9'>BUY AT CLOSE PRICE: $buy, $date</td></tr>";
             }            
-            $selldate = $date;
+            $buydate = $date;
             $profit = $sell - $buy;
             $tradeArray[] = $profit;
 
@@ -131,15 +142,16 @@ for ($i = 0; $i < count($timestamps); $i++) {
             }
 
             $totalprofit = $totalprofit + $profit;
+            $totalShortProfit = $totalShortProfit + $profit;
+
             $maxProfit = ($high - $buy)/$buy * 100;
             $maxLoss = ($low - $buy)/$buy * 100;
             $percent = $profit / $buy * 100;
-            echo "<tr><td colspan='9'>BUY: $buydate SELL: $selldate PROFIT: $profit PERCENT: $percent MAX: $maxProfit MIN: $maxLoss</td></tr>";
+            echo "<tr><td colspan='9'>SELL: $selldate BUY: $buydate PROFIT: $profit PERCENT: $percent MAX: $maxProfit MIN: $maxLoss</td></tr>";
         } else {
-            $x = 0;
+            $y = 0;
         }
     }
-
 
 
 
@@ -152,6 +164,7 @@ $median = $tradeArray[count($tradeArray)/2];
 echo "</table>";
 echo "<br><br>";
 echo "Total Profit: $totalprofit";
+
 echo "<br><br>";
 echo "Total Buys: $totalbuys";
 echo "<br><br>";
