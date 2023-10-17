@@ -29,8 +29,9 @@ $x = 0;
 $totalbuys = 0;
 $totalbuywins = 0;
 $totalprofit = 0;
-
-
+$largestProfit = 0;
+$largestLoss = 0;
+$tradeArray = array();
 
 
 
@@ -85,8 +86,17 @@ for ($i = 0; $i < count($timestamps); $i++) {
             }
             $selldate = $date;
             $profit = $sell - $buy;
+            $tradeArray[] = $profit;
             if ($profit > 0){
                 $totalbuywins = $totalbuywins + 1;
+            }
+
+
+            if ($profit > $largestProfit){
+                $largestProfit = $profit;
+            }
+            if ($profit < $largestLoss){
+                $largestLoss = $profit;
             }
 
             $maxProfit = ($high - $buy)/$buy * 100;
@@ -107,9 +117,19 @@ for ($i = 0; $i < count($timestamps); $i++) {
             }            
             $selldate = $date;
             $profit = $sell - $buy;
+            $tradeArray[] = $profit;
+
             if ($profit > 0){
                 $totalbuywins = $totalbuywins + 1;
             }
+
+            if ($profit > $largestProfit){
+                $largestProfit = $profit;
+            }
+            if ($profit < $largestLoss){
+                $largestLoss = $profit;
+            }
+
             $totalprofit = $totalprofit + $profit;
             $maxProfit = ($high - $buy)/$buy * 100;
             $maxLoss = ($low - $buy)/$buy * 100;
@@ -119,7 +139,15 @@ for ($i = 0; $i < count($timestamps); $i++) {
             $x = 0;
         }
     }
+
+
+
+
+
 }
+
+sort($tradeArray);
+$median = $tradeArray[count($tradeArray)/2];
 
 echo "</table>";
 echo "<br><br>";
@@ -132,4 +160,10 @@ echo "<br><br>";
 echo "Total Buy Losses: " . ($totalbuys - $totalbuywins);
 echo "<br><br>";
 echo "Percent Buy Wins: " . $totalbuywins / $totalbuys * 100;
+echo "<br><br>";
+echo "Largest Profit: $largestProfit";
+echo "<br><br>";
+echo "Largest Loss: $largestLoss";
+echo "<br><br>";
+echo "Median: $median";
 ?>
