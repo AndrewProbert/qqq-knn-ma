@@ -2,7 +2,7 @@
 include 'functions.php';
 
 
-$symbol = "qqq"; // Symbol for the QQQ ETF
+$symbol = "nvda"; // Symbol for the QQQ ETF
 $range = "100d";  // Data range for one year
 
 // Create the Yahoo Finance URL
@@ -64,7 +64,8 @@ for ($i = 0; $i < count($timestamps); $i++) {
 
     $stopLoss = 65;  //in basis points
     $stopLoss = ($stopLoss / 10000) + 1;
-
+    $prelimProfit = 1.003; //in basis points
+    $prelimStop = 1.0025; //in basis points
 
     if ($rsiema == "GREEN" and $clop == "GREEN"){
         if ($x == 0){
@@ -78,9 +79,10 @@ for ($i = 0; $i < count($timestamps); $i++) {
             if($open < $buy * (1/$stopLoss)){ //if open is less than stop loss, sell at open
                 $sell = $open;
                 echo "<tr><td colspan='9'>STOP LOSS HIT: $sell, $date</td></tr>";
-            }elseif ($low < $buy * (1/$stopLoss)){
+            }elseif ($low < $buy * (1/$stopLoss)){ //if low is less than stop loss, sell at stop loss
                 $sell = $buy * (1/$stopLoss);
-            }else {
+                echo "<tr><td colspan='9'>STOP LOSS HIT: $sell, $date</td></tr>";
+            }else { //sell at close
                 $sell = $close;
                 echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
             }
@@ -108,13 +110,21 @@ for ($i = 0; $i < count($timestamps); $i++) {
     } elseif ($rsiema == "RED"  or $clop == "RED"){
         if ($x == 1){
             $x = 0;
-            if ($low < $buy * (1/$stopLoss)){
+            if($open < $buy * (1/$stopLoss)){ //if open is less than stop loss, sell at open
                 $sell = $open;
-                echo "<tr><td colspan='9'>STOP LOSS HIT RED: $sell, $date</td></tr>";
-            }else {
+                echo "<tr><td colspan='9'>STOP LOSS HIT: $sell, $date</td></tr>";
+
+            }elseif(($buy * $prelimProfit > $open) and ($low < $buy * $prelimStop) and ($buy * $prelimProfit <= $high)){ //if low is less than stop loss, sell at stop loss
+                $sell = $buy * $prelimStop;
+                echo "<tr><td colspan='9'>PRELIM STOP HIT: $sell, $date</td></tr>";
+            
+            }elseif ($low < $buy * (1/$stopLoss)){ //if low is less than stop loss, sell at stop loss
+                $sell = $buy * (1/$stopLoss);
+                echo "<tr><td colspan='9'>STOP LOSS HIT: $sell, $date</td></tr>";
+            }else { //sell at close
                 $sell = $close;
                 echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
-            }            
+            }
             $selldate = $date;
             $profit = $sell - $buy;
             $tradeArray[] = $profit;
@@ -140,7 +150,8 @@ for ($i = 0; $i < count($timestamps); $i++) {
         }
     }
 
-
+//need to make sure that we if we open with a profit, then we make sure that the trade never goes red. 
+//Maybe like if the underlying is up .2% then we sell if the underlying drops to .15% or something like that.
 
 
 
