@@ -33,11 +33,6 @@ $largestProfit = 0;
 $largestLoss = 0;
 $tradeArray = array();
 
-$y = 0;
-$totalsells = 0;
-$totalShortProfit = 0;
-$totalLongProfit = 0;
-
 
 
 for ($i = 0; $i < count($timestamps); $i++) {
@@ -51,13 +46,6 @@ for ($i = 0; $i < count($timestamps); $i++) {
     $ema = calculateEMA($rsi, 14);
     $clop = clop($open, $close);
     $rsiema = rsiema($rsi[$i], $ema[$i]);
-
-    $openrsi = calculateRSI($opens, 14);
-    $openema = calculateEMA($openrsi, 14);
-    $openrsiema = rsiema($openrsi[$i], $openema[$i]);
-    
-
-    
 
 
     
@@ -77,7 +65,7 @@ for ($i = 0; $i < count($timestamps); $i++) {
     $stopLoss = 65;  //in basis points
     $stopLoss = ($stopLoss / 10000) + 1;
 
-    //Long Position Entry
+
     if ($rsiema == "GREEN" and $clop == "GREEN"){
         if ($x == 0){
             $x = 1;
@@ -115,17 +103,14 @@ for ($i = 0; $i < count($timestamps); $i++) {
             $maxLoss = ($low - $buy)/$buy * 100;
             $percent = $profit / $buy * 100;
             $totalprofit = $totalprofit + $profit;
-            $totalLongProfit = $totalLongProfit + $profit;
             echo "<tr><td colspan='9'>BUY: $buydate SELL: $selldate PROFIT: $profit PERCENT: $percent MAX: $maxProfit MIN: $maxLoss</td></tr>";
         }
-    } elseif ($openrsiema == "RED"  or $clop == "RED"){
+    } elseif ($rsiema == "RED"  or $clop == "RED"){
         if ($x == 1){
             $x = 0;
-            if ($open < $buy * (1/$stopLoss)){
+            if ($low < $buy * (1/$stopLoss)){
                 $sell = $open;
                 echo "<tr><td colspan='9'>STOP LOSS HIT RED: $sell, $date</td></tr>";
-                
-            
             }else {
                 $sell = $close;
                 echo "<tr><td colspan='9'>SELL AT CLOSE PRICE: $sell, $date</td></tr>";
@@ -135,7 +120,7 @@ for ($i = 0; $i < count($timestamps); $i++) {
             $tradeArray[] = $profit;
 
             if ($profit > 0){
-                $totalbuywins = $totalbuywins + 1; 
+                $totalbuywins = $totalbuywins + 1;
             }
 
             if ($profit > $largestProfit){
@@ -146,8 +131,6 @@ for ($i = 0; $i < count($timestamps); $i++) {
             }
 
             $totalprofit = $totalprofit + $profit;
-            $totalLongProfit = $totalLongProfit + $profit;
-
             $maxProfit = ($high - $buy)/$buy * 100;
             $maxLoss = ($low - $buy)/$buy * 100;
             $percent = $profit / $buy * 100;
